@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile288.png",
+"name": "Boomboxhead #288",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Lines"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Fancy"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "M3TV"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Ornate"
+	}	]
+}

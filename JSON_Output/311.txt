@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile311.png",
+"name": "Boomboxhead #311",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Lines"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "BrickWall"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Rekt"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork15"
+	}	]
+}

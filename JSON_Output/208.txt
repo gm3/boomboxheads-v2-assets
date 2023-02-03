@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile208.png",
+"name": "Boomboxhead #208",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Pink"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Float"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork11"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Crazyface"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork15"
+	}	]
+}

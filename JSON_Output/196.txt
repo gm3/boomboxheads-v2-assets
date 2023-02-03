@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile196.png",
+"name": "Boomboxhead #196",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purp"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance3"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Swirls"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Wolf"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork14"
+	}	]
+}

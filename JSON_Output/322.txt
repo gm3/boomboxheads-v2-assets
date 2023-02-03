@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile322.png",
+"name": "Boomboxhead #322",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Facemural"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Pink"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "OldWall"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Clouds"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Swirls"
+	}	]
+}

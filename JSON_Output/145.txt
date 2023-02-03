@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile145.png",
+"name": "Boomboxhead #145",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Facemural"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Tags"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Boxing"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Cyberpunk"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Smiles"
+	},
+	{
+		"trait_type": "Border",
+		"value": "BrickWall"
+	}	]
+}

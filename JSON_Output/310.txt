@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile310.png",
+"name": "Boomboxhead #310",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purple"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Steel"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Ahhh"
+	},
+	{
+		"trait_type": "Border",
+		"value": "RustSteel"
+	}	]
+}

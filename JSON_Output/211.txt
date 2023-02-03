@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile211.png",
+"name": "Boomboxhead #211",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Detour"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "GreenSlime"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Grunge"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Stressed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork11"
+	}	]
+}

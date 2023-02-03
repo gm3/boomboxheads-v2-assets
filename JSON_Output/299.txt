@@ -1,0 +1,51 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile299.png",
+"name": "Boomboxhead #299",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpster"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Messy"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Point"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "GlitchBlue"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "CrazyGreen"
+	},
+	{
+		"trait_type": "Border",
+		"value": "GrungeWall"
+	}	]
+}

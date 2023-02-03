@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile401.png",
+"name": "Boomboxhead #401",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Phetta"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Boxing"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "GoldFlower"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Stressed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Swirls"
+	}	]
+}

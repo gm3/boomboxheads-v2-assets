@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile70.png",
+"name": "Boomboxhead #70",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Emptywall2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Split"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "WoodFloor"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Rekt"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork11"
+	}	]
+}

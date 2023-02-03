@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile107.png",
+"name": "Boomboxhead #107",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purp"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork2"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Crazyface"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Grunge"
+	}	]
+}

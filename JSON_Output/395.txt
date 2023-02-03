@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile395.png",
+"name": "Boomboxhead #395",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Emptywall2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Messy"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance6"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "GoldFlower"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "WideEyed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "BlueWall"
+	}	]
+}

@@ -1,0 +1,51 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile199.png",
+"name": "Boomboxhead #199",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural4"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "V2"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Gizmos"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Crazyface"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Grids"
+	}	]
+}

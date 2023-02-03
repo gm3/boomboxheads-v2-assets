@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile85.png",
+"name": "Boomboxhead #85",
+"attributes": [
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "NeonGreen"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Float"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Pebble"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "70ROY"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Pottery"
+	}	]
+}

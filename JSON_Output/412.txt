@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile412.png",
+"name": "Boomboxhead #412",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "BlueTags"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Wave"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "RustSteel"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Backwards"
+	},
+	{
+		"trait_type": "Border",
+		"value": "BlueWall"
+	}	]
+}

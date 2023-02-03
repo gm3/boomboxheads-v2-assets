@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile180.png",
+"name": "Boomboxhead #180",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Woodwall"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purple"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Liquid"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Rekt"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Ornate"
+	}	]
+}

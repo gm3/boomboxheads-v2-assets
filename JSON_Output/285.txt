@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile285.png",
+"name": "Boomboxhead #285",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Alley1"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Phetta"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance3"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork15"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Backwards"
+	},
+	{
+		"trait_type": "Border",
+		"value": "PinkSwirl"
+	}	]
+}

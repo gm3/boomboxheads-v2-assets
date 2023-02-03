@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile218.png",
+"name": "Boomboxhead #218",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural4"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Pink"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance6"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Liquid"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "M3TV"
+	},
+	{
+		"trait_type": "Border",
+		"value": "BrickWall"
+	}	]
+}

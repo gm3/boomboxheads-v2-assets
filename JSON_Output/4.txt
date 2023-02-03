@@ -1,0 +1,35 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile4.png",
+"name": "Boomboxhead #4",
+"attributes": [
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Greendumpster"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "YellowTags"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork10"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "WideEyed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork5"
+	}	]
+}

@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile74.png",
+"name": "Boomboxhead #74",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Minter"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Wave"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Ground"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Stressed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork13"
+	}	]
+}

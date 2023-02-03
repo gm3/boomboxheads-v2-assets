@@ -1,0 +1,51 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile321.png",
+"name": "Boomboxhead #321",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purple"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Look"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork12"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "WideEyed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork16"
+	}	]
+}

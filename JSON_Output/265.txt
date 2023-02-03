@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile265.png",
+"name": "Boomboxhead #265",
+"attributes": [
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Storefront"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Red"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Pottery"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Crazyface"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Fancy"
+	}	]
+}

@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile414.png",
+"name": "Boomboxhead #414",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Messy"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "LightWood"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Backwards"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork9"
+	}	]
+}

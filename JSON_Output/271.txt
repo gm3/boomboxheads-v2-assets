@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile271.png",
+"name": "Boomboxhead #271",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural5"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "NeonGreen"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Taunt"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "WoodFloor"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Dopey"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Moss"
+	}	]
+}

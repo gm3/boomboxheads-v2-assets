@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile341.png",
+"name": "Boomboxhead #341",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Red"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Wave"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Moss"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "YellowEyes"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Lucky"
+	}	]
+}

@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile48.png",
+"name": "Boomboxhead #48",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpster"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Painter"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Fancy"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "CrazyGreen"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork7"
+	}	]
+}

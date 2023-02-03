@@ -1,0 +1,35 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile71.png",
+"name": "Boomboxhead #71",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpster"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Wild"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance1"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork11"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Clouds"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Panels"
+	}	]
+}

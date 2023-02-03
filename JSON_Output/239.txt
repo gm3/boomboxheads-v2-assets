@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile239.png",
+"name": "Boomboxhead #239",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Split"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Eth"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "OpenSource"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Pebble"
+	}	]
+}

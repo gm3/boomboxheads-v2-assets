@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile290.png",
+"name": "Boomboxhead #290",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole3"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Buffed"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Walking"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Liquid"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Stressed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "GoldFlower"
+	}	]
+}

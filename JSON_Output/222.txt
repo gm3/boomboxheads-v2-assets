@@ -1,0 +1,47 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile222.png",
+"name": "Boomboxhead #222",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Electricbox"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "888"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Point"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Gizmos"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Smiles"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork1"
+	}	]
+}

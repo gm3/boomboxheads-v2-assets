@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile181.png",
+"name": "Boomboxhead #181",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "BlueTags"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Deco"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "YellowEyes"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Frozen"
+	}	]
+}

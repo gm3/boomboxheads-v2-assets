@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile73.png",
+"name": "Boomboxhead #73",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Painter"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance1"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "William"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "WideEyed"
+	},
+	{
+		"trait_type": "Border",
+		"value": "WoodFloor"
+	}	]
+}

@@ -1,0 +1,35 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile237.png",
+"name": "Boomboxhead #237",
+"attributes": [
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural5"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Street"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork5"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "YellowEyes"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Moss"
+	}	]
+}

@@ -1,0 +1,39 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile364.png",
+"name": "Boomboxhead #364",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural5"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Skele"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance1"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Lucky"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "HappyDude"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork10"
+	}	]
+}

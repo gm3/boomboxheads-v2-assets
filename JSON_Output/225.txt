@@ -1,0 +1,43 @@
+{ 
+"description": "420 Boomboxhead v2 NFTs",
+"external_url": "https://twitter.com/boomboxheads",
+"image": "https://www.ipfsreplacethis.com/imagefile225.png",
+"name": "Boomboxhead #225",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Couch"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Lines"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Look"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork4"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "M3TV"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Cyberpunk"
+	}	]
+}
