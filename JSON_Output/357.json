@@ -1,0 +1,49 @@
+{ 
+"name": "Boomboxhead #357",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile357.png",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Special",
+		"value": "GoldenTicket"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Yellow"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Joy"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork13"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "HappyDude"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Wall"
+	}	]
+}

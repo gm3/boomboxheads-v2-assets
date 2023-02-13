@@ -1,0 +1,53 @@
+{ 
+"name": "Boomboxhead #405",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile405.png",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Electricbox"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Purple"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Walking"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork1"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Dopey"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Swirls"
+	}	]
+}

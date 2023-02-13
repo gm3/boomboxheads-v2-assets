@@ -1,0 +1,53 @@
+{ 
+"name": "Boomboxhead #271",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile271.png",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Emptywall2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Yellow"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Taunt"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Lucky"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "CantSleep"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork5"
+	}	]
+}

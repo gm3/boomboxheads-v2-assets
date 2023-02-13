@@ -1,0 +1,49 @@
+{ 
+"name": "Boomboxhead #329",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile329.png",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Pink"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Float"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Frozen"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Backwards"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Artwork13"
+	}	]
+}

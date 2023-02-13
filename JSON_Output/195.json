@@ -1,0 +1,49 @@
+{ 
+"name": "Boomboxhead #195",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile195.png",
+"attributes": [
+	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Orange"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dismiss"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Wall"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "HappyDude"
+	},
+	{
+		"trait_type": "Border",
+		"value": "GlitchBlue"
+	}	]
+}

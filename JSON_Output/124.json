@@ -1,0 +1,49 @@
+{ 
+"name": "Boomboxhead #124",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile124.png",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole2"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "YellowTags"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Dance3"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Artwork1"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "70ROY"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Cyberpunk"
+	}	]
+}

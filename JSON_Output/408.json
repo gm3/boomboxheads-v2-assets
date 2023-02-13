@@ -1,0 +1,49 @@
+{ 
+"name": "Boomboxhead #408",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile408.png",
+"attributes": [
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural4"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "Lines"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Idle2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Gizmos"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Wolf"
+	},
+	{
+		"trait_type": "Border",
+		"value": "GoldFlower"
+	}	]
+}

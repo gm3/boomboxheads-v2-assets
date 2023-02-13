@@ -1,0 +1,41 @@
+{ 
+"name": "Boomboxhead #312",
+"created_by": "Boomboxhead",
+"external_url": "https://twitter.com/boomboxheads",
+"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"vrm_url": "vrm_url",
+"image": "https://www.ipfsreplacethis.com/imagefile312.png",
+"attributes": [
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Couch"
+	},
+	{
+		"trait_type": "BodyTexture",
+		"value": "GreenSlime"
+	},
+	{
+		"trait_type": "Pose",
+		"value": "Boxing"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Heart"
+	},
+	{
+		"trait_type": "BBTexture",
+		"value": "Wolf"
+	},
+	{
+		"trait_type": "Border",
+		"value": "Cyberpunk"
+	}	]
+}
