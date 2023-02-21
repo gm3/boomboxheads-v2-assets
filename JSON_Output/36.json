@@ -3,35 +3,43 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile36.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead36.vrm",
+"image": "https://www.replacethis.com/boomboxhead36.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Pole4"
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Heart"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork17"
 	}	]
 }

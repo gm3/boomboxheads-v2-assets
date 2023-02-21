@@ -3,20 +3,16 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile86.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead86.vrm",
+"image": "https://www.replacethis.com/boomboxhead86.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Scans",
@@ -24,22 +20,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Steel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "William"
 	}	]
 }

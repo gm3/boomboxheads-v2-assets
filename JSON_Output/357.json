@@ -3,47 +3,47 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile357.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead357.vrm",
+"image": "https://www.replacethis.com/boomboxhead357.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Special",
-		"value": "GoldenTicket"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Door"
+		"value": "Mural1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "LightWood"
 	}	]
 }

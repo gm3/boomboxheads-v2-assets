@@ -3,51 +3,43 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile5.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead5.vrm",
+"image": "https://www.replacethis.com/boomboxhead5.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Electricbox"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Heart"
 	}	]
 }

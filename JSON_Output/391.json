@@ -3,51 +3,47 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile391.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead391.vrm",
+"image": "https://www.replacethis.com/boomboxhead391.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Facemural"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "GoldFlower"
 	}	]
 }

@@ -3,39 +3,43 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile273.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead273.vrm",
+"image": "https://www.replacethis.com/boomboxhead273.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Greendumpster"
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork1"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Brick"
 	}	]
 }

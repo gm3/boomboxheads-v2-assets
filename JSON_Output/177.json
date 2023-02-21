@@ -3,51 +3,43 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile177.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead177.vrm",
+"image": "https://www.replacethis.com/boomboxhead177.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Pole2"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Brick"
 	}	]
 }

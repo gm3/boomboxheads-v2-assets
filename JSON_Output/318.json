@@ -3,44 +3,32 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile318.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead318.vrm",
+"image": "https://www.replacethis.com/boomboxhead318.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Alley3"
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RealGold"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -48,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Deco"
 	}	]
 }

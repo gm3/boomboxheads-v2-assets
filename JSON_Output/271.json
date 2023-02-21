@@ -3,51 +3,39 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile271.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead271.vrm",
+"image": "https://www.replacethis.com/boomboxhead271.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Lucky"
+		"value": "Liquid"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "BrickWall"
 	}	]
 }

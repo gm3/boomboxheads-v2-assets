@@ -3,47 +3,43 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile63.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead63.vrm",
+"image": "https://www.replacethis.com/boomboxhead63.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley3"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "WoodFloor"
 	}	]
 }

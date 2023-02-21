@@ -3,47 +3,51 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile297.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead297.vrm",
+"image": "https://www.replacethis.com/boomboxhead297.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "RustSteel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Brick"
 	}	]
 }

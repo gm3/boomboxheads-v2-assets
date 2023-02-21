@@ -3,47 +3,55 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile313.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead313.vrm",
+"image": "https://www.replacethis.com/boomboxhead313.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Godfrey"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"value": "Electricbox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Cyberpunk"
 	}	]
 }

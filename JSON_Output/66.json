@@ -3,16 +3,20 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "vrm_url",
-"image": "https://www.ipfsreplacethis.com/imagefile66.png",
+"vrm_url": "https://www.replacethis.com/boomboxhead66.vrm",
+"image": "https://www.replacethis.com/boomboxhead66.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,26 +24,26 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Mural1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pottery"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "OldWall"
 	}	]
 }
