@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,6 +40,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Artwork13"
 	}	]
 }

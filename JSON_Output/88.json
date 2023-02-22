@@ -7,39 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead88.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork7"
+		"value": "GoldFlower"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "BlueWall"
 	}	]
 }

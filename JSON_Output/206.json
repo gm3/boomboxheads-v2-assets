@@ -12,30 +12,42 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Special",
+		"value": "GoldenTicket"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Moss"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Smear"
 	}	]
 }

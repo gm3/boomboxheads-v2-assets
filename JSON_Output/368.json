@@ -7,24 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead368.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightWood"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -32,6 +32,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Eth"
 	}	]
 }

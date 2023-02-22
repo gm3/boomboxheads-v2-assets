@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Fancy"
+		"value": "GlitchBlue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "OldWall"
 	}	]
 }

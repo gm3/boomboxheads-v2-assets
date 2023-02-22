@@ -8,15 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,7 +28,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "GrungeWall"
 	}	]
 }

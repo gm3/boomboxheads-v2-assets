@@ -7,12 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead47.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,22 +20,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Artwork12"
 	}	]
 }

@@ -8,38 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork17"
+		"value": "LightWood"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Artwork7"
 	}	]
 }

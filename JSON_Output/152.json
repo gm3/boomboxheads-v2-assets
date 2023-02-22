@@ -7,36 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead152.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GoldFlower"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",

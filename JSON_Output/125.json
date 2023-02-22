@@ -7,35 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead125.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Scans",
+		"value": "Dumpsters"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BrickWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Trippy"
 	}	]
 }

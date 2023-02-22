@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead177.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "PinkSwirl"
 	}	]
 }

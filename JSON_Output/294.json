@@ -8,19 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -32,22 +32,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork4"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "GrungeWall"
 	}	]
 }

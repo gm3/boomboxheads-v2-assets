@@ -7,31 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead106.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
 		"trait_type": "Eyes",
 		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Smear"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork4"
 	}	]
 }

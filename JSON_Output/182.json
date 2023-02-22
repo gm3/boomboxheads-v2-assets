@@ -12,19 +12,31 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Moss"
 	}	]
 }

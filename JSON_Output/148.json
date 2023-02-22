@@ -8,19 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "William"
 	}	]
 }

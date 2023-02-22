@@ -7,16 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead287.jpg",
 "attributes": [
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -24,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "AbstractPaint"
 	}	]
 }

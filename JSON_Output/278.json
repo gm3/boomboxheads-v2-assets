@@ -8,42 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GoldFlower"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "PinkSwirl"
 	}	]
 }

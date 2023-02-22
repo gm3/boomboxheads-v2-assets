@@ -7,12 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead39.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,19 +20,15 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "GoldenTicket"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Smear"
 	}	]
 }

@@ -7,20 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead114.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +20,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Lucky"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Cyberpunk"
 	}	]
 }

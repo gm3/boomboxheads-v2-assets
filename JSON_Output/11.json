@@ -7,32 +7,32 @@
 "image": "https://www.replacethis.com/boomboxhead11.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "3d"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Studio"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "PinkSwirl"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +40,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "BlueWall"
 	}	]
 }

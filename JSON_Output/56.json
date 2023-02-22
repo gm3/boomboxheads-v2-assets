@@ -8,34 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Gizmos"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Artwork13"
 	}	]
 }

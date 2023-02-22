@@ -8,31 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Artwork14"
 	}	]
 }

@@ -8,23 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "RustSteel"
 	}	]
 }

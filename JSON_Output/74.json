@@ -7,35 +7,47 @@
 "image": "https://www.replacethis.com/boomboxhead74.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Emptywall2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BrickWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "William"
 	}	]
 }

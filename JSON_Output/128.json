@@ -8,42 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "Smear"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Steel"
 	}	]
 }

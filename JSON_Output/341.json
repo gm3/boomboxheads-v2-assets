@@ -7,20 +7,32 @@
 "image": "https://www.replacethis.com/boomboxhead341.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
@@ -28,14 +40,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork12"
+		"value": "Ornate"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Artwork4"
 	}	]
 }

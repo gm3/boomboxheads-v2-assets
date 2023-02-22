@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,38 +16,38 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Roadblock"
+		"value": "Boxes"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork3"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "BlueWall"
 	}	]
 }

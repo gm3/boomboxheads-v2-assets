@@ -12,23 +12,15 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Artwork6"
 	}	]
 }

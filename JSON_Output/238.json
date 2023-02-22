@@ -8,19 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "OldWall"
 	}	]
 }

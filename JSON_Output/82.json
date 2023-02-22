@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,30 +20,30 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Steel"
 	}	]
 }

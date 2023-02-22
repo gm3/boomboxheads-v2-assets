@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Back",
 		"value": "MetaRickBox"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "Facemural"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Artwork17"
 	}	]
 }

@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"value": "Couch"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grunge"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Grunge"
 	}	]
 }

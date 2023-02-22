@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Fancy"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Cyberpunk"
 	}	]
 }

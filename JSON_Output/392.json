@@ -8,15 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
@@ -28,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork13"
 	}	]
 }

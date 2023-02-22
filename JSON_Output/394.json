@@ -7,20 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead394.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork7"
 	}	]
 }

@@ -8,27 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -36,7 +32,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Grunge"
 	}	]
 }

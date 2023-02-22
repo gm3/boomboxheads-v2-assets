@@ -7,32 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead75.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"trait_type": "Hat",
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Trash"
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Artwork1"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "BrickWall"
 	}	]
 }

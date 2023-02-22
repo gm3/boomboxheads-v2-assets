@@ -7,28 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead121.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +28,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Ground"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Panels"
 	}	]
 }

@@ -7,35 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead271.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Hat",
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "Pole4"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Liquid"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork15"
 	}	]
 }

@@ -7,31 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead37.jpg",
 "attributes": [
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "William"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Artwork14"
 	}	]
 }

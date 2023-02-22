@@ -8,19 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,18 +28,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Cyberpunk"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Artwork3"
 	}	]
 }

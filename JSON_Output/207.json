@@ -7,43 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead207.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Trash"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GoldFlower"
+		"value": "Brick"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "GoldFlower"
 	}	]
 }

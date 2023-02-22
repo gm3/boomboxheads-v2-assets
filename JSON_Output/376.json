@@ -8,31 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "PinkSwirl"
 	}	]
 }

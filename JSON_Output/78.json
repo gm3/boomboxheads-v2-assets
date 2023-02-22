@@ -7,12 +7,8 @@
 "image": "https://www.replacethis.com/boomboxhead78.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,30 +16,30 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Wall"
+		"value": "Artwork8"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Frozen"
 	}	]
 }

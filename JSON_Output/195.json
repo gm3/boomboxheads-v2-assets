@@ -7,16 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead195.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "BrickWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Grids"
 	}	]
 }

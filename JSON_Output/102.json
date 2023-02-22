@@ -8,15 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,30 +24,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Smear"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "BrickWall"
 	}	]
 }

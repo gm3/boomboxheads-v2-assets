@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork17"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "OldWall"
 	}	]
 }

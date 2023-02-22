@@ -8,42 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork14"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Pebble"
 	}	]
 }

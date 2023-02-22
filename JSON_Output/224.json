@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Scans",
+		"value": "Studio"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork5"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Lucky"
 	}	]
 }

@@ -8,23 +8,39 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "Pole3"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +48,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "BlueWall"
 	}	]
 }

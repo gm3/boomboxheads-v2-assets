@@ -7,20 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead61.jpg",
 "attributes": [
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Mural"
+		"value": "Trash"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Heart"
 	}	]
 }

@@ -7,35 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead369.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork16"
+		"value": "Panels"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Fancy"
 	}	]
 }

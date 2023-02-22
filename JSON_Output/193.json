@@ -8,31 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "LightWood"
 	}	]
 }

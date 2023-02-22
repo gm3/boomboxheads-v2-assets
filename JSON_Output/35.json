@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
@@ -27,23 +27,27 @@
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Artwork6"
 	}	]
 }

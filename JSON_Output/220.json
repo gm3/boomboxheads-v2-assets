@@ -7,16 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead220.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork5"
+		"value": "Panels"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Swirls"
 	}	]
 }

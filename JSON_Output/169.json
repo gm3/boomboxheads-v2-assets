@@ -7,12 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead169.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,22 +20,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "OldWall"
+		"value": "BrickWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork4"
 	}	]
 }

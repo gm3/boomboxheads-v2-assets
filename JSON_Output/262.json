@@ -8,27 +8,39 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +48,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Ground"
 	}	]
 }

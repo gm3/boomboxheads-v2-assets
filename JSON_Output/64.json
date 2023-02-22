@@ -7,32 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead64.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Key"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpsters2"
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "RealGold"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Panels"
 	}	]
 }

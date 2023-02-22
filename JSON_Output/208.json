@@ -7,16 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead208.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +28,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork5"
+		"value": "Brick"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Heart"
 	}	]
 }

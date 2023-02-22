@@ -7,32 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead370.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork16"
 	}	]
 }

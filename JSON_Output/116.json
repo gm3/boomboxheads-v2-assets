@@ -7,32 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead116.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
 		"trait_type": "Scans",
-		"value": "Studio"
+		"value": "Storefront"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Ornate"
 	}	]
 }

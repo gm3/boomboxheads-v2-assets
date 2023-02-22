@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "BlueWall"
 	}	]
 }

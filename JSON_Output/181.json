@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Panels"
 	}	]
 }

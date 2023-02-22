@@ -7,16 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead131.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -32,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "OldWall"
 	}	]
 }

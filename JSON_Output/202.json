@@ -7,31 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead202.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Deco"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "WoodFloor"
 	}	]
 }

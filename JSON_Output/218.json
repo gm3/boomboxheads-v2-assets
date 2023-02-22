@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork5"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Pottery"
 	}	]
 }

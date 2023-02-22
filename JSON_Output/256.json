@@ -7,28 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead256.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Alley2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "AbstractPaint"
 	}	]
 }

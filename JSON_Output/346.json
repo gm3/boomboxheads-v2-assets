@@ -8,46 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Lucky"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Trippy"
 	}	]
 }

@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Lucky"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork4"
 	}	]
 }

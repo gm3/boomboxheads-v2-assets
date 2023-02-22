@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead295.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Emptywall2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BlueWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Cyberpunk"
 	}	]
 }

@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Scans",
+		"value": "Detour"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Pebble"
 	}	]
 }

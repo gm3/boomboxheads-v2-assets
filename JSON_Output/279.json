@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork12"
 	}	]
 }

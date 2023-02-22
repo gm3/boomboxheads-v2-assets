@@ -7,47 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead280.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "AlteredEvil"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Dumpsters2"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork6"
+		"value": "Heart"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Liquid"
 	}	]
 }

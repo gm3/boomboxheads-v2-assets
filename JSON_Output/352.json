@@ -8,31 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Artwork10"
 	}	]
 }

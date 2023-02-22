@@ -7,20 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead389.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Frozen"
 	}	]
 }

@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "AbstractPaint"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "AbstractPaint"
 	}	]
 }

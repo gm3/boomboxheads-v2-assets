@@ -7,32 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead363.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Scans",
+		"value": "Emptywall2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,6 +32,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Artwork4"
 	}	]
 }

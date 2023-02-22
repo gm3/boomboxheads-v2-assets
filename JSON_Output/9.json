@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Trippy"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Cyberpunk"
 	}	]
 }

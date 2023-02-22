@@ -7,39 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead204.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Liquid"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "WoodFloor"
 	}	]
 }

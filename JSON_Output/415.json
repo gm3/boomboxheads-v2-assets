@@ -7,20 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead415.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,15 +24,15 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Pole2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Liquid"
 	}	]
 }

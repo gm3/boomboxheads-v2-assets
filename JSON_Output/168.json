@@ -8,39 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Greendumpster"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ground"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -48,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "RustSteel"
 	}	]
 }

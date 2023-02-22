@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "OldWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Lucky"
 	}	]
 }

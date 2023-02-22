@@ -7,35 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead285.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "William"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Artwork6"
 	}	]
 }

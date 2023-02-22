@@ -7,20 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead130.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "Back",
@@ -28,11 +28,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Frozen"
 	}	]
 }

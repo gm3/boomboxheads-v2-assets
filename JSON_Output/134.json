@@ -7,16 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead134.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork4"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork9"
 	}	]
 }

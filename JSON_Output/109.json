@@ -8,19 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,7 +36,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Cyberpunk"
 	}	]
 }

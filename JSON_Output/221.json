@@ -7,32 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead221.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "X"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork4"
 	}	]
 }

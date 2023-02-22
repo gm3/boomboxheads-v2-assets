@@ -8,31 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Panels"
 	}	]
 }

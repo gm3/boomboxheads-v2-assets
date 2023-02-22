@@ -8,23 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +28,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork8"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Artwork12"
 	}	]
 }

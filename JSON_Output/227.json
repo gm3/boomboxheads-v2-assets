@@ -8,7 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
@@ -16,19 +24,23 @@
 	},
 	{
 		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Smear"
+		"value": "Cyberpunk"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -36,6 +48,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "PinkSwirl"
 	}	]
 }

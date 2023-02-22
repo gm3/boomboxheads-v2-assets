@@ -7,35 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead33.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "PinkSwirl"
+		"value": "Panels"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Fancy"
 	}	]
 }

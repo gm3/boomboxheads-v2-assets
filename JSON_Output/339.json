@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "OldWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "OldWall"
 	}	]
 }

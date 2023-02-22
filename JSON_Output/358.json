@@ -8,38 +8,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley3"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "RustSteel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Grunge"
 	}	]
 }

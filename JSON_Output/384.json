@@ -7,32 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead384.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Swirls"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Wall"
 	}	]
 }

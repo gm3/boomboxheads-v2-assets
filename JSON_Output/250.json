@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead250.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,26 +24,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "Eth"
 	}	]
 }

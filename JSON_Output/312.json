@@ -7,8 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead312.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,11 +24,7 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "Scans",
@@ -32,11 +32,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Artwork1"
 	}	]
 }

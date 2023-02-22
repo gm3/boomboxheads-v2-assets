@@ -8,19 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +28,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ground"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "Frozen"
 	}	]
 }

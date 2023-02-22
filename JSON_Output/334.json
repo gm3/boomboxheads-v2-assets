@@ -8,15 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,7 +16,7 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -32,18 +24,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Cyberpunk"
+		"value": "Frozen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Artwork4"
 	}	]
 }

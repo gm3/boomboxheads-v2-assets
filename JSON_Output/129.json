@@ -7,31 +7,47 @@
 "image": "https://www.replacethis.com/boomboxhead129.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Wall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Steel"
 	}	]
 }

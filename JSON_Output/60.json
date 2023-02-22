@@ -12,30 +12,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Roadblock"
+		"value": "Trash"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Fancy"
 	}	]
 }

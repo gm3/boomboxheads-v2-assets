@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley2"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Deco"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Brick"
 	}	]
 }

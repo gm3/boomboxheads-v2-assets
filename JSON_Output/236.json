@@ -8,19 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Ground"
 	}	]
 }

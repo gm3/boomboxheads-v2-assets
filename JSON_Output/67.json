@@ -11,20 +11,20 @@
 		"value": "Tape"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Steel"
 	}	]
 }

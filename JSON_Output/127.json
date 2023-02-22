@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead127.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork8"
 	}	]
 }

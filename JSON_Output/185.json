@@ -8,27 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BlueWall"
+		"value": "Artwork9"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork16"
 	}	]
 }

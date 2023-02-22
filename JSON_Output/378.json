@@ -7,36 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead378.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Back",
 		"value": "MetaRickBox"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "InteriorWall"
 	}	]
 }

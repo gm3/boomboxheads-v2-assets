@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Artwork15"
 	}	]
 }

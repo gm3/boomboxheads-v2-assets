@@ -8,38 +8,50 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Roadblock"
+		"value": "Electricbox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Liquid"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Lucky"
 	}	]
 }

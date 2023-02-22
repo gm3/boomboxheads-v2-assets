@@ -8,50 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Back",
 		"value": "MetaRickBox"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Alley2"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Panels"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "RustSteel"
 	}	]
 }

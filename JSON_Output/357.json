@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Mural1"
+		"value": "Mural5"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Trippy"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Cyberpunk"
 	}	]
 }

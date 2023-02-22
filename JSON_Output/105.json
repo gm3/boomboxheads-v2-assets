@@ -8,23 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Scans",
@@ -32,22 +32,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "OldWall"
 	}	]
 }

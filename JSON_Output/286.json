@@ -8,7 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
@@ -16,11 +20,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "BlueWall"
 	}	]
 }

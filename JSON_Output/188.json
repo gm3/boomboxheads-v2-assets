@@ -8,27 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork16"
+		"value": "Artwork13"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -36,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Deco"
 	}	]
 }

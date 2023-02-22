@@ -7,36 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead77.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Alley2"
+		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "GlitchBlue"
 	}	]
 }

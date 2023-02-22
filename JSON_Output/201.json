@@ -8,15 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,18 +32,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Swirls"
+		"value": "InteriorWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Frozen"
 	}	]
 }

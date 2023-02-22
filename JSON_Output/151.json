@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BrickWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Artwork14"
 	}	]
 }

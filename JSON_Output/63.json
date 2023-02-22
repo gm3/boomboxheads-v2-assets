@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
@@ -19,27 +19,31 @@
 		"value": "Axe"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pebble"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "William"
 	}	]
 }

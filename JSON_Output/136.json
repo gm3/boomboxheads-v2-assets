@@ -8,15 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,22 +28,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Wall"
+		"value": "Ground"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Trippy"
 	}	]
 }

@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead120.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,15 +24,19 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Frozen"
 	}	]
 }

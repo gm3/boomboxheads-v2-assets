@@ -12,34 +12,42 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "Door"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Heart"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "William"
 	}	]
 }

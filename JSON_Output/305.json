@@ -7,39 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead305.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightWood"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Pottery"
 	}	]
 }

@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Scans",
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,7 +36,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",

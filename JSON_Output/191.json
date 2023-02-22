@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Tape"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Grids"
 	}	]
 }

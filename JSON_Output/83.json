@@ -7,12 +7,8 @@
 "image": "https://www.replacethis.com/boomboxhead83.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,30 +16,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpsters2"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork13"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "GlitchBlue"
 	}	]
 }

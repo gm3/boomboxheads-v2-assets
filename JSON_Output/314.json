@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Eth"
 	}	]
 }

@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural5"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork10"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Artwork13"
 	}	]
 }

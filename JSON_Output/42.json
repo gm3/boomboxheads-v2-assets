@@ -16,19 +16,27 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork4"
 	}	]
 }

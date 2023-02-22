@@ -7,20 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead57.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,18 +20,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Brick"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "GoldFlower"
 	}	]
 }

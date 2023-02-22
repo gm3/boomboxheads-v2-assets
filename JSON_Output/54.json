@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead54.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Cyberpunk"
 	}	]
 }

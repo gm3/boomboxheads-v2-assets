@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Pole4"
+		"value": "Alley2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Artwork11"
 	}	]
 }

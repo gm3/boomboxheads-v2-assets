@@ -12,19 +12,19 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pottery"
+		"value": "Fancy"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Pottery"
 	}	]
 }

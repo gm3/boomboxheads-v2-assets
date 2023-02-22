@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,7 +20,7 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +28,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Fancy"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Trippy"
 	}	]
 }

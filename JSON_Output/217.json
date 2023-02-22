@@ -7,31 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead217.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Hat",
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Lucky"
 	}	]
 }

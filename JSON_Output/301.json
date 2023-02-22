@@ -7,16 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead301.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Back",
@@ -24,15 +32,15 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Storefront"
+		"value": "Pole3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +48,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "WoodFloor"
 	}	]
 }

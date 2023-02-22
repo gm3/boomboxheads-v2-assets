@@ -7,12 +7,8 @@
 "image": "https://www.replacethis.com/boomboxhead13.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,11 +20,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Heart"
 	}	]
 }

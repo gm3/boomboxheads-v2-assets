@@ -8,15 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pebble"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Artwork10"
 	}	]
 }

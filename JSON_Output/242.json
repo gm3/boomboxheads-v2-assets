@@ -7,35 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead242.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "LightWood"
 	}	]
 }

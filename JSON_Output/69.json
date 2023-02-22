@@ -7,8 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead69.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
@@ -23,16 +27,16 @@
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"trait_type": "Back",
+		"value": "MetaRickBox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Smear"
 	}	]
 }

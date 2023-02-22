@@ -7,39 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead303.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Frozen"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Swirls"
 	}	]
 }

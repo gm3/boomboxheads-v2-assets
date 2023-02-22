@@ -7,31 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead268.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "InteriorWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "Artwork9"
 	}	]
 }

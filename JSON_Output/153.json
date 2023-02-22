@@ -7,35 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead153.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork4"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Artwork13"
 	}	]
 }

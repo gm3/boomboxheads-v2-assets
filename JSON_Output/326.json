@@ -7,16 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead326.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
 		"trait_type": "Eyes",
 		"value": "Neo"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
@@ -24,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Artwork9"
 	}	]
 }

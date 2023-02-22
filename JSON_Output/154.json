@@ -8,34 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Heart"
 	}	]
 }

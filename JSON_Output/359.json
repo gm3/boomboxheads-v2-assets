@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural5"
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork8"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork13"
 	}	]
 }

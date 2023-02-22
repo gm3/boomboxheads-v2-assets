@@ -7,16 +7,8 @@
 "image": "https://www.replacethis.com/boomboxhead366.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,26 +16,26 @@
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Wall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork12"
 	}	]
 }

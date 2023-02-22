@@ -8,15 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +32,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork15"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "OldWall"
 	}	]
 }

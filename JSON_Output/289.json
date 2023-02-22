@@ -8,46 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ornate"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Grunge"
 	}	]
 }

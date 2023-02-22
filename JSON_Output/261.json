@@ -7,32 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead261.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Screws"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Grids"
 	}	]
 }

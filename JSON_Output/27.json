@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,7 +24,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Pottery"
 	}	]
 }

@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Tape"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Key"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
 		"trait_type": "Scans",
-		"value": "Door"
+		"value": "Pole3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grunge"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork15"
 	}	]
 }

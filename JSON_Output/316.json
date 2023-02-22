@@ -8,34 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole4"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork1"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Trippy"
 	}	]
 }

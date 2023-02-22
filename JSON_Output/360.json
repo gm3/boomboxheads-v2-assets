@@ -8,23 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Door2"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,7 +32,7 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grunge"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +40,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "GlitchBlue"
 	}	]
 }

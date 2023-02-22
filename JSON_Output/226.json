@@ -8,46 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Brick"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Pebble"
 	}	]
 }

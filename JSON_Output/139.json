@@ -7,20 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead139.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,7 +24,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Fancy"
 	}	]
 }

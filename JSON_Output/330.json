@@ -7,28 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead330.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Smiley"
 	},
 	{
+		"trait_type": "Back",
+		"value": "MetaRickBox"
+	},
+	{
 		"trait_type": "Scans",
-		"value": "Studio"
+		"value": "Door"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Brick"
 	}	]
 }
