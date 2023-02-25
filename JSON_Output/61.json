@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Trash"
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Trippy"
 	}	]
 }

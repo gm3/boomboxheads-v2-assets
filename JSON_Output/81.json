@@ -7,28 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead81.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +28,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Pebble"
 	}	]
 }

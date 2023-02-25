@@ -8,15 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,26 +20,26 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Studio"
+		"value": "Electricbox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork5"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Artwork13"
 	}	]
 }

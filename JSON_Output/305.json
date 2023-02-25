@@ -7,35 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead305.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Electricbox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightWood"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Cyberpunk"
 	}	]
 }

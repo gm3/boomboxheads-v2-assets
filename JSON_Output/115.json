@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork12"
 	}	]
 }

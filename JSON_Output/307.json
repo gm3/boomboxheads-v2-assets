@@ -12,11 +12,11 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,19 +24,19 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -48,6 +48,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Liquid"
 	}	]
 }

@@ -8,42 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Pole4"
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "BlueWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "PinkSwirl"
 	}	]
 }

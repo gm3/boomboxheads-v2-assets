@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "BrickWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "BrickWall"
 	}	]
 }

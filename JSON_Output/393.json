@@ -8,34 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork1"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork8"
 	}	]
 }

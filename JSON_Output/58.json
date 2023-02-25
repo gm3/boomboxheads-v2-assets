@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead58.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork2"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "White"
 	}	]
 }

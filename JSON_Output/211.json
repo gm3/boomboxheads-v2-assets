@@ -7,39 +7,27 @@
 "image": "https://www.replacethis.com/boomboxhead211.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "OldWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Fancy"
 	}	]
 }

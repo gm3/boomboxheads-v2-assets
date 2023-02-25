@@ -7,39 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead162.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley2"
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "AbstractPaint"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Swirls"
 	}	]
 }

@@ -7,16 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead243.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,18 +28,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ornate"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Artwork7"
 	}	]
 }

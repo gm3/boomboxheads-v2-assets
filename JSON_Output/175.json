@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead175.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "InteriorWall"
 	}	]
 }

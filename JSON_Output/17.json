@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Wall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork7"
 	}	]
 }

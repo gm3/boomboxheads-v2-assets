@@ -8,15 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -24,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "William"
 	}	]
 }

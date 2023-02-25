@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,26 +20,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Lucky"
 	}	]
 }

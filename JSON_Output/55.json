@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Detour"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "PinkSwirl"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Swirls"
 	}	]
 }

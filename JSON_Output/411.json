@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead411.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork11"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork6"
 	}	]
 }

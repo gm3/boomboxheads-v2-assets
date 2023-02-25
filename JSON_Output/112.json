@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork15"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Gizmos"
 	}	]
 }

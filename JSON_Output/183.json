@@ -8,42 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Steel"
 	}	]
 }

@@ -8,19 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Artwork9"
 	}	]
 }

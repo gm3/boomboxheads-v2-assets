@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Artwork10"
 	}	]
 }

@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Lucky"
 	}	]
 }

@@ -8,42 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Storefront"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Swirls"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Liquid"
 	}	]
 }

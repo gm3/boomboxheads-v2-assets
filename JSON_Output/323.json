@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "InteriorWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Artwork7"
 	}	]
 }

@@ -7,32 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead297.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
@@ -44,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork11"
 	}	]
 }

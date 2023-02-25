@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Cyberpunk"
 	}	]
 }

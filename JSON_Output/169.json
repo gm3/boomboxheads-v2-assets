@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead169.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BrickWall"
+		"value": "Artwork4"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Brick"
 	}	]
 }

@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Artwork6"
 	}	]
 }

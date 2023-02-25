@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork8"
 	}	]
 }

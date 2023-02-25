@@ -8,35 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "RealGold"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "InteriorWall"
+		"value": "Artwork13"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -44,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork1"
 	}	]
 }

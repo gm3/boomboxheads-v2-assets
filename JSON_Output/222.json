@@ -7,39 +7,27 @@
 "image": "https://www.replacethis.com/boomboxhead222.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
 		"trait_type": "Eyes",
 		"value": "Zoom"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "WoodFloor"
 	}	]
 }

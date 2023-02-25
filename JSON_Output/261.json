@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +24,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork15"
 	}	]
 }

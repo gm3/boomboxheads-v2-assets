@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Wall"
 	}	]
 }

@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,31 +16,19 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Mural4"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -48,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "WoodFloor"
 	}	]
 }

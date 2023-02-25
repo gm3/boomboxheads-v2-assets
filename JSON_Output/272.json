@@ -7,39 +7,51 @@
 "image": "https://www.replacethis.com/boomboxhead272.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Greendumpster"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Eth"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Artwork14"
 	}	]
 }

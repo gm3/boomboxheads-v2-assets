@@ -8,27 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork4"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -36,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "Liquid"
 	}	]
 }

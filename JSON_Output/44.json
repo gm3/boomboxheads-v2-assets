@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead44.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Fancy"
+		"value": "Artwork4"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Brick"
 	}	]
 }

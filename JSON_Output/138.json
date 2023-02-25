@@ -8,34 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork14"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Artwork6"
 	}	]
 }

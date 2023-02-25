@@ -12,34 +12,30 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "Artwork1"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork4"
 	}	]
 }

@@ -8,27 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "OldWall"
 	}	]
 }

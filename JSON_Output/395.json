@@ -7,20 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead395.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Back",
@@ -28,11 +28,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "BrickWall"
 	}	]
 }

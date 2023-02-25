@@ -8,27 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Arrow"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,7 +44,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",

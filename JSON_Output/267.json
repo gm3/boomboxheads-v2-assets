@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead267.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "BlueWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Smear"
 	}	]
 }

@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,26 +20,30 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "InteriorWall"
 	}	]
 }

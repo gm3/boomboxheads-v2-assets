@@ -8,15 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,11 +24,15 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +40,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork2"
+		"value": "Artwork4"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork3"
+		"value": "Deco"
 	}	]
 }

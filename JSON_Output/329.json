@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead329.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork2"
 	}	]
 }

@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,26 +20,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "AbstractPaint"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork13"
 	}	]
 }

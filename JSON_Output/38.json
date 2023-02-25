@@ -8,35 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Mural5"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "William"
 	}	]
 }

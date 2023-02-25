@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GlitchBlue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Brick"
 	}	]
 }

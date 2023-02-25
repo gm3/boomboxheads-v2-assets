@@ -8,31 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Facemural"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Artwork15"
 	}	]
 }

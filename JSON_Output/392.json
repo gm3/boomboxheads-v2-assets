@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Fancy"
 	}	]
 }

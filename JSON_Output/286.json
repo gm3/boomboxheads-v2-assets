@@ -7,35 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead286.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Smile"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Scans",
+		"value": "Studio"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Cyberpunk"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Trippy"
 	}	]
 }

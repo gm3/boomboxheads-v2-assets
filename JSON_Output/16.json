@@ -7,16 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead16.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,18 +24,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Lucky"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Lucky"
 	}	]
 }

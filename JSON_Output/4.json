@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead4.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Studio"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Cyberpunk"
 	}	]
 }

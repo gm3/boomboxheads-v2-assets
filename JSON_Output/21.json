@@ -12,11 +12,11 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
@@ -32,18 +32,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Smear"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Moss"
 	}	]
 }

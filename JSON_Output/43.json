@@ -11,12 +11,12 @@
 		"value": "Bubble"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,11 +24,11 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork3"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -36,6 +36,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Wall"
 	}	]
 }

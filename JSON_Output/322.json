@@ -7,43 +7,27 @@
 "image": "https://www.replacethis.com/boomboxhead322.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "OldWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork5"
 	}	]
 }

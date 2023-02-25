@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead208.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Artwork16"
 	}	]
 }

@@ -12,27 +12,23 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Scans",
+		"value": "Studio"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork13"
 	}	]
 }

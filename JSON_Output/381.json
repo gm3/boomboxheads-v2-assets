@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,30 +20,34 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BrickWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "DarkRed"
 	}	]
 }

@@ -8,35 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Pole3"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Trippy"
 	}	]
 }

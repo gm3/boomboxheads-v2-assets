@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "InteriorWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Artwork4"
 	}	]
 }

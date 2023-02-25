@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,23 +16,27 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Boxes"
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Brick"
 	}	]
 }

@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,38 +16,30 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Swirls"
 	}	]
 }

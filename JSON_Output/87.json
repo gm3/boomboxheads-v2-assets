@@ -7,36 +7,40 @@
 "image": "https://www.replacethis.com/boomboxhead87.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Scans",
+		"value": "Couch"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "InteriorWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",

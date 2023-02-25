@@ -8,46 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Smear"
 	}	]
 }

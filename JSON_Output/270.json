@@ -8,31 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Scans",
+		"value": "Door"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,6 +48,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Artwork9"
 	}	]
 }

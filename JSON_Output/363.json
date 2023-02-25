@@ -7,20 +7,32 @@
 "image": "https://www.replacethis.com/boomboxhead363.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"value": "Alley2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,6 +44,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Artwork9"
 	}	]
 }

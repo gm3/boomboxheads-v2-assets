@@ -7,43 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead354.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Steel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "William"
 	}	]
 }

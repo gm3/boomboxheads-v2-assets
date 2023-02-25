@@ -7,43 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead351.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "AbstractPaint"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "Wall"
 	}	]
 }

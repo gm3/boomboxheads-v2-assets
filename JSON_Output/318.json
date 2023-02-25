@@ -8,31 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Boxes"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Artwork17"
 	}	]
 }

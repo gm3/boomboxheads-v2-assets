@@ -7,24 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead86.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Alley3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Fancy"
 	}	]
 }

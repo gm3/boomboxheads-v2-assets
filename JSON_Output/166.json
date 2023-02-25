@@ -8,38 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "PinkSwirl"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Eth"
 	}	]
 }

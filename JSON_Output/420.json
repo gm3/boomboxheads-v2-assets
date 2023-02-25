@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "RustSteel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Artwork16"
 	}	]
 }

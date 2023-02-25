@@ -7,39 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead298.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Frozen"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Pottery"
 	}	]
 }

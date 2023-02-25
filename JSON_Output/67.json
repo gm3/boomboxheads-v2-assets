@@ -7,12 +7,8 @@
 "image": "https://www.replacethis.com/boomboxhead67.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,11 +16,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Cyberpunk"
 	}	]
 }

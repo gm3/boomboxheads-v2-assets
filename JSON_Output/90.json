@@ -7,20 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead90.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Signal"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Clout"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Back",
@@ -28,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Artwork16"
 	}	]
 }

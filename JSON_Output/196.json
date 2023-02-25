@@ -8,19 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,18 +32,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Artwork9"
 	}	]
 }

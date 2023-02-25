@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Dials"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork12"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "White"
 	}	]
 }

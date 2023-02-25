@@ -8,38 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "White"
 	}	]
 }

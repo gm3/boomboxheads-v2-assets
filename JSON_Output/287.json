@@ -7,16 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead287.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Signal"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
@@ -24,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Moss"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "PinkSwirl"
 	}	]
 }

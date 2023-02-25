@@ -8,23 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Grunge"
 	}	]
 }

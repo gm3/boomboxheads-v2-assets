@@ -8,15 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "Scans",
@@ -24,11 +36,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +48,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Artwork15"
 	}	]
 }

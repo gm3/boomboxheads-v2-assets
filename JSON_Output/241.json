@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "WoodFloor"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Steel"
 	}	]
 }

@@ -7,39 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead396.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork11"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Trippy"
 	}	]
 }

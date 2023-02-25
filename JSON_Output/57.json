@@ -7,31 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead57.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "Ornate"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Smear"
 	}	]
 }

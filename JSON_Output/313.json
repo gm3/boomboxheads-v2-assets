@@ -7,28 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead313.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Pottery"
 	}	]
 }

@@ -7,47 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead340.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Pottery"
 	}	]
 }

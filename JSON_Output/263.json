@@ -8,11 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
@@ -23,16 +23,20 @@
 		"value": "Sword"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Grids"
 	}	]
 }

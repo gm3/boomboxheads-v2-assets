@@ -8,38 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Liquid"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Eth"
 	}	]
 }

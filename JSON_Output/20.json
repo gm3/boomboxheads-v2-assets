@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
@@ -20,15 +20,19 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Grids"
 	}	]
 }

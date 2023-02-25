@@ -11,28 +11,12 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Door"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
@@ -44,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Artwork10"
 	}	]
 }

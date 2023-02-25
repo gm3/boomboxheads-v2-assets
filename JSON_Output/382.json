@@ -7,16 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead382.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,15 +28,15 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Mural4"
+		"value": "Electricbox"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Heart"
 	}	]
 }

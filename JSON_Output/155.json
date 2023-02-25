@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Eyes",
@@ -16,23 +16,19 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Artwork13"
 	}	]
 }

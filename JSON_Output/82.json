@@ -8,23 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -32,18 +24,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Frozen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Liquid"
 	}	]
 }

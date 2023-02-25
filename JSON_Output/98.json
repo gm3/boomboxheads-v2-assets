@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Trash"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "GlitchBlue"
 	}	]
 }

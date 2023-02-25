@@ -8,27 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Artwork14"
 	}	]
 }

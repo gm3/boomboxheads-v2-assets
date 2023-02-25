@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,34 +16,38 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Heart"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork6"
 	}	]
 }

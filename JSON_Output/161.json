@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Pole3"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
@@ -36,14 +36,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "InteriorWall"
 	}	]
 }

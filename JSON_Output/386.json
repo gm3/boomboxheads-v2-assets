@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead386.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Alley1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Deco"
 	}	]
 }

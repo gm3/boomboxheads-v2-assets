@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork14"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Wall"
 	}	]
 }

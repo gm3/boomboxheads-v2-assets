@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Neo"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "WoodFloor"
 	}	]
 }

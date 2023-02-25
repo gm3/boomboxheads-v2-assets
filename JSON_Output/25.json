@@ -8,19 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -28,18 +20,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork2"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Grunge"
 	}	]
 }

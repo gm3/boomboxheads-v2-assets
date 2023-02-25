@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Artwork9"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "BlueWall"
 	}	]
 }

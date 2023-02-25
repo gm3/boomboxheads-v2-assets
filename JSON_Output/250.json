@@ -8,19 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,11 +28,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "William"
 	}	]
 }

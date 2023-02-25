@@ -7,20 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead219.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +20,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Grids"
 	}	]
 }

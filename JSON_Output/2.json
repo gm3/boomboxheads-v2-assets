@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,27 +16,27 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Godfrey"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Scans",
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "BrickWall"
 	}	]
 }

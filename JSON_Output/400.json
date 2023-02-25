@@ -8,46 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Door"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Heart"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork14"
 	}	]
 }

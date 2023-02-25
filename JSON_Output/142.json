@@ -7,39 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead142.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "DarkRed"
 	}	]
 }

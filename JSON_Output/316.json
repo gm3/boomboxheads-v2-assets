@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead316.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Pole4"
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "BrickWall"
 	}	]
 }

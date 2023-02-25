@@ -8,38 +8,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Artwork16"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Deco"
 	}	]
 }

@@ -7,35 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead83.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Artwork3"
 	}	]
 }

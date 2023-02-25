@@ -8,19 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork7"
 	}	]
 }

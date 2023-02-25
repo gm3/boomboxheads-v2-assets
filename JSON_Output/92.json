@@ -7,24 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead92.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -32,18 +20,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "AbstractPaint"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Gizmos"
 	}	]
 }

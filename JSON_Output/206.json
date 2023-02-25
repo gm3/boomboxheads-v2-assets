@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead206.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,34 +24,30 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Special",
-		"value": "GoldenTicket"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Dumpsters2"
+		"value": "Mural5"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Grids"
 	}	]
 }

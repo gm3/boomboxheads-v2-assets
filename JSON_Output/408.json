@@ -7,20 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead408.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "PinkSwirl"
 	}	]
 }

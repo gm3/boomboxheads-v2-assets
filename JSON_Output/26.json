@@ -7,31 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead26.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Dumpsters2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork5"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork7"
 	}	]
 }

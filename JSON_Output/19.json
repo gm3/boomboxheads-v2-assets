@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead19.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Pebble"
 	}	]
 }

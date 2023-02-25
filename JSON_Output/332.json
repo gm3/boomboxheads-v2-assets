@@ -11,43 +11,35 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
 		"trait_type": "Eyes",
 		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Liquid"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Artwork10"
 	}	]
 }

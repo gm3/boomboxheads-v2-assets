@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead5.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Hat",
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "WoodFloor"
 	}	]
 }

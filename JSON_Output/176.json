@@ -8,46 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BlueWall"
+		"value": "Artwork16"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "RustSteel"
 	}	]
 }

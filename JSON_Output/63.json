@@ -11,39 +11,35 @@
 		"value": "Benie2"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pebble"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "LightWood"
 	}	]
 }

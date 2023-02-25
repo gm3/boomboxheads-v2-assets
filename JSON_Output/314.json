@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Artwork11"
 	}	]
 }

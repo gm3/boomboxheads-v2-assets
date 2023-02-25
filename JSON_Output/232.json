@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Frozen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Artwork2"
 	}	]
 }

@@ -7,20 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead303.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -28,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GrungeWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork13"
 	}	]
 }

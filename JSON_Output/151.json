@@ -8,15 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,6 +40,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Pottery"
 	}	]
 }

@@ -7,40 +7,44 @@
 "image": "https://www.replacethis.com/boomboxhead32.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "Dumpsters2"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",

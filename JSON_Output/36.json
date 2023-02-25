@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "William"
 	}	]
 }

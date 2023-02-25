@@ -8,31 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Greendumpster"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
@@ -40,14 +24,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Steel"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Artwork2"
 	}	]
 }

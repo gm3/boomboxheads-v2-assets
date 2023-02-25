@@ -7,39 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead402.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Liquid"
+		"value": "Fancy"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork13"
 	}	]
 }

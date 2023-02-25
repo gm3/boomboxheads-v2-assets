@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead385.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Pole4"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -20,18 +24,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Ornate"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Steel"
 	}	]
 }

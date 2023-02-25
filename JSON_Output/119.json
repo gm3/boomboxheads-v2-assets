@@ -11,24 +11,24 @@
 		"value": "Antenna"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Cyberpunk"
 	}	]
 }

@@ -7,20 +7,36 @@
 "image": "https://www.replacethis.com/boomboxhead389.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Storefront"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Liquid"
 	}	]
 }

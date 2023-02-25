@@ -7,12 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead52.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,19 +20,15 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Steel"
 	}	]
 }

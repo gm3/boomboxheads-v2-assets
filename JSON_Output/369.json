@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "RustSteel"
 	}	]
 }

@@ -7,12 +7,12 @@
 "image": "https://www.replacethis.com/boomboxhead50.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,34 +20,30 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Detour"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Steel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "DarkRed"
 	}	]
 }

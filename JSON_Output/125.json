@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead125.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpsters"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Artwork6"
 	}	]
 }

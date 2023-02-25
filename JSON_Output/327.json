@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "GrungeWall"
 	}	]
 }

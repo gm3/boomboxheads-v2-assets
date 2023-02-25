@@ -8,19 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"trait_type": "Scans",
+		"value": "Roadblock"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Eth"
 	}	]
 }

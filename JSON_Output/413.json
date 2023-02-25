@@ -8,31 +8,39 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "PinkSwirl"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +48,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Artwork3"
 	}	]
 }

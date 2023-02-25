@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Ground"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Artwork13"
 	}	]
 }

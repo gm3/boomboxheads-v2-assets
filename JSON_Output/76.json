@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead76.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "PinkSwirl"
 	}	]
 }

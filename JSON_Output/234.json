@@ -7,43 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead234.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Smiley"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Artwork10"
 	}	]
 }

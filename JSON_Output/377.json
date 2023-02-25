@@ -7,24 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead377.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Scans",
+		"value": "Facemural"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Fancy"
 	}	]
 }

@@ -8,27 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Mural1"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "LightWood"
 	}	]
 }

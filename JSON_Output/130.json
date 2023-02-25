@@ -7,43 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead130.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "AbstractPaint"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Grunge"
 	}	]
 }

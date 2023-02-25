@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead375.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "BlueWall"
 	}	]
 }

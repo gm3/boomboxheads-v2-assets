@@ -7,31 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead268.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "InteriorWall"
+		"value": "Heart"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "PinkSwirl"
 	}	]
 }

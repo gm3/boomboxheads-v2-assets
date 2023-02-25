@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead114.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,19 +24,19 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Lucky"
+		"value": "Artwork17"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",

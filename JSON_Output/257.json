@@ -8,27 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Goggles"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Wall"
 	}	]
 }

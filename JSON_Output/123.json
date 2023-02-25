@@ -7,35 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead123.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork15"
 	}	]
 }

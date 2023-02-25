@@ -7,24 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead399.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley2"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork7"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork11"
 	}	]
 }

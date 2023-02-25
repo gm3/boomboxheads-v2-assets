@@ -8,46 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Scans",
+		"value": "Mural4"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork17"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Artwork14"
 	}	]
 }

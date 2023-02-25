@@ -7,8 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead202.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -16,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Deco"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Heart"
 	}	]
 }

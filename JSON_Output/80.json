@@ -8,11 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,22 +24,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork14"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Smear"
 	}	]
 }

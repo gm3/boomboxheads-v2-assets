@@ -7,43 +7,27 @@
 "image": "https://www.replacethis.com/boomboxhead113.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "William"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Smear"
 	}	]
 }

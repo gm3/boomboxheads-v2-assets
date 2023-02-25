@@ -7,43 +7,43 @@
 "image": "https://www.replacethis.com/boomboxhead225.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Smear"
+		"value": "Grunge"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "Artwork1"
 	}	]
 }

@@ -7,20 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead233.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -28,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Artwork16"
 	}	]
 }

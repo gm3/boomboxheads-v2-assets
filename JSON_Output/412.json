@@ -12,23 +12,23 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Electricbox"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Grunge"
 	}	]
 }

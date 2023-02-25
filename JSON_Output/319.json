@@ -7,43 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead319.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pottery"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Artwork11"
 	}	]
 }

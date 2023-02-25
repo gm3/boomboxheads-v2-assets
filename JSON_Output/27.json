@@ -7,24 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead27.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Smile"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Artwork13"
 	}	]
 }

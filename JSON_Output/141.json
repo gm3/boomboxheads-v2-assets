@@ -7,39 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead141.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Studio"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Wall"
 	}	]
 }

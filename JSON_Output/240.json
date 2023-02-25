@@ -11,43 +11,31 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Tape"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork15"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Ground"
 	}	]
 }

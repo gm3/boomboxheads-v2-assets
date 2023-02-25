@@ -8,34 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Ornate"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Artwork9"
 	}	]
 }

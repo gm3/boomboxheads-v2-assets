@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie2"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Clout"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "WoodFloor"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "William"
 	}	]
 }

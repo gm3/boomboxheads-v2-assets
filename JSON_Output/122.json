@@ -8,23 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Pole4"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "RustSteel"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Deco"
 	}	]
 }

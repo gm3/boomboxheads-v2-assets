@@ -8,38 +8,46 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Arrow"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GlitchBlue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Steel"
 	}	]
 }

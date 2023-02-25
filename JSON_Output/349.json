@@ -12,15 +12,11 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Artwork5"
 	}	]
 }

@@ -7,28 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead186.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "DarkRed"
 	}	]
 }

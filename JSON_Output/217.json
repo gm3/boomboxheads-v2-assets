@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Gizmos"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Artwork11"
 	}	]
 }

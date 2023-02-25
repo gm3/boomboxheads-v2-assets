@@ -12,15 +12,7 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,26 +20,26 @@
 	},
 	{
 		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork11"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork10"
 	}	]
 }

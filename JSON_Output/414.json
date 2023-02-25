@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley1"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Fancy"
 	}	]
 }

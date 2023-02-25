@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Dials"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "X"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "GoldFlower"
+		"value": "Artwork15"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "InteriorWall"
 	}	]
 }

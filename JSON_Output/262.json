@@ -8,35 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Mural"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
@@ -48,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Artwork14"
 	}	]
 }

@@ -12,7 +12,7 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,15 +20,19 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Pottery"
 	}	]
 }

@@ -8,11 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -20,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Artwork2"
 	}	]
 }

@@ -8,23 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
@@ -32,14 +32,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "Artwork16"
 	}	]
 }

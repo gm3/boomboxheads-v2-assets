@@ -7,28 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead1.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Alley3"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork13"
 	}	]
 }

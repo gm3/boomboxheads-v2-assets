@@ -7,28 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead60.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Trash"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,6 +40,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Eth"
 	}	]
 }

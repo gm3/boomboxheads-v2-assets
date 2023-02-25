@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Cyberpunk"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "OldWall"
 	}	]
 }

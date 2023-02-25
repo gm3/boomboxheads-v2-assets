@@ -8,35 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Storefront"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ornate"
+		"value": "BrickWall"
 	}	]
 }

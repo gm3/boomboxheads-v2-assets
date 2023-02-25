@@ -8,38 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork9"
+		"value": "Liquid"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "Panels"
 	}	]
 }

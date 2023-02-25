@@ -8,31 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural1"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "WoodFloor"
 	}	]
 }

@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Scans",
+		"value": "Greendumpster"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork17"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "AbstractPaint"
 	}	]
 }

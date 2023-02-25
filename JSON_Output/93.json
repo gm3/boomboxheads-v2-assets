@@ -8,7 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
@@ -20,26 +24,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork7"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Liquid"
 	}	]
 }

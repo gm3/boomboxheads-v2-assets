@@ -8,15 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -24,7 +32,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "InteriorWall"
 	}	]
 }

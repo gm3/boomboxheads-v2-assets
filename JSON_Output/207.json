@@ -7,31 +7,39 @@
 "image": "https://www.replacethis.com/boomboxhead207.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Artwork16"
 	}	]
 }

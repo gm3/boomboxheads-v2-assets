@@ -8,35 +8,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Door"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -48,6 +32,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Gizmos"
 	}	]
 }

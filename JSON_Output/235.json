@@ -8,15 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
@@ -27,27 +27,27 @@
 		"value": "Godfrey"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Storefront"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "OldWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "WoodFloor"
 	}	]
 }

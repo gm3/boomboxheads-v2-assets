@@ -8,15 +8,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Back",
@@ -24,11 +24,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Lucky"
 	}	]
 }

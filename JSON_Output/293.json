@@ -8,27 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,7 +40,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",

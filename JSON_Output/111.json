@@ -8,27 +8,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Swirls"
 	}	]
 }

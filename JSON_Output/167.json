@@ -8,42 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ground"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "LightWood"
 	}	]
 }

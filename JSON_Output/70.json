@@ -7,35 +7,47 @@
 "image": "https://www.replacethis.com/boomboxhead70.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Smiley"
 	},
 	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Deco"
+		"value": "Artwork9"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork9"
 	}	]
 }

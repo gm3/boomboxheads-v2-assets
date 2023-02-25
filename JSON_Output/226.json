@@ -7,31 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead226.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Brick"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Artwork7"
 	}	]
 }

@@ -8,7 +8,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
@@ -23,24 +23,20 @@
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Smear"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",

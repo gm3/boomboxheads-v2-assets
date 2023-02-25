@@ -7,43 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead391.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork11"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Moss"
 	}	]
 }

@@ -8,34 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Signal"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Wall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Eth"
 	}	]
 }

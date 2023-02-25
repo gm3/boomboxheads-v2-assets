@@ -8,38 +8,38 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork11"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "InteriorWall"
 	}	]
 }

@@ -7,36 +7,28 @@
 "image": "https://www.replacethis.com/boomboxhead74.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork3"
 	}	]
 }

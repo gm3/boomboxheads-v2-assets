@@ -7,28 +7,32 @@
 "image": "https://www.replacethis.com/boomboxhead157.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "White"
 	}	]
 }

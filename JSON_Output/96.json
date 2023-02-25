@@ -8,31 +8,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Tape"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +40,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "BlueWall"
 	}	]
 }

@@ -7,39 +7,35 @@
 "image": "https://www.replacethis.com/boomboxhead77.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "OldWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Artwork4"
 	}	]
 }

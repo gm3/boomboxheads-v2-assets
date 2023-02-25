@@ -7,47 +7,31 @@
 "image": "https://www.replacethis.com/boomboxhead107.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "X"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork8"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "DarkRed"
 	}	]
 }

@@ -8,34 +8,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pebble"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GoldFlower"
+		"value": "Artwork13"
 	}	]
 }

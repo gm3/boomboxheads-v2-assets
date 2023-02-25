@@ -11,43 +11,31 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Deco"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "William"
 	}	]
 }

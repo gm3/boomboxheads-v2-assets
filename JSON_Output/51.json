@@ -7,32 +7,20 @@
 "image": "https://www.replacethis.com/boomboxhead51.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Emptywall1"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +28,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "InteriorWall"
 	}	]
 }

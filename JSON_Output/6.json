@@ -8,27 +8,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +36,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Artwork2"
 	}	]
 }

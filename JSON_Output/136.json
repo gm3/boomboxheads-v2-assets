@@ -8,42 +8,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Roadblock"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ground"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "BrickWall"
 	}	]
 }

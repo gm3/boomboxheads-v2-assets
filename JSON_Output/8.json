@@ -8,7 +8,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
@@ -16,23 +20,23 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Scans",
+		"value": "Emptywall2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "BlueWall"
 	}	]
 }

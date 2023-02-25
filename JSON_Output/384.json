@@ -8,23 +8,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Couch"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +44,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Liquid"
 	}	]
 }

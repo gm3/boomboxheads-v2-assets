@@ -7,12 +7,16 @@
 "image": "https://www.replacethis.com/boomboxhead41.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
@@ -20,30 +24,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Boxes"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork7"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "William"
 	}	]
 }

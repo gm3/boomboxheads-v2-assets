@@ -7,28 +7,24 @@
 "image": "https://www.replacethis.com/boomboxhead378.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "MetaRickBox"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +32,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Artwork13"
 	}	]
 }
