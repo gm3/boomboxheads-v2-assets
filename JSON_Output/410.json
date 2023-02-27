@@ -3,47 +3,44 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead410.vrm",
-"image": "https://www.replacethis.com/boomboxhead410.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead410.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead410.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead410.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork2"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Wall"
 	}	]
 }

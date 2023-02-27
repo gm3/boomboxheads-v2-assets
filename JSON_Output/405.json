@@ -3,47 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead405.vrm",
-"image": "https://www.replacethis.com/boomboxhead405.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead405.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead405.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead405.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork13"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Pebble"
 	}	]
 }

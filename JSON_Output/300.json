@@ -3,43 +3,52 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead300.vrm",
-"image": "https://www.replacethis.com/boomboxhead300.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead300.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead300.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead300.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "PinkSwirl"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Artwork4"
 	}	]
 }

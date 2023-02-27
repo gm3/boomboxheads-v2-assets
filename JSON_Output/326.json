@@ -3,24 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead326.vrm",
-"image": "https://www.replacethis.com/boomboxhead326.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead326.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead326.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead326.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
@@ -28,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GoldFlower"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "WoodFloor"
 	}	]
 }

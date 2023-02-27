@@ -3,47 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead87.vrm",
-"image": "https://www.replacethis.com/boomboxhead87.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead87.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead87.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead87.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Swirls"
 	}	]
 }

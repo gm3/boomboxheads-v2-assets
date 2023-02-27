@@ -3,43 +3,52 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead88.vrm",
-"image": "https://www.replacethis.com/boomboxhead88.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead88.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead88.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead88.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Hat",
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Heart"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "PinkSwirl"
 	}	]
 }

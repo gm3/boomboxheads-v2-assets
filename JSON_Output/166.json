@@ -3,35 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead166.vrm",
-"image": "https://www.replacethis.com/boomboxhead166.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead166.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead166.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead166.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
 		"value": "Slime"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork12"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "RustSteel"
 	}	]
 }

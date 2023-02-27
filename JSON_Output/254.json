@@ -3,39 +3,40 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead254.vrm",
-"image": "https://www.replacethis.com/boomboxhead254.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead254.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead254.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead254.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork11"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "OldWall"
 	}	]
 }

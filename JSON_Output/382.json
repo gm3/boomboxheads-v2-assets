@@ -3,20 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead382.vrm",
-"image": "https://www.replacethis.com/boomboxhead382.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead382.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead382.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead382.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Weapon",
@@ -28,15 +25,15 @@
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Electricbox"
+		"value": "Alley2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "LightWood"
 	}	]
 }

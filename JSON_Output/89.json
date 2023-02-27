@@ -3,36 +3,49 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead89.vrm",
-"image": "https://www.replacethis.com/boomboxhead89.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead89.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead89.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead89.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Heart"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -40,6 +53,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "RustSteel"
 	}	]
 }

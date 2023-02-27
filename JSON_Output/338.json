@@ -3,12 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead338.vrm",
-"image": "https://www.replacethis.com/boomboxhead338.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead338.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead338.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead338.jpg",
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
@@ -16,15 +21,19 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "DarkRed"
 	}	]
 }

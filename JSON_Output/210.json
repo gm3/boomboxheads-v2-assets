@@ -3,28 +3,45 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead210.vrm",
-"image": "https://www.replacethis.com/boomboxhead210.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead210.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead210.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead210.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -32,10 +49,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "Artwork9"
 	}	]
 }

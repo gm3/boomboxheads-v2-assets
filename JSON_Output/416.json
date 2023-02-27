@@ -3,43 +3,36 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead416.vrm",
-"image": "https://www.replacethis.com/boomboxhead416.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead416.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead416.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead416.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Bored"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley2"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "InteriorWall"
 	}	]
 }

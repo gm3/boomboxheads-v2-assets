@@ -3,40 +3,45 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead228.vrm",
-"image": "https://www.replacethis.com/boomboxhead228.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead228.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead228.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead228.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",

@@ -3,16 +3,33 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead339.vrm",
-"image": "https://www.replacethis.com/boomboxhead339.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead339.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead339.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead339.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -20,18 +37,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Swirls"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "GrungeWall"
 	}	]
 }

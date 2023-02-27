@@ -3,35 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead33.vrm",
-"image": "https://www.replacethis.com/boomboxhead33.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead33.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead33.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead33.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork16"
+		"value": "Smear"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Ground"
 	}	]
 }

@@ -3,40 +3,33 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead2.vrm",
-"image": "https://www.replacethis.com/boomboxhead2.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead2.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead2.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead2.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Facemural"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -44,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork12"
 	}	]
 }

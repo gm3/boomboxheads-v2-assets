@@ -3,51 +3,52 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead8.vrm",
-"image": "https://www.replacethis.com/boomboxhead8.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead8.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead8.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead8.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"value": "NexusCity"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "GlitchBlue"
 	}	]
 }

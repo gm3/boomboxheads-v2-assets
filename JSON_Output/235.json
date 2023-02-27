@@ -3,8 +3,9 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead235.vrm",
-"image": "https://www.replacethis.com/boomboxhead235.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead235.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead235.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead235.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
@@ -12,15 +13,15 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -31,23 +32,31 @@
 		"value": "Backpack"
 	},
 	{
+		"trait_type": "Special",
+		"value": "M3Chain"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Studio"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "OldWall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Smear"
 	}	]
 }

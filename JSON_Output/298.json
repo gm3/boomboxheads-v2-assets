@@ -3,12 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead298.vrm",
-"image": "https://www.replacethis.com/boomboxhead298.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead298.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead298.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead298.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
@@ -16,19 +21,15 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "White"
 	}	]
 }

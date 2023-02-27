@@ -3,47 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead370.vrm",
-"image": "https://www.replacethis.com/boomboxhead370.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead370.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead370.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead370.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "WoodFloor"
+		"value": "BrickWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Artwork14"
 	}	]
 }

@@ -3,39 +3,48 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead5.vrm",
-"image": "https://www.replacethis.com/boomboxhead5.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead5.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead5.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead5.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GrungeWall"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Wall"
 	}	]
 }

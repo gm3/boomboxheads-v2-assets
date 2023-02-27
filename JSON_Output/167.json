@@ -3,43 +3,40 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead167.vrm",
-"image": "https://www.replacethis.com/boomboxhead167.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead167.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead167.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead167.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Grids"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Moss"
 	}	]
 }

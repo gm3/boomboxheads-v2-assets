@@ -3,20 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead368.vrm",
-"image": "https://www.replacethis.com/boomboxhead368.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead368.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead368.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead368.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,30 +21,30 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "GlitchBlue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Artwork16"
 	}	]
 }

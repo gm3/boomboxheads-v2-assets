@@ -3,43 +3,44 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead284.vrm",
-"image": "https://www.replacethis.com/boomboxhead284.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead284.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead284.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead284.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Facemural"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "LightWood"
 	}	]
 }

@@ -3,43 +3,60 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead399.vrm",
-"image": "https://www.replacethis.com/boomboxhead399.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead399.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead399.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead399.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Special",
+		"value": "M3Chain"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Door2"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork7"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Artwork3"
 	}	]
 }

@@ -3,47 +3,40 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead305.vrm",
-"image": "https://www.replacethis.com/boomboxhead305.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead305.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead305.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead305.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Electricbox"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pottery"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork5"
 	}	]
 }

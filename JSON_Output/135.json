@@ -3,47 +3,40 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead135.vrm",
-"image": "https://www.replacethis.com/boomboxhead135.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead135.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead135.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead135.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Dumpster"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Frozen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Grids"
 	}	]
 }

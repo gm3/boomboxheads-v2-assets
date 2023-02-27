@@ -3,32 +3,45 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead52.vrm",
-"image": "https://www.replacethis.com/boomboxhead52.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead52.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead52.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead52.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -36,10 +49,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Artwork12"
 	}	]
 }

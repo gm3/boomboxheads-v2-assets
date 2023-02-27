@@ -3,12 +3,13 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead276.vrm",
-"image": "https://www.replacethis.com/boomboxhead276.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead276.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead276.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead276.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
@@ -16,30 +17,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Scans",
+		"value": "NexusCity"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Artwork13"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Fancy"
 	}	]
 }

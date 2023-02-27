@@ -3,8 +3,9 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead369.vrm",
-"image": "https://www.replacethis.com/boomboxhead369.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead369.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead369.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead369.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
@@ -12,27 +13,19 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Artwork2"
 	}	]
 }

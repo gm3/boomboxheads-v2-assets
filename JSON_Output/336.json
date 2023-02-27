@@ -3,20 +3,17 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead336.vrm",
-"image": "https://www.replacethis.com/boomboxhead336.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead336.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead336.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead336.jpg",
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
@@ -24,23 +21,19 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Scans",
-		"value": "Facemural"
+		"value": "Mural5"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -48,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "InteriorWall"
 	}	]
 }

@@ -3,36 +3,29 @@
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
 "description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
-"vrm_url": "https://www.replacethis.com/boomboxhead318.vrm",
-"image": "https://www.replacethis.com/boomboxhead318.jpg",
+"vrm_url": "ipfs://www.replacethis.com/boomboxhead318.vrm",
+"animation_url": "ipfs://www.replacethis.com/boomboxhead318.glb",
+"image": "ipfs://www.replacethis.com/boomboxhead318.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "AlteredEvil"
 	},
 	{
+		"trait_type": "Scans",
+		"value": "M3TV"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -40,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Moss"
 	}	]
 }
