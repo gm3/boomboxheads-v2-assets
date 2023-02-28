@@ -9,35 +9,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "M3TV"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +41,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "LightWood"
 	}	]
 }

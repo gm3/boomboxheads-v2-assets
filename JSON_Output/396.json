@@ -8,31 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead396.jpg",
 "attributes": [
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Hat",
+		"value": "Benie2"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Liquid"
 	}	]
 }

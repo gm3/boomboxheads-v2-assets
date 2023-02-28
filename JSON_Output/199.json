@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,34 +17,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "NexusCity"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "BrickWall"
 	}	]
 }

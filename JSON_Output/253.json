@@ -8,8 +8,8 @@
 "image": "ipfs://www.replacethis.com/boomboxhead253.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Weapon",
@@ -17,30 +17,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Gizmos"
 	}	]
 }

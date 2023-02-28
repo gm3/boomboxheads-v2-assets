@@ -9,39 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Heart"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -49,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "InteriorWall"
 	}	]
 }

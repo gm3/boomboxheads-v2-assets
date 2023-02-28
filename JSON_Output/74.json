@@ -9,46 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Smiley"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "M3TV"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "InteriorWall"
 	}	]
 }

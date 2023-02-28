@@ -8,8 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead2.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
@@ -17,30 +21,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "WoodFloor"
 	}	]
 }

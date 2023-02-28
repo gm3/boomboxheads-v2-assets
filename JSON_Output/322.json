@@ -8,20 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead322.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"trait_type": "Hat",
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "Special",
-		"value": "Chain"
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +37,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Wall"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "PinkSwirl"
 	}	]
 }

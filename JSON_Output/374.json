@@ -9,31 +9,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Pole4"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork15"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +45,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "William"
 	}	]
 }

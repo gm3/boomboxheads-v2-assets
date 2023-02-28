@@ -8,24 +8,32 @@
 "image": "ipfs://www.replacethis.com/boomboxhead213.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "White"
 	}	]
 }

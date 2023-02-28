@@ -12,51 +12,35 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Studio"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Wall"
 	}	]
 }

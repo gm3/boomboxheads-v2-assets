@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,7 +17,7 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
@@ -25,26 +25,30 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "PinkSwirl"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "William"
 	}	]
 }

@@ -8,39 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead196.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grunge"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "AbstractPaint"
 	}	]
 }

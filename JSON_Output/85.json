@@ -12,24 +12,16 @@
 		"value": "Bubble"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "ShippingContainter"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "GrungeWall"
 	}	]
 }

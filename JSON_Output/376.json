@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead376.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "M3TV"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "GrungeWall"
 	}	]
 }

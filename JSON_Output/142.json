@@ -8,24 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead142.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Boxes3"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -33,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork8"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "WoodFloor"
 	}	]
 }

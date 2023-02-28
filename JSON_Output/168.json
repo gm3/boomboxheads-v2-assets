@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "William"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Artwork13"
 	}	]
 }

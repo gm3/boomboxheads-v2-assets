@@ -8,12 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead382.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
@@ -21,30 +21,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Alley2"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork12"
 	}	]
 }

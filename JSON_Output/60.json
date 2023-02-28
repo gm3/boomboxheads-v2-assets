@@ -9,19 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
@@ -29,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "DarkRed"
 	}	]
 }

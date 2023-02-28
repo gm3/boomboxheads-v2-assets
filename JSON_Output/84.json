@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead84.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Trippy"
 	}	]
 }

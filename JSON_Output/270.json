@@ -9,27 +9,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Door2"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,6 +45,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Artwork2"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Moss"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Artwork5"
 	}	]
 }

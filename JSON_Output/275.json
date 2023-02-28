@@ -12,20 +12,16 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -33,18 +29,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Wall"
 	}	]
 }

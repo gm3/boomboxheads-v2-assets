@@ -9,7 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
@@ -17,27 +21,23 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "NexusCity"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +45,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Pebble"
 	}	]
 }

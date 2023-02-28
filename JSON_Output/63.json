@@ -9,19 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Couch"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,7 +25,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork9"
 	}	]
 }

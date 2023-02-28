@@ -8,31 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead106.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "BlueWall"
 	}	]
 }

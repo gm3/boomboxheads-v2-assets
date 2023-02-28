@@ -9,23 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +33,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Eth"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "PinkSwirl"
 	}	]
 }

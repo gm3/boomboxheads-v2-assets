@@ -9,34 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "M3TV"
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "BrickWall"
 	}	]
 }

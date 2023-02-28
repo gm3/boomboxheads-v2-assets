@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead46.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BlueWall"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Trippy"
 	}	]
 }

@@ -12,16 +12,12 @@
 		"value": "Plunger"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "Greendumpster"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,11 +25,11 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ground"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Cyberpunk"
 	}	]
 }

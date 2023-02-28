@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead215.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "ShippingContainter"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Brick"
 	}	]
 }

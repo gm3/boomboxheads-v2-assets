@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead310.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "Back",
@@ -29,7 +25,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,7 +33,7 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +41,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Liquid"
 	}	]
 }

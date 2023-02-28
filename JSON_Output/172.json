@@ -8,43 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead172.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Ornate"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "BlueWall"
 	}	]
 }

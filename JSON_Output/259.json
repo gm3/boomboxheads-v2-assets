@@ -8,31 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead259.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork16"
 	}	]
 }

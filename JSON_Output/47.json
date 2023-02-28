@@ -12,27 +12,39 @@
 		"value": "Slime"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork1"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "InteriorWall"
 	}	]
 }

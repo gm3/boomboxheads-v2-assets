@@ -9,38 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Mural4"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Grids"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "RustSteel"
 	}	]
 }

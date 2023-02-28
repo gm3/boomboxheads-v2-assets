@@ -9,19 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RealGold"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -29,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "AbstractPaint"
 	}	]
 }

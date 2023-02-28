@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,34 +17,38 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "X"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Emptywall2"
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pebble"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Artwork11"
 	}	]
 }

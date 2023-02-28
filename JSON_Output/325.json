@@ -9,11 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
@@ -21,15 +17,11 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "RealGold"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Grunge"
 	}	]
 }

@@ -9,34 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "EQ"
 	},
 	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
+	},
+	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "William"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "William"
 	}	]
 }

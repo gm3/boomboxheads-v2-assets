@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead124.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Scans",
-		"value": "M3TV"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Panels"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "LightWood"
 	}	]
 }

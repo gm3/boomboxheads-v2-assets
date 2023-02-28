@@ -9,15 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
@@ -25,26 +25,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "William"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "DarkRed"
 	}	]
 }

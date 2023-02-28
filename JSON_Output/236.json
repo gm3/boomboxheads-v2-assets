@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead236.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
 		"value": "3d"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,7 +25,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "WoodFloor"
 	}	]
 }

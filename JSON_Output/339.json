@@ -8,40 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead339.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Swirls"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -49,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "WoodFloor"
 	}	]
 }

@@ -9,19 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Neo"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +29,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork12"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "OldWall"
 	}	]
 }

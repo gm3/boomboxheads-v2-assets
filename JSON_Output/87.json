@@ -13,38 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Artwork12"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Brick"
 	}	]
 }

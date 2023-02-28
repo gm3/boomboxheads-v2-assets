@@ -8,12 +8,8 @@
 "image": "ipfs://www.replacethis.com/boomboxhead279.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,7 +17,7 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -29,22 +25,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Smear"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Brick"
 	}	]
 }

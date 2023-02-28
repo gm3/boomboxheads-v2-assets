@@ -9,38 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "Door2"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork6"
 	}	]
 }

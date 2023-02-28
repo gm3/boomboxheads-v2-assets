@@ -8,24 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead353.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -33,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Artwork10"
 	}	]
 }

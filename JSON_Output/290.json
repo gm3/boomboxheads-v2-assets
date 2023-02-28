@@ -8,12 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead290.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
@@ -24,27 +32,23 @@
 		"value": "Chain"
 	},
 	{
-		"trait_type": "Scans",
-		"value": "M3TV"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "BlueWall"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Artwork14"
 	}	]
 }
