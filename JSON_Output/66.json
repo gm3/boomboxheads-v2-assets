@@ -12,16 +12,8 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "White"
 	}	]
 }

@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,23 +17,15 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "DarkRed"
 	}	]
 }

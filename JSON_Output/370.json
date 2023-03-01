@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead370.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Signal"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "RustSteel"
 	}	]
 }

@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead306.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "LightWood"
 	}	]
 }

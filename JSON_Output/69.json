@@ -9,11 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Patches",
@@ -21,7 +17,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Heart"
 	}	]
 }

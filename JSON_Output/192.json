@@ -9,19 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Pottery"
 	}	]
 }

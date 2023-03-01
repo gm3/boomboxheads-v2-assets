@@ -13,27 +13,27 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +41,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork5"
 	}	]
 }

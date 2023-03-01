@@ -8,35 +8,51 @@
 "image": "ipfs://www.replacethis.com/boomboxhead105.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "GlitchBlue"
 	}	]
 }

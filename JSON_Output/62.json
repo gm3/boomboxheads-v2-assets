@@ -9,15 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
@@ -25,11 +21,15 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +37,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork9"
 	}	]
 }

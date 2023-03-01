@@ -13,7 +13,7 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,30 +21,30 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "BlueWall"
 	}	]
 }

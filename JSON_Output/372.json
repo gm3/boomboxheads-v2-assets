@@ -9,38 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Pottery"
 	}	]
 }

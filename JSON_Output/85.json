@@ -13,38 +13,34 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Pottery"
 	}	]
 }

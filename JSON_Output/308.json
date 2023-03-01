@@ -9,15 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
@@ -25,26 +21,30 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "White"
 	}	]
 }

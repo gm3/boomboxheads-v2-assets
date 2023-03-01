@@ -9,27 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "AbstractPaint"
 	}	]
 }

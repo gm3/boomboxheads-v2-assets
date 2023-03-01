@@ -9,46 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Cyberpunk"
 	}	]
 }

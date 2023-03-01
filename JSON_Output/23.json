@@ -9,19 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Special",
@@ -29,22 +33,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Liquid"
 	}	]
 }

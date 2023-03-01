@@ -9,11 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
@@ -21,14 +37,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "White"
 	}	]
 }

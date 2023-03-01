@@ -9,38 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Artwork16"
 	}	]
 }

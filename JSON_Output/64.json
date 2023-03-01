@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Eth"
 	}	]
 }

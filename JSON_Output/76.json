@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Lucky"
 	}	]
 }

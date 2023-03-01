@@ -8,28 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead194.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "BlueWall"
 	}	]
 }

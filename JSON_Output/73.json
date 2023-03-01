@@ -8,43 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead73.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Cyberpunk"
 	}	]
 }

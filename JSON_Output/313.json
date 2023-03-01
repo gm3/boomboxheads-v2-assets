@@ -8,43 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead313.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork15"
 	}	]
 }

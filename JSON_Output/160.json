@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead160.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +25,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Gizmos"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork14"
 	}	]
 }

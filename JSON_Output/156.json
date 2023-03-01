@@ -8,32 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead156.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "AbstractPaint"
 	}	]
 }

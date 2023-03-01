@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead359.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "AbstractPaint"
 	}	]
 }

@@ -13,22 +13,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Eth"
 	}	]
 }

@@ -9,31 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Arrow"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Liquid"
 	}	]
 }

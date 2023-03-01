@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead384.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "BlueWall"
 	}	]
 }

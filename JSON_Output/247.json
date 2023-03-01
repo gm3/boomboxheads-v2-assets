@@ -8,24 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead247.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Grunge"
 	}	]
 }

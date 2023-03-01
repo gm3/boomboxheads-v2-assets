@@ -12,35 +12,31 @@
 		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Steel"
 	}	]
 }

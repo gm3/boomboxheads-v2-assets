@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Fancy"
 	}	]
 }

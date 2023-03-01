@@ -9,27 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "GrungeWall"
 	}	]
 }

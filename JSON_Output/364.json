@@ -9,39 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -49,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "RustSteel"
 	}	]
 }

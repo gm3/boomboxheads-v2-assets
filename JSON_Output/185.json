@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Frozen"
 	}	]
 }

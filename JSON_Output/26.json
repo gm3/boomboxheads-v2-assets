@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,38 +17,30 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Grunge"
 	}	]
 }

@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Idle2"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Yellow"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Dance2"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Purple"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork3"
 	}	]
 }

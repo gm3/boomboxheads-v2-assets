@@ -8,24 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead18.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Fancy"
 	}	]
 }

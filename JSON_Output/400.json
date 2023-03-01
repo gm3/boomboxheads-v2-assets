@@ -8,39 +8,47 @@
 "image": "ipfs://www.replacethis.com/boomboxhead400.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Nouns"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Sad"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Artwork6"
 	}	]
 }

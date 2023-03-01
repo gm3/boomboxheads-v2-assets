@@ -9,11 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Dials"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,7 +21,7 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,18 +29,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Swirls"
 	}	]
 }

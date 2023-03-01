@@ -8,27 +8,43 @@
 "image": "ipfs://www.replacethis.com/boomboxhead357.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Deco"
 	}	]
 }

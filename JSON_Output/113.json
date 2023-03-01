@@ -12,35 +12,35 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
 	},
 	{
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "GrungeWall"
 	}	]
 }

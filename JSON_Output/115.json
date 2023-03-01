@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "White"
 	}	]
 }

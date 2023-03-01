@@ -8,20 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead415.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Wall"
 	}	]
 }

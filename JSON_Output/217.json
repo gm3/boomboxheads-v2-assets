@@ -8,28 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead217.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "BlueWall"
 	}	]
 }

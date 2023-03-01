@@ -8,16 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead7.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Nouns"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +29,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "PinkSwirl"
 	}	]
 }

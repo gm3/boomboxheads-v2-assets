@@ -9,34 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Key"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Cyberpunk"
 	}	]
 }

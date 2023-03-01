@@ -8,35 +8,43 @@
 "image": "ipfs://www.replacethis.com/boomboxhead229.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Swirls"
 	}	]
 }

@@ -9,19 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "3d"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
@@ -29,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "WoodFloor"
 	}	]
 }

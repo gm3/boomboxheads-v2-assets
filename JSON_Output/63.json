@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead63.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Trippy"
 	}	]
 }

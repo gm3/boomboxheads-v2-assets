@@ -8,35 +8,43 @@
 "image": "ipfs://www.replacethis.com/boomboxhead54.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Fancy"
 	}	]
 }

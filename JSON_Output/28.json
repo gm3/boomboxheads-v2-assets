@@ -16,24 +16,28 @@
 		"value": "3d"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",

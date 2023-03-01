@@ -9,19 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Zoom"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Bat"
+	},
+	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +33,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Taunt"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Purple"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Float"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Yellow"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Brick"
 	}	]
 }

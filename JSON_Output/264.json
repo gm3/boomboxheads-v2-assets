@@ -12,35 +12,35 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork1"
 	}	]
 }

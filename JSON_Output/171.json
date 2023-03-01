@@ -8,43 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead171.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Walking"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Yellow"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Green"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Artwork1"
 	}	]
 }

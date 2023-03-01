@@ -8,43 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead180.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Heart"
 	}	]
 }

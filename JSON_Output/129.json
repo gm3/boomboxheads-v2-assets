@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Bat"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "AbstractPaint"
 	}	]
 }

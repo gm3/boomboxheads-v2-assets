@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead77.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "DarkRed"
 	}	]
 }

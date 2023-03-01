@@ -9,38 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Steel"
 	}	]
 }

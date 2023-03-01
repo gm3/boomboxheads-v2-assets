@@ -8,27 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead167.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Panels"
 	}	]
 }

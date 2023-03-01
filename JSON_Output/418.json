@@ -9,30 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Lucky"
 	}	]
 }

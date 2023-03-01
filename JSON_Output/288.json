@@ -8,16 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead288.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Dials"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
@@ -25,22 +29,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Pottery"
 	}	]
 }

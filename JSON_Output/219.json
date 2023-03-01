@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead219.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Nouns"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "Ground"
 	}	]
 }

@@ -8,32 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead244.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "M3Chain"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
@@ -41,14 +21,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Artwork15"
 	}	]
 }

@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead378.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Eth"
 	}	]
 }

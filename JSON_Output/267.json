@@ -9,15 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +33,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Artwork3"
 	}	]
 }

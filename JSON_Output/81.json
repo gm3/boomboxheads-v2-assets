@@ -9,11 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,7 +21,11 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Special",
@@ -29,11 +33,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +45,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Ground"
 	}	]
 }

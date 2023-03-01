@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead131.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "LightWood"
 	}	]
 }

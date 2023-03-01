@@ -8,20 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead43.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "PinkSwirl"
 	}	]
 }

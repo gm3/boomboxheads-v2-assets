@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork12"
 	}	]
 }

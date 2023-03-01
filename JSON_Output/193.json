@@ -9,42 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "WoodFloor"
 	}	]
 }

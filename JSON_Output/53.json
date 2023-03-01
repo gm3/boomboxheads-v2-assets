@@ -9,11 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Dials"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
@@ -21,26 +25,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Swirls"
 	}	]
 }

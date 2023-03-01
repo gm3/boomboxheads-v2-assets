@@ -12,20 +12,24 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "Nouns"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Artwork3"
 	}	]
 }

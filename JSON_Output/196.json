@@ -9,19 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "X"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +25,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "William"
 	}	]
 }

@@ -12,35 +12,39 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance6"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork1"
 	}	]
 }

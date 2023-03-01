@@ -9,34 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "InteriorWall"
 	}	]
 }

@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead234.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Patches",
+		"value": "Boom"
+	},
+	{
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork14"
 	}	]
 }

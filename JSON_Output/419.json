@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead419.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Ground"
 	}	]
 }

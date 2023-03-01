@@ -9,30 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sword"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Artwork16"
 	}	]
 }

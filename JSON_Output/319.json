@@ -12,8 +12,12 @@
 		"value": "Bubble"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
@@ -21,22 +25,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Frozen"
 	}	]
 }

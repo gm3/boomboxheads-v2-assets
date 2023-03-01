@@ -13,23 +13,23 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Wall"
 	}	]
 }

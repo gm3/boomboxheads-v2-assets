@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead396.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Dismiss"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Yellow"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Idle"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Green"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Pottery"
 	}	]
 }
