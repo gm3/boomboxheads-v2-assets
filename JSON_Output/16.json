@@ -2,18 +2,26 @@
 "name": "Boomboxhead #16",
 "created_by": "Boomboxhead",
 "external_url": "https://twitter.com/boomboxheads",
-"description": "Boomboxheads V2 is a 3d generative project of VRM avatars created using boom-tools.",
+"description": "Boomboxheads V2 is a collection of 3D generative VRM avatars on the Ethereum Network. The avatars are cc0, and were created with Boom-tools , an open-source project running on Unity3d that can generate VRM avatars along with the metadata and thumbnail.  This project was inspired by the Boomboxheads: Originals and Boomboxheads: Legends, which both laid the foundation for this project to come to life.",
 "vrm_url": "ipfs://www.replacethis.com/boomboxhead16.vrm",
 "animation_url": "ipfs://www.replacethis.com/boomboxhead16.glb",
 "image": "ipfs://www.replacethis.com/boomboxhead16.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -21,11 +29,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,7 +41,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
