@@ -9,35 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Axe"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Steel"
 	}	]
 }

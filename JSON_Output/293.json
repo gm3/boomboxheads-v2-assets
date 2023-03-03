@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "RealGold"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Moss"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "3d"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Patches",
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "Pottery"
 	}	]
 }

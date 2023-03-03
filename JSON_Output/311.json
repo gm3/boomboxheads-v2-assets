@@ -8,31 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead311.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dance6"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Artwork7"
 	}	]
 }

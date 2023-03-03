@@ -9,19 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Patches",
+		"value": "Sad"
 	},
 	{
 		"trait_type": "Special",
@@ -29,7 +25,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +33,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Gizmos"
 	}	]
 }

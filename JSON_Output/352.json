@@ -8,16 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead352.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -25,10 +25,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Frozen"
 	}	]
 }

@@ -9,15 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "LightWood"
 	}	]
 }

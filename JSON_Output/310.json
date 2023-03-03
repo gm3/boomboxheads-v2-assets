@@ -12,16 +12,16 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "Back",
@@ -29,7 +29,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
@@ -41,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "OldWall"
 	}	]
 }

@@ -8,24 +8,32 @@
 "image": "ipfs://www.replacethis.com/boomboxhead216.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "OldWall"
 	}	]
 }

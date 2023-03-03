@@ -9,27 +9,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Mace"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +41,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Wall"
 	}	]
 }

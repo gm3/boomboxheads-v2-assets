@@ -13,15 +13,15 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
@@ -29,22 +29,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Liquid"
 	}	]
 }

@@ -8,12 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead365.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Wick"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
@@ -28,27 +32,23 @@
 		"value": "Backpack"
 	},
 	{
-		"trait_type": "Special",
-		"value": "M3Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Cyberpunk"
 	}	]
 }

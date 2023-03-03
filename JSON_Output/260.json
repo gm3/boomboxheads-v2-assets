@@ -9,38 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
+		"trait_type": "Special",
+		"value": "M3Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Moss"
 	}	]
 }

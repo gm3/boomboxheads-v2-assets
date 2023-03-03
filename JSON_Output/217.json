@@ -8,8 +8,8 @@
 "image": "ipfs://www.replacethis.com/boomboxhead217.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Eyes",
@@ -17,30 +17,26 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Artwork7"
 	}	]
 }

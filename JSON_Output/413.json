@@ -8,24 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead413.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Nouns"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Axe"
+	},
+	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Float"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Lucky"
 	}	]
 }

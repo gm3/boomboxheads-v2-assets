@@ -12,24 +12,32 @@
 		"value": "Wick"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Mace"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Special",
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +45,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Swirls"
 	}	]
 }

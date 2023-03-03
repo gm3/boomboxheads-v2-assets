@@ -8,20 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead333.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
@@ -33,11 +25,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -45,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Grids"
 	}	]
 }

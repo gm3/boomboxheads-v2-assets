@@ -8,24 +8,32 @@
 "image": "ipfs://www.replacethis.com/boomboxhead306.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,6 +45,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Grunge"
 	}	]
 }

@@ -9,15 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
@@ -33,18 +29,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "OldWall"
 	}	]
 }

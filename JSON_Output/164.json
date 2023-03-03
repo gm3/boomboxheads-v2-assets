@@ -8,12 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead164.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Dials"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -21,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Grids"
 	}	]
 }

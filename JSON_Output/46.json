@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead46.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Bat"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Swirls"
 	}	]
 }

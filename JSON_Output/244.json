@@ -8,20 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead244.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Nouns"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance1"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -29,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Steel"
 	}	]
 }

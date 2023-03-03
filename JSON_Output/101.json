@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Wave"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "OldWall"
 	}	]
 }

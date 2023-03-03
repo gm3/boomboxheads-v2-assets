@@ -9,23 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Bat"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,7 +29,7 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Artwork10"
 	}	]
 }
