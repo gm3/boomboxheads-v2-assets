@@ -8,35 +8,43 @@
 "image": "ipfs://www.replacethis.com/boomboxhead335.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Smile"
 	},
 	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Artwork15"
 	}	]
 }
