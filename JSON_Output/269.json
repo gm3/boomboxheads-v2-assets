@@ -8,31 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead269.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "GlitchBlue"
 	}	]
 }

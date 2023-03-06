@@ -8,31 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead174.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Trippy"
 	}	]
 }

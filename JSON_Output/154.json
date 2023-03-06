@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead154.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "Special",
-		"value": "Chain"
+		"value": "M3Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Wave"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork10"
 	}	]
 }

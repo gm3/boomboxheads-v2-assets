@@ -8,12 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead152.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"trait_type": "Hat",
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Smiley"
 	},
 	{
 		"trait_type": "Special",
@@ -21,11 +29,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dance1"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,6 +45,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Eth"
 	}	]
 }
