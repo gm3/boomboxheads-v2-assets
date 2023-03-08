@@ -8,16 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead55.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
@@ -25,26 +21,26 @@
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Frozen"
 	}	]
 }

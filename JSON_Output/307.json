@@ -12,12 +12,8 @@
 		"value": "Bubble"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Patches",
@@ -25,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "White"
 	}	]
 }

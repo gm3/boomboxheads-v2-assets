@@ -9,50 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Boom"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Float"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Pink"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Yellow"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Gizmos"
 	}	]
 }

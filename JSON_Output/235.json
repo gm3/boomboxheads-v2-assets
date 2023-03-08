@@ -8,16 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead235.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "Patches",
@@ -25,15 +21,15 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "InteriorWall"
 	}	]
 }

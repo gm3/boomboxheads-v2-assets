@@ -8,12 +8,32 @@
 "image": "ipfs://www.replacethis.com/boomboxhead297.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
 		"trait_type": "Eyes",
 		"value": "3d"
 	},
 	{
+		"trait_type": "Weapon",
+		"value": "Sledgehammer"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
@@ -21,14 +41,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Pottery"
 	}	]
 }

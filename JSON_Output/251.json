@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead251.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "OldWall"
 	}	]
 }

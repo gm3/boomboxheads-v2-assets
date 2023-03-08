@@ -9,31 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Grunge"
 	}	]
 }

@@ -13,7 +13,7 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,7 +21,7 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
@@ -29,22 +29,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Float"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Trippy"
 	}	]
 }

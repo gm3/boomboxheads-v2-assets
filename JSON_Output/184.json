@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead184.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dance3"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Grunge"
 	}	]
 }

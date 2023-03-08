@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,11 +17,7 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "Patches",
@@ -29,11 +25,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Deco"
 	}	]
 }

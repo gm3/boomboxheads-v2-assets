@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead15.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"trait_type": "Hat",
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Nouns"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Grids"
 	}	]
 }

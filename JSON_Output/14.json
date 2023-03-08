@@ -13,30 +13,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Bat"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Dismiss"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Orange"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Boxing"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Yellow"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork6"
 	}	]
 }

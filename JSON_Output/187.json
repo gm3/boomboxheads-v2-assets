@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead187.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Dance3"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Purple"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Walking"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Yellow"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Liquid"
 	}	]
 }

@@ -8,20 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead49.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Patches",
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "William"
 	}	]
 }

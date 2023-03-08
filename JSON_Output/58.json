@@ -8,31 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead58.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Eyes",
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Patches",
+		"value": "Sad"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Lucky"
 	}	]
 }

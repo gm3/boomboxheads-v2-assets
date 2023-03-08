@@ -9,42 +9,42 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Point"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Red"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Taunt"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Teal"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "Eth"
 	}	]
 }

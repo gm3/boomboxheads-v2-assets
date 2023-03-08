@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
@@ -20,16 +20,12 @@
 		"value": "Clout"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "BrickWall"
 	}	]
 }

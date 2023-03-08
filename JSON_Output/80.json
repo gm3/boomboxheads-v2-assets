@@ -16,35 +16,31 @@
 		"value": "Bored"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
 		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Bat"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "OldWall"
 	}	]
 }

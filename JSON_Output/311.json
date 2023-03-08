@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "Sledgehammer"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Dance6"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Red"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Angry"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Teal"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Ground"
 	}	]
 }

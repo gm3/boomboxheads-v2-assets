@@ -8,16 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead205.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Sword"
 	},
 	{
 		"trait_type": "Patches",
@@ -25,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Fancy"
 	}	]
 }

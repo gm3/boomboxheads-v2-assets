@@ -12,39 +12,35 @@
 		"value": "Benie"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Mace"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork11"
 	}	]
 }
