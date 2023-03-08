@@ -12,16 +12,12 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Weapon",
 		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork6"
 	}	]
 }

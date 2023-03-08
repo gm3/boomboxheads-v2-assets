@@ -9,11 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,15 +17,15 @@
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Godfrey"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +33,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Artwork15"
 	}	]
 }

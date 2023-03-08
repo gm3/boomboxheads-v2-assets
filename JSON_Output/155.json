@@ -8,24 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead155.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Regular"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -33,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Panels"
 	}	]
 }

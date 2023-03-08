@@ -9,23 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
 		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -33,7 +29,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Artwork14"
 	}	]
 }

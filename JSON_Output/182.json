@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,30 +17,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Screws"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Axe"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "AlteredEvil"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Boxing"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Red"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Taunt"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Teal"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "GrungeWall"
 	}	]
 }

@@ -13,7 +13,7 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
@@ -25,22 +25,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork9"
 	}	]
 }

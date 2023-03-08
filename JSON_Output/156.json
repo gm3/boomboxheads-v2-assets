@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,30 +17,34 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Goggles"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Mace"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Heart"
 	}	]
 }

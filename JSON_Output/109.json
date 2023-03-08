@@ -8,36 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead109.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
 		"value": "Screws"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Key"
 	},
 	{
 		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Sad"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork11"
 	}	]
 }

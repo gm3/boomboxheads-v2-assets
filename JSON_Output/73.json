@@ -8,20 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead73.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Patches",
@@ -32,12 +24,8 @@
 		"value": "Backpack"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
@@ -45,7 +33,7 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -53,6 +41,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Steel"
 	}	]
 }

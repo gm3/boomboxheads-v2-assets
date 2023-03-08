@@ -13,30 +13,26 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Artwork7"
 	}	]
 }

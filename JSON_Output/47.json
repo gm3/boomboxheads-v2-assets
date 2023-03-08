@@ -9,7 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
+	},
+	{
+		"trait_type": "Weapon",
+		"value": "Bat"
 	},
 	{
 		"trait_type": "Patches",
@@ -17,7 +29,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,7 +41,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",

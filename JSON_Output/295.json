@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead295.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Axe"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Idle2"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Yellow"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Point"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Orange"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Deco"
 	}	]
 }

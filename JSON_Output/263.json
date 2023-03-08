@@ -8,12 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead263.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Smile"
 	},
 	{
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
@@ -21,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Artwork9"
 	}	]
 }
