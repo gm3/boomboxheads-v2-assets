@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead386.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,7 +25,7 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dance3"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "LightWood"
 	}	]
 }

@@ -16,10 +16,6 @@
 		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
 		"trait_type": "Weapon",
 		"value": "Sledgehammer"
 	},
@@ -28,16 +24,12 @@
 		"value": "Smiley"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
@@ -45,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Lucky"
 	}	]
 }
