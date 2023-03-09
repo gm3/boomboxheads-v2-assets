@@ -9,46 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Golden"
 	}	]
 }

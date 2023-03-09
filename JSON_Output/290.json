@@ -13,34 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "PinkSwirl"
 	}	]
 }

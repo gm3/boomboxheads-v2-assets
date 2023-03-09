@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Golden"
 	}	]
 }

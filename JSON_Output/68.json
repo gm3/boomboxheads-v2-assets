@@ -9,19 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "WoodFloor"
 	}	]
 }

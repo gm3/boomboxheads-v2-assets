@@ -8,43 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead82.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "RustSteel"
 	}	]
 }

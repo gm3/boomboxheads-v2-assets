@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead320.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Panels"
 	}	]
 }

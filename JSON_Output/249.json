@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Golden"
 	}	]
 }

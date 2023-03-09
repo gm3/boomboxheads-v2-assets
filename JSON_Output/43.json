@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,30 +17,26 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Artwork6"
 	}	]
 }

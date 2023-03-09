@@ -12,39 +12,27 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Cyberpunk"
 	}	]
 }

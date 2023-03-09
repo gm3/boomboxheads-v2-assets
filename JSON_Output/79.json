@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "BlueWall"
 	}	]
 }

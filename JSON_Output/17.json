@@ -8,23 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead17.jpg",
 "attributes": [
 	{
+		"trait_type": "Eyes",
+		"value": "Clout"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Liquid"
 	}	]
 }

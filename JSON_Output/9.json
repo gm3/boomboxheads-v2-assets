@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead9.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "InteriorWall"
 	}	]
 }

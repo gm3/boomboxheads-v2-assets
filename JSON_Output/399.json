@@ -8,39 +8,23 @@
 "image": "ipfs://www.replacethis.com/boomboxhead399.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Artwork16"
 	}	]
 }

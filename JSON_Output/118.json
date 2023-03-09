@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead118.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "GrungeWall"
 	}	]
 }

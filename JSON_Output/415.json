@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead415.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "OldWall"
 	}	]
 }

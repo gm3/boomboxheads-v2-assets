@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Golden"
 	}	]
 }

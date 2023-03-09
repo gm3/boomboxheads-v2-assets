@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Pottery"
 	}	]
 }

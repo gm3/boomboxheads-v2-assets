@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "GrungeWall"
 	}	]
 }

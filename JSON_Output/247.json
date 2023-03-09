@@ -8,31 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead247.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Wall"
 	}	]
 }

@@ -9,38 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "RustSteel"
 	}	]
 }

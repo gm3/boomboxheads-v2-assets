@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead330.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Artwork2"
 	}	]
 }

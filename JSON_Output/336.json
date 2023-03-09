@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "GrungeWall"
 	}	]
 }

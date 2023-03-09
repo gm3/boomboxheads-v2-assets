@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead231.jpg",
 "attributes": [
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Eyes",
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork5"
 	}	]
 }

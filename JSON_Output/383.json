@@ -13,38 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "RustSteel"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Cyberpunk"
 	}	]
 }

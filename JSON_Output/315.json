@@ -9,19 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -29,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "OldWall"
 	}	]
 }

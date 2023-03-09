@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead289.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Screws"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "Grunge"
 	}	]
 }

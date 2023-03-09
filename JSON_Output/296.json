@@ -8,24 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead296.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Golden"
 	}	]
 }

@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead124.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork1"
+		"value": "Artwork3"
 	}	]
 }

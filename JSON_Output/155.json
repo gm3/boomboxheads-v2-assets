@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead155.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Artwork2"
 	}	]
 }

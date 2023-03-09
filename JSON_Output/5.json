@@ -9,19 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,15 +17,15 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",

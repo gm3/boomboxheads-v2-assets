@@ -8,31 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead318.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "OldWall"
 	}	]
 }

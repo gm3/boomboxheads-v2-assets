@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead94.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "BlueWall"
 	}	]
 }

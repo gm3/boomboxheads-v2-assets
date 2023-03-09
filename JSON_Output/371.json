@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Golden"
 	}	]
 }

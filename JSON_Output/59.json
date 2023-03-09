@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead59.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Hat",
+		"value": "Headphones"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork6"
 	}	]
 }

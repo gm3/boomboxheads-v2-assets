@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead335.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Lucky"
 	}	]
 }

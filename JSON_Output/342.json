@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Golden"
 	}	]
 }

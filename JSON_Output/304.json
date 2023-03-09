@@ -8,31 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead304.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "RustSteel"
 	}	]
 }

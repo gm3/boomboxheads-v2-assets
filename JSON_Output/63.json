@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead63.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Screws"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Eth"
 	}	]
 }

@@ -8,32 +8,32 @@
 "image": "ipfs://www.replacethis.com/boomboxhead414.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Bubble"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",

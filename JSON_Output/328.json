@@ -9,19 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Wall"
 	}	]
 }

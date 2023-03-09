@@ -8,31 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead200.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "Artwork5"
 	}	]
 }

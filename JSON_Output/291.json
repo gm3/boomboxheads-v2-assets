@@ -13,38 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Artwork10"
 	}	]
 }

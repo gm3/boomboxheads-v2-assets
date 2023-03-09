@@ -13,38 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "LightWood"
 	}	]
 }

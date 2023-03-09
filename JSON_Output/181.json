@@ -9,30 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Artwork7"
 	}	]
 }

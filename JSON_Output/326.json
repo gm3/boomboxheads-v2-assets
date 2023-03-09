@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead326.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Zoom"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Frozen"
 	}	]
 }

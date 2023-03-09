@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Taunt"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Orange"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "White"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork5"
 	}	]
 }

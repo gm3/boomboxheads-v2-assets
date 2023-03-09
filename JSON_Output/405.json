@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Benie2"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Artwork10"
 	}	]
 }

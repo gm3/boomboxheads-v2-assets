@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Artwork11"
 	}	]
 }

@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead20.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Bubble"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Heart"
 	}	]
 }

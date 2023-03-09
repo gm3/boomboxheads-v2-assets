@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Deco"
 	}	]
 }

@@ -13,34 +13,34 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "BrickWall"
 	}	]
 }

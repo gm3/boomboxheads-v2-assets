@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead331.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "LightWood"
 	}	]
 }

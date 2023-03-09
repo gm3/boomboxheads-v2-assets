@@ -9,46 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork3"
+		"value": "RustSteel"
 	}	]
 }

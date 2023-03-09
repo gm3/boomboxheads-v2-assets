@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "RustSteel"
 	}	]
 }

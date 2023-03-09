@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Brick"
 	}	]
 }

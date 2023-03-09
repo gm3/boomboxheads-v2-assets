@@ -8,27 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead191.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Artwork13"
 	}	]
 }

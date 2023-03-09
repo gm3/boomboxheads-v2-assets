@@ -9,19 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Back",
@@ -29,22 +17,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Artwork2"
 	}	]
 }

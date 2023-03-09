@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead104.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork14"
 	}	]
 }

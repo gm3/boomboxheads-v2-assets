@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Regular"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Golden"
 	}	]
 }

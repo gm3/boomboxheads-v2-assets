@@ -12,35 +12,23 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Trippy"
 	}	]
 }

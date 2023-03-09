@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead109.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Pebble"
 	}	]
 }

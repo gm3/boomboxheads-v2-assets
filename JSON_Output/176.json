@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead176.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"trait_type": "Eyes",
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Golden"
 	}	]
 }

@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead416.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Golden"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "DarkRed"
+		"value": "Golden"
 	}	]
 }

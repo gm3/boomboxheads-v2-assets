@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Eyes",
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Pottery"
 	}	]
 }

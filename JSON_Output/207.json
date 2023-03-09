@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Deco"
 	}	]
 }

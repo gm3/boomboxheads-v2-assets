@@ -8,31 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead376.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork15"
 	}	]
 }

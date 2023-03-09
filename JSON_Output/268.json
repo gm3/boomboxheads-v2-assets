@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Artwork5"
 	}	]
 }

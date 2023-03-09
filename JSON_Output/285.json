@@ -8,20 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead285.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +21,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "Golden"
 	}	]
 }

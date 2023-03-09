@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Bored"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "DarkRed"
 	}	]
 }

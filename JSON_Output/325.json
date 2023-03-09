@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "X"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Gizmos"
 	}	]
 }

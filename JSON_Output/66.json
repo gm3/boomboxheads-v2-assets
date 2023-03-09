@@ -8,31 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead66.jpg",
 "attributes": [
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Hat",
+		"value": "Benie2"
 	},
 	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Ground"
 	}	]
 }

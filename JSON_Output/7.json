@@ -13,27 +13,19 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Golden"
 	}	]
 }

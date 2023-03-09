@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "William"
 	}	]
 }

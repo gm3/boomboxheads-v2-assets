@@ -12,39 +12,35 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "AbstractPaint"
 	}	]
 }

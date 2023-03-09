@@ -13,34 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Purp"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Moss"
 	}	]
 }

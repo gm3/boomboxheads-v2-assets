@@ -9,34 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Artwork14"
 	}	]
 }

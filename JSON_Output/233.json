@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Eyes",
+		"value": "Regular"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Artwork5"
 	}	]
 }

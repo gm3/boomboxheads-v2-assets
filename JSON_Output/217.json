@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,34 +17,26 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Swirls"
 	}	]
 }

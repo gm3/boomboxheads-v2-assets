@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "William"
 	}	]
 }

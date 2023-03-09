@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead374.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bored"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Trippy"
 	}	]
 }

@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Golden"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Pebble"
 	}	]
 }

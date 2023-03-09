@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Fancy"
 	}	]
 }

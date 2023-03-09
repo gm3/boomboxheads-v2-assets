@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead65.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Artwork8"
 	}	]
 }

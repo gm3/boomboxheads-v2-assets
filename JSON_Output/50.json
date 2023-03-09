@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead50.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Ground"
 	}	]
 }

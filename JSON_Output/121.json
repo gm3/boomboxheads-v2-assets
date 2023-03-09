@@ -8,31 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead121.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Hat",
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Artwork8"
 	}	]
 }

@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead409.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "RustSteel"
+		"value": "BrickWall"
 	}	]
 }

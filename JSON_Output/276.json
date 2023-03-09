@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Artwork17"
 	}	]
 }

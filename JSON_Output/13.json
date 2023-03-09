@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "William"
 	}	]
 }

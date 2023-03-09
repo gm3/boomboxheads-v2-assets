@@ -9,46 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Grids"
 	}	]
 }

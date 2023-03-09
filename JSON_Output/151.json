@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead151.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Ground"
 	}	]
 }

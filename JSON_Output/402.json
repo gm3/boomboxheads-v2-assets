@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Liquid"
 	}	]
 }

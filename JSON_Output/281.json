@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead281.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Artwork13"
 	}	]
 }

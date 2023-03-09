@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Artwork11"
 	}	]
 }

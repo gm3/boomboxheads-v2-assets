@@ -8,12 +8,8 @@
 "image": "ipfs://www.replacethis.com/boomboxhead49.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,22 +17,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Artwork7"
 	}	]
 }

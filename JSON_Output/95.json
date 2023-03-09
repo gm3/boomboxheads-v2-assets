@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Artwork6"
 	}	]
 }

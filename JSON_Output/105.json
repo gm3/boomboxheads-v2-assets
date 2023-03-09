@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork10"
 	}	]
 }

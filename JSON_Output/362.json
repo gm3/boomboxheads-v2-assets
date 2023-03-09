@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Heart"
 	}	]
 }

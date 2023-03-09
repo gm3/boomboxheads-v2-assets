@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Artwork12"
 	}	]
 }

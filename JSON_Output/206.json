@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "GrungeWall"
 	}	]
 }

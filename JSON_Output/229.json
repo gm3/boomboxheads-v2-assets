@@ -8,16 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead229.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,11 +25,11 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "White"
 	}	]
 }

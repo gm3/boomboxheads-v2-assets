@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Swirls"
 	}	]
 }

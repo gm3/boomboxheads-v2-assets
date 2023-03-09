@@ -9,15 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +17,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Lucky"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "OldWall"
 	}	]
 }

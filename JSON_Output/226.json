@@ -9,11 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Arrow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -21,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Moss"
 	}	]
 }

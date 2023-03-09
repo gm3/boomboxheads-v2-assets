@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Golden"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "LightWood"
 	}	]
 }

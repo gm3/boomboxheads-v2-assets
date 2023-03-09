@@ -12,39 +12,23 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Artwork15"
 	}	]
 }

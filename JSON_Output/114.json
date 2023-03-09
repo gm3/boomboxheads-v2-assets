@@ -12,35 +12,27 @@
 		"value": "Antenna"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "Pottery"
 	}	]
 }

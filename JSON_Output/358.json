@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead358.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Valve"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "BlueWall"
 	}	]
 }

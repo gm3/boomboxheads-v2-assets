@@ -8,43 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead222.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "NeonGreen"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork13"
+		"value": "Golden"
 	}	]
 }

@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,27 +17,19 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
+		"value": "3d"
 	},
 	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -45,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "Frozen"
 	}	]
 }

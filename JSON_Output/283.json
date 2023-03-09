@@ -8,28 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead283.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
+		"value": "Nouns"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Artwork11"
 	}	]
 }

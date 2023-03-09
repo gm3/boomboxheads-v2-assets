@@ -9,42 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "AbstractPaint"
 	}	]
 }

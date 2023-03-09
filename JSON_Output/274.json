@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead274.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "InteriorWall"
 	}	]
 }

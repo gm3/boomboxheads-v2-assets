@@ -9,27 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Wall"
 	}	]
 }

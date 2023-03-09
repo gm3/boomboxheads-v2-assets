@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead238.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Artwork2"
 	}	]
 }

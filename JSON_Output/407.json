@@ -8,32 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead407.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Hat",
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "InteriorWall"
 	}	]
 }

@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Golden"
 	}	]
 }

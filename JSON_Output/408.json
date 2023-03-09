@@ -8,20 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead408.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,10 +25,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Artwork11"
 	}	]
 }

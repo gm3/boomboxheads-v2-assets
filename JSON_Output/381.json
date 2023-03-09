@@ -12,35 +12,27 @@
 		"value": "Plunger"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
 		"trait_type": "Eyes",
 		"value": "Regular"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Deco"
 	}	]
 }

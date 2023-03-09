@@ -9,30 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Artwork6"
 	}	]
 }

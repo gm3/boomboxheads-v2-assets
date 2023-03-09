@@ -9,23 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Fancy"
 	}	]
 }

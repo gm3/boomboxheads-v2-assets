@@ -8,24 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead359.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "RustSteel"
 	}	]
 }

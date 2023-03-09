@@ -13,42 +13,30 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Ground"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "GlitchBlue"
 	}	]
 }

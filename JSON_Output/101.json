@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead101.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Artwork17"
 	}	]
 }

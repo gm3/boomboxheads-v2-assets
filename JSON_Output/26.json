@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead26.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Hat",
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Frozen"
 	}	]
 }

@@ -9,27 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork9"
 	}	]
 }

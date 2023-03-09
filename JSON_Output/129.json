@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Artwork16"
 	}	]
 }

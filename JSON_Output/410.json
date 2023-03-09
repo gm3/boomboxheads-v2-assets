@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Headphones"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork2"
 	}	]
 }

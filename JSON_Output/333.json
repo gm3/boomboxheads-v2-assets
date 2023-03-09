@@ -13,38 +13,34 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Clout"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Wall"
 	}	]
 }

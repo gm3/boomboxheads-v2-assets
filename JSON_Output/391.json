@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "Golden"
 	}	]
 }

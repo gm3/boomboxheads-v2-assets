@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Cyberpunk"
 	}	]
 }

@@ -9,15 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Special",
@@ -25,22 +17,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "White"
 	}	]
 }

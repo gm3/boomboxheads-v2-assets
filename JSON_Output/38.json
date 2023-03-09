@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead38.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "PinkSwirl"
 	}	]
 }

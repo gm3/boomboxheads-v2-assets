@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Artwork11"
 	}	]
 }

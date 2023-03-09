@@ -8,24 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead265.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -33,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Steel"
 	}	]
 }

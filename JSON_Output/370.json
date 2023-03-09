@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "Pottery"
 	}	]
 }

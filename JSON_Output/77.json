@@ -8,20 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead77.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Eth"
 	}	]
 }

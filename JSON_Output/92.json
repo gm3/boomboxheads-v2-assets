@@ -9,42 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "RustSteel"
 	}	]
 }

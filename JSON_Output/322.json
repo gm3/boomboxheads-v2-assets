@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "GrungeWall"
 	}	]
 }

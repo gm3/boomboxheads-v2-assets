@@ -9,19 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Goggles"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"trait_type": "Back",
+		"value": "Backpack"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
@@ -29,14 +33,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork8"
+		"value": "Artwork13"
 	}	]
 }

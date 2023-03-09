@@ -9,23 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "White"
 	}	]
 }

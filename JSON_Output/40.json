@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork12"
+		"value": "Heart"
 	}	]
 }

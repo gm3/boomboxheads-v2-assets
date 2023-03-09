@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Panels"
 	}	]
 }

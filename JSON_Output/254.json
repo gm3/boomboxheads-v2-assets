@@ -8,43 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead254.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "BlueWall"
 	}	]
 }

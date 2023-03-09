@@ -12,32 +12,24 @@
 		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",

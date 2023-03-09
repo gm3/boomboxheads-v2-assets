@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Golden"
 	}	]
 }

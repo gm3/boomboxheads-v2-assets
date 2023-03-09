@@ -8,27 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead146.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork1"
 	}	]
 }

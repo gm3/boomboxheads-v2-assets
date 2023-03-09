@@ -9,31 +9,35 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",

@@ -16,31 +16,27 @@
 		"value": "CDPlayer"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Taunt"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Pink"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Walking"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Purple"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GlitchBlue"
+		"value": "Artwork13"
 	}	]
 }

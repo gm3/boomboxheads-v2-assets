@@ -9,15 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "Back",
@@ -25,7 +25,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,10 +37,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "AbstractPaint"
 	}	]
 }

@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead168.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Arrow"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Swirls"
+		"value": "Golden"
 	}	]
 }

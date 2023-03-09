@@ -9,42 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "PinkSwirl"
 	}	]
 }

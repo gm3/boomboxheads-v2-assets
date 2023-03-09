@@ -8,12 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead175.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
+		"trait_type": "Hat",
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -21,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "LightWood"
 	}	]
 }

@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead259.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Benie2"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dank"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Panels"
 	}	]
 }

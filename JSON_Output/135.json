@@ -9,23 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Trippy"
 	}	]
 }

@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Benie"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Ground"
+		"value": "Trippy"
 	}	]
 }

@@ -9,35 +9,31 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "X"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +41,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "InteriorWall"
+		"value": "Grunge"
 	}	]
 }

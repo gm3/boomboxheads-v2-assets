@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Rekt"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Moss"
 	}	]
 }

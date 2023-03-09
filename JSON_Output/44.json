@@ -9,30 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenTags"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork4"
 	}	]
 }

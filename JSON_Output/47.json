@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,34 +17,26 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Ground"
 	}	]
 }

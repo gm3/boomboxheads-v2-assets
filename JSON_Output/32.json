@@ -8,28 +8,28 @@
 "image": "ipfs://www.replacethis.com/boomboxhead32.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Smile"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "Swirls"
 	}	]
 }

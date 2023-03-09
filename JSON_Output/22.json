@@ -8,27 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead22.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork4"
+		"value": "Artwork14"
 	}	]
 }

@@ -9,11 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Back",
@@ -21,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "William"
 	}	]
 }

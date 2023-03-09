@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Phetta"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "OldWall"
 	}	]
 }

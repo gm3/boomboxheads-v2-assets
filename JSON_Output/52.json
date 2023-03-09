@@ -8,27 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead52.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Regular"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Steel"
+		"value": "WoodFloor"
 	}	]
 }

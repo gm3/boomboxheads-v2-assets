@@ -8,36 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead299.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Buffed"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -45,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Artwork7"
 	}	]
 }

@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,23 +17,15 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -41,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Golden"
 	}	]
 }

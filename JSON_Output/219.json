@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
+		"value": "Nouns"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Brick"
 	}	]
 }

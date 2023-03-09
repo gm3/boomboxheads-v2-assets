@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Deco"
 	}	]
 }

@@ -12,39 +12,27 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Artwork9"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "EQ"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Golden"
 	}	]
 }

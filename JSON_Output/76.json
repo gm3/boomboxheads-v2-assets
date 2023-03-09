@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead76.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Hat",
+		"value": "Signal"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork9"
+		"value": "Golden"
 	}	]
 }

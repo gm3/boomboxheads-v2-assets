@@ -13,34 +13,26 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Painter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork6"
+		"value": "GrungeWall"
 	}	]
 }

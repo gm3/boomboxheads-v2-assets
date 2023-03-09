@@ -9,30 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Neo"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Cyberpunk"
+		"value": "Artwork14"
 	}	]
 }

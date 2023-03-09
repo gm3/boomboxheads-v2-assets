@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Antenna"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Golden"
 	}	]
 }

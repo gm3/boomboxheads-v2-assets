@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork3"
+		"value": "White"
 	}	]
 }

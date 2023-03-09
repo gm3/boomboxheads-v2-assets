@@ -12,35 +12,31 @@
 		"value": "Wick"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "Mean"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Pottery"
 	}	]
 }

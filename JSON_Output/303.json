@@ -8,39 +8,23 @@
 "image": "ipfs://www.replacethis.com/boomboxhead303.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork1"
 	}	]
 }

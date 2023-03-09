@@ -9,46 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
+		"value": "Zoom"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Abstract"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "Ground"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Benie2"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Screws"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Pebble"
 	}	]
 }

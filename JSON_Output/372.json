@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead372.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "X"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Pebble"
 	}	]
 }

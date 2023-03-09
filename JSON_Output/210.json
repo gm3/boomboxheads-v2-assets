@@ -13,11 +13,15 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
@@ -25,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Brick"
 	}	]
 }

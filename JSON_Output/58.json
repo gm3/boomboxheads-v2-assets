@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead58.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Plunger"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Split"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Fancy"
+		"value": "Artwork3"
 	}	]
 }

@@ -9,46 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Artwork4"
 	}	]
 }

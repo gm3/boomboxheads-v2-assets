@@ -8,32 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead218.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Nouns"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
@@ -45,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Grunge"
 	}	]
 }

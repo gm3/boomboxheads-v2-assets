@@ -9,23 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,7 +33,7 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",

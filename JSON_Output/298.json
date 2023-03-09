@@ -9,27 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -37,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork14"
+		"value": "Heart"
 	}	]
 }

@@ -9,23 +9,23 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "V2"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -33,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "AbstractPaint"
+		"value": "OldWall"
 	}	]
 }

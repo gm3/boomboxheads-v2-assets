@@ -8,35 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead74.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork5"
+		"value": "GlitchBlue"
 	}	]
 }

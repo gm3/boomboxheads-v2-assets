@@ -9,38 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "WoodFloor"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Deco"
+		"value": "Frozen"
 	}	]
 }

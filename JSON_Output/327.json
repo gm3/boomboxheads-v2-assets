@@ -9,42 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Golden"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Grunge"
 	}	]
 }

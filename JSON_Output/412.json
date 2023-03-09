@@ -9,7 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie2"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
@@ -17,38 +17,26 @@
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Golden"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Grunge"
 	}	]
 }

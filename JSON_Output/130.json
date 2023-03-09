@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead130.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Screws"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork2"
 	}	]
 }

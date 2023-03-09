@@ -12,35 +12,31 @@
 		"value": "Plunger"
 	},
 	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork7"
+		"value": "Ground"
 	}	]
 }

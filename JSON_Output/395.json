@@ -9,39 +9,27 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",

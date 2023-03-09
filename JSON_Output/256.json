@@ -8,35 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead256.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie2"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "GreenSlime"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "Artwork12"
 	}	]
 }

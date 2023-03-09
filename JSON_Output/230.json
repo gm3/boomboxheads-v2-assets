@@ -8,31 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead230.jpg",
 "attributes": [
 	{
-		"trait_type": "Weapon",
-		"value": "Sword"
+		"trait_type": "Hat",
+		"value": "Bubble"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Mouth",
+		"value": "Wow"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Valve"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Strut"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork3"
+		"value": "Swirls"
 	}	]
 }

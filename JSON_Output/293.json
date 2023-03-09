@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Antenna"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Screws"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Golden"
 	}	]
 }

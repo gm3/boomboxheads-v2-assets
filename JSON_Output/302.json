@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Smile"
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork10"
+		"value": "PinkSwirl"
 	}	]
 }

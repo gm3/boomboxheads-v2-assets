@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead286.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
+		"trait_type": "Mouth",
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "Goggles"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Skele"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Artwork13"
 	}	]
 }

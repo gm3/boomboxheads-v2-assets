@@ -8,35 +8,39 @@
 "image": "ipfs://www.replacethis.com/boomboxhead350.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "Clout"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "BlueTags"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Wall"
+		"value": "Artwork7"
 	}	]
 }

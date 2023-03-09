@@ -9,15 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Zoom"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
@@ -25,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Panels"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Lines"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Artwork12"
 	}	]
 }

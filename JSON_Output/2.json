@@ -8,28 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead2.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Special",
+		"value": "Chain"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Minter"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
@@ -37,10 +33,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Backwards"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Golden"
 	}	]
 }

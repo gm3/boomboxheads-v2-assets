@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bandana"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purp"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Dismiss"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "White"
+		"value": "Artwork8"
 	}	]
 }

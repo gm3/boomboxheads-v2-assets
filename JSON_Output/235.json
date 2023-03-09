@@ -8,35 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead235.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Antenna"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "EQ"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"trait_type": "Eyes",
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Lines"
+		"value": "YellowTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Artwork13"
 	}	]
 }

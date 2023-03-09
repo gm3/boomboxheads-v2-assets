@@ -8,32 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead192.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
 		"trait_type": "Mouth",
 		"value": "Wow"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "GreenSlime"
+		"value": "WoodFloor"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -41,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "William"
 	}	]
 }

@@ -8,35 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead252.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Clouds"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "BrickWall"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "Dank"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Artwork16"
 	}	]
 }

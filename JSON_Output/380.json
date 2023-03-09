@@ -9,27 +9,19 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "CDPlayer"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Nouns"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
@@ -37,14 +29,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "OldWall"
 	}	]
 }

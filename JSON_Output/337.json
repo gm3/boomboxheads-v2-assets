@@ -9,42 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Bubble"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Neo"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Artwork13"
 	}	]
 }

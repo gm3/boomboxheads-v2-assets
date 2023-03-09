@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead400.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Golden"
 	}	]
 }

@@ -8,39 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead385.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Orange"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "LightWood"
+		"value": "Liquid"
 	}	]
 }

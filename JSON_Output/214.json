@@ -9,23 +9,11 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Benie2"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sword"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "Back",
@@ -33,22 +21,22 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Messy"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "CantSleep"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork11"
+		"value": "Golden"
 	}	]
 }

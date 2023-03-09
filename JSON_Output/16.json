@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Plunger"
+		"value": "Antenna"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Wow"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Key"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Teal"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Dopey"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Golden"
 	}	]
 }

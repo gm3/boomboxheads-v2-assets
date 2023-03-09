@@ -9,19 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "Special",
@@ -37,14 +33,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "Smiles"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BlueWall"
+		"value": "Liquid"
 	}	]
 }

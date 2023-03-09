@@ -9,15 +9,15 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Antenna"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Mean"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +25,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grids"
+		"value": "Wall"
 	}	]
 }

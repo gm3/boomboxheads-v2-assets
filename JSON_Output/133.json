@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Frozen"
+		"value": "Moss"
 	}	]
 }

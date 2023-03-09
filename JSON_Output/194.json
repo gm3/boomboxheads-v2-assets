@@ -9,42 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Backwards"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Grunge"
+		"value": "Lucky"
 	}	]
 }

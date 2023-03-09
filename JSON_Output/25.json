@@ -8,39 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead25.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Zoom"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Minter"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle2"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Soundwaves"
+		"value": "Ahhh"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "RustSteel"
 	}	]
 }

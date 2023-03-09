@@ -8,43 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead138.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Signal"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "70ROY"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Brick"
+		"value": "Golden"
 	}	]
 }

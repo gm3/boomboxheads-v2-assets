@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Benie"
+		"value": "Slime"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
+		"value": "Bored"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pottery"
+		"value": "Artwork12"
 	}	]
 }

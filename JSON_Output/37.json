@@ -8,23 +8,35 @@
 "image": "ipfs://www.replacethis.com/boomboxhead37.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "Bandana"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "Regular"
+	},
+	{
+		"trait_type": "Special",
+		"value": "Chain"
+	},
+	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "Crazyface"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork3"
+		"value": "Artwork5"
 	}	]
 }

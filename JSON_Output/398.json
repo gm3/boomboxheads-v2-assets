@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Headphones"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Mean"
+		"value": "Wow"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "Smiley"
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Wild"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork17"
+		"value": "RustSteel"
 	}	]
 }

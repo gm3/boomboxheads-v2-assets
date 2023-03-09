@@ -8,16 +8,12 @@
 "image": "ipfs://www.replacethis.com/boomboxhead100.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
 		"trait_type": "Mouth",
 		"value": "Mean"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Boom"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -29,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Yellow"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "M3TV"
+		"value": "Stressed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "Grunge"
 	}	]
 }

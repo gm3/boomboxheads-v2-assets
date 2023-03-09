@@ -8,43 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead332.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Antenna"
-	},
-	{
 		"trait_type": "Mouth",
-		"value": "EQ"
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "3d"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"value": "Screws"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Brick"
 	}	]
 }

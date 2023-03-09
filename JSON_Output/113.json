@@ -8,39 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead113.jpg",
 "attributes": [
 	{
-		"trait_type": "Hat",
-		"value": "Arrow"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Sledgehammer"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Godfrey"
+		"trait_type": "Eyes",
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Yellow"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Blue"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "Soundwaves"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Pebble"
+		"value": "Artwork11"
 	}	]
 }

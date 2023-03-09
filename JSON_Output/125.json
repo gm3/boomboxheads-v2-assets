@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "CDPlayer"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Mace"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Clout"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "WideEyed"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "AbstractPaint"
 	}	]
 }

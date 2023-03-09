@@ -8,27 +8,31 @@
 "image": "ipfs://www.replacethis.com/boomboxhead313.jpg",
 "attributes": [
 	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Painter"
+		"value": "BlueTags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Gizmos"
+		"value": "Artwork12"
 	}	]
 }

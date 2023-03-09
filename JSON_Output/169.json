@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Arrow"
+		"value": "Plunger"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "Weapon",
-		"value": "Bat"
+		"trait_type": "Mouth",
+		"value": "Smile"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "RustSteel"
+		"value": "888"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "HappyDude"
+		"value": "CrazyGreen"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork15"
+		"value": "Fancy"
 	}	]
 }

@@ -9,34 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Wick"
 	},
 	{
 		"trait_type": "Mouth",
 		"value": "Bandana"
 	},
 	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
+		"trait_type": "Eyes",
+		"value": "Neo"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Look"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "White"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "MoneyEyes"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Moss"
+		"value": "Smear"
 	}	]
 }

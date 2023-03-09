@@ -9,30 +9,38 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Bubble"
+		"value": "Benie"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Mean"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Clout"
+		"value": "Zoom"
+	},
+	{
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Joy"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Yellow"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "YellowEyes"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Pottery"
 	}	]
 }

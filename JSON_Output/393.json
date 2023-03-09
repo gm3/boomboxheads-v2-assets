@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Signal"
+		"value": "Plunger"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "Wow"
 	},
 	{
 		"trait_type": "Eyes",
 		"value": "3d"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Bat"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "AlteredEvil"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Wild"
+		"value": "Tags"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Ahhh"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Swirls"
 	}	]
 }

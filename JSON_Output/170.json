@@ -9,34 +9,30 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Wow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "RustSteel"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Dismiss"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Green"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "BrickWall"
+		"value": "Pottery"
 	}	]
 }

@@ -9,38 +9,34 @@
 "attributes": [
 	{
 		"trait_type": "Mouth",
-		"value": "Bored"
+		"value": "Smile"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Goggles"
+		"value": "Valve"
 	},
 	{
-		"trait_type": "Weapon",
-		"value": "Axe"
-	},
-	{
-		"trait_type": "Patches",
-		"value": "Sad"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "Red"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Taunt"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Purple"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "OpenSource"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Panels"
+		"value": "Artwork16"
 	}	]
 }
