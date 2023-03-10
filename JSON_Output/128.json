@@ -12,31 +12,27 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"trait_type": "Eyes",
+		"value": "3d"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Street"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Dismiss"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Red"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Point"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Green"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "CantSleep"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "William"
+		"value": "Wall"
 	}	]
 }

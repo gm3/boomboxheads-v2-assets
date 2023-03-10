@@ -8,16 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead386.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "3d"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Abstract"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Idle"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -25,10 +25,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "M3TV"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Lucky"
+		"value": "PinkSwirl"
 	}	]
 }

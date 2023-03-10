@@ -8,20 +8,20 @@
 "image": "ipfs://www.replacethis.com/boomboxhead17.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Clout"
+		"trait_type": "Hat",
+		"value": "Slime"
 	},
 	{
-		"trait_type": "Special",
-		"value": "Chain"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "888"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Point"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "Liquid"
+		"value": "RustSteel"
 	}	]
 }

@@ -9,30 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Wick"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Signal"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Strut"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Black"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Smear"
+		"value": "Artwork5"
 	}	]
 }

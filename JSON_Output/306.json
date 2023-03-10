@@ -12,35 +12,27 @@
 		"value": "Headphones"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "EQ"
-	},
-	{
 		"trait_type": "Eyes",
-		"value": "Neo"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "Valve"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Purple"
+		"value": "Street"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Orange"
+		"value": "Pink"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "YellowEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Artwork9"
 	}	]
 }

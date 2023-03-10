@@ -12,31 +12,23 @@
 		"value": "Wick"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Valve"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Split"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "Red"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Wolf"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "GrungeWall"
+		"value": "Moss"
 	}	]
 }

@@ -13,11 +13,7 @@
 	},
 	{
 		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Back",
-		"value": "Backpack"
+		"value": "EQ"
 	},
 	{
 		"trait_type": "BodyTexture",
@@ -25,18 +21,18 @@
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Joy"
+		"value": "Idle2"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Purple"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Wolf"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "BrickWall"
 	}	]
 }

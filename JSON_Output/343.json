@@ -8,27 +8,27 @@
 "image": "ipfs://www.replacethis.com/boomboxhead343.jpg",
 "attributes": [
 	{
-		"trait_type": "Eyes",
-		"value": "Nouns"
+		"trait_type": "Back",
+		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Red"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Boxing"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Stressed"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork2"
+		"value": "Trippy"
 	}	]
 }

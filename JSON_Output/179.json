@@ -8,16 +8,16 @@
 "image": "ipfs://www.replacethis.com/boomboxhead179.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Smile"
+		"trait_type": "Hat",
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Eyes",
-		"value": "Neo"
+		"value": "Nouns"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "YellowTags"
+		"value": "GreenTags"
 	},
 	{
 		"trait_type": "Pose",
@@ -25,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "LightGreen"
+		"value": "Green"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "OpenSource"
+		"value": "MoneyEyes"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Artwork16"
+		"value": "Grids"
 	}	]
 }

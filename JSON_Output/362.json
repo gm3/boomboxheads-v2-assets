@@ -12,27 +12,23 @@
 		"value": "Benie2"
 	},
 	{
-		"trait_type": "Mouth",
-		"value": "Wow"
-	},
-	{
 		"trait_type": "BodyTexture",
-		"value": "Tags"
+		"value": "Orange"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Taunt"
+		"value": "Idle"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Pink"
+		"value": "Teal"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "CrazyGreen"
+		"value": "Rekt"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Heart"
+		"value": "GrungeWall"
 	}	]
 }

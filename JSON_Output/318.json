@@ -8,20 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead318.jpg",
 "attributes": [
 	{
-		"trait_type": "Mouth",
-		"value": "Mean"
+		"trait_type": "Hat",
+		"value": "Slime"
+	},
+	{
+		"trait_type": "Eyes",
+		"value": "X"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Golden"
+		"value": "Skele"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Angry"
+		"value": "Walking"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Black"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "BBTexture",
@@ -29,6 +33,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "OldWall"
+		"value": "Grids"
 	}	]
 }

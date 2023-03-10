@@ -8,16 +8,24 @@
 "image": "ipfs://www.replacethis.com/boomboxhead267.jpg",
 "attributes": [
 	{
+		"trait_type": "Hat",
+		"value": "Headphones"
+	},
+	{
+		"trait_type": "Mouth",
+		"value": "EQ"
+	},
+	{
 		"trait_type": "Back",
 		"value": "Backpack"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "V2"
+		"value": "Golden"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Look"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -29,6 +37,6 @@
 	},
 	{
 		"trait_type": "Border",
-		"value": "WoodFloor"
+		"value": "Grunge"
 	}	]
 }

@@ -9,11 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Wow"
+		"value": "Benie"
 	},
 	{
 		"trait_type": "Eyes",
@@ -21,11 +17,11 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "Buffed"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Point"
+		"value": "Angry"
 	},
 	{
 		"trait_type": "BGColor",
@@ -33,10 +29,10 @@
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "70ROY"
 	},
 	{
 		"trait_type": "Border",
-		"value": "PinkSwirl"
+		"value": "Ground"
 	}	]
 }

@@ -9,15 +9,7 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Slime"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "Bandana"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "X"
+		"value": "Bubble"
 	},
 	{
 		"trait_type": "Special",
@@ -25,7 +17,7 @@
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Messy"
+		"value": "NeonGreen"
 	},
 	{
 		"trait_type": "Pose",
@@ -33,14 +25,14 @@
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Red"
+		"value": "White"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Clouds"
+		"value": "Dopey"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Trippy"
+		"value": "Brick"
 	}	]
 }

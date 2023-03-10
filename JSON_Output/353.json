@@ -9,34 +9,26 @@
 "attributes": [
 	{
 		"trait_type": "Hat",
-		"value": "Headphones"
-	},
-	{
-		"trait_type": "Mouth",
-		"value": "CDPlayer"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
+		"value": "Arrow"
 	},
 	{
 		"trait_type": "BodyTexture",
-		"value": "Pink"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Idle"
-	},
-	{
-		"trait_type": "BGColor",
 		"value": "Orange"
 	},
 	{
+		"trait_type": "Pose",
+		"value": "Strut"
+	},
+	{
+		"trait_type": "BGColor",
+		"value": "Red"
+	},
+	{
 		"trait_type": "BBTexture",
-		"value": "Smiles"
+		"value": "WideEyed"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Eth"
+		"value": "Artwork3"
 	}	]
 }

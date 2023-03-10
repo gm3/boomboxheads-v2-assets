@@ -12,27 +12,23 @@
 		"value": "Slime"
 	},
 	{
-		"trait_type": "Eyes",
-		"value": "X"
-	},
-	{
 		"trait_type": "BodyTexture",
 		"value": "Phetta"
 	},
 	{
 		"trait_type": "Pose",
-		"value": "Walking"
+		"value": "Boxing"
 	},
 	{
 		"trait_type": "BGColor",
-		"value": "Blue"
+		"value": "LightGreen"
 	},
 	{
 		"trait_type": "BBTexture",
-		"value": "Crazyface"
+		"value": "HappyDude"
 	},
 	{
 		"trait_type": "Border",
-		"value": "Golden"
+		"value": "Brick"
 	}	]
 }
