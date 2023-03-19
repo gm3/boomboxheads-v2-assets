@@ -1,0 +1,6034 @@
+Stats for 1_optimized-processed-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3451032 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20126
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.227ms
+-----------------------
+Stats for 1_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3451032 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20126
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 139.926ms
+-----------------------
+Stats for 1_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3451032 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20126
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 145.794ms
+-----------------------
+Stats for 2_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3569624 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28140
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.337ms
+-----------------------
+Stats for 2_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3569624 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28140
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 144.45ms
+-----------------------
+Stats for 3_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3956984 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 33804
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 157.945ms
+-----------------------
+Stats for 3_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3956984 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 33804
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 159.701ms
+-----------------------
+Stats for 4_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3722600 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 152.59ms
+-----------------------
+Stats for 4_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3722600 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 144.199ms
+-----------------------
+Stats for 5_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3467976 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 20144
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 141.634ms
+-----------------------
+Stats for 5_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3467976 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 20144
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 140.517ms
+-----------------------
+Stats for 6_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 4989680 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26170
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 191.041ms
+-----------------------
+Stats for 6_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4989680 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26170
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 191.836ms
+-----------------------
+Stats for 7_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 2619744 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20970
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 109.157ms
+-----------------------
+Stats for 7_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2619744 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20970
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 112.326ms
+-----------------------
+Stats for 8_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3113280 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 127.918ms
+-----------------------
+Stats for 8_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3113280 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 127.034ms
+-----------------------
+Stats for 9_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3801248 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23968
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 156.291ms
+-----------------------
+Stats for 10_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3888584 bytes
+Images: 9
+Draw calls: 12
+Rendered primitives (e.g., triangles): 30613
+Nodes: 36
+Meshes: 7
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 156.744ms
+-----------------------
+Stats for 11_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3654112 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 24408
+Nodes: 39
+Meshes: 7
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 140.266ms
+-----------------------
+Stats for 12_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3193168 bytes
+Images: 6
+Draw calls: 9
+Rendered primitives (e.g., triangles): 23391
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 131.824ms
+-----------------------
+Stats for 13_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3442408 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 27834
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 142.921ms
+-----------------------
+Stats for 14_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3731064 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 24266
+Nodes: 37
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 151.199ms
+-----------------------
+Stats for 15_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3213048 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 24266
+Nodes: 37
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 137.058ms
+-----------------------
+Stats for 16_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3724224 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 29512
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 149.409ms
+-----------------------
+Stats for 17_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3715640 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 29844
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 142.766ms
+-----------------------
+Stats for 18_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3721536 bytes
+Images: 10
+Draw calls: 9
+Rendered primitives (e.g., triangles): 23954
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 150.529ms
+-----------------------
+Stats for 19_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4006336 bytes
+Images: 11
+Draw calls: 7
+Rendered primitives (e.g., triangles): 26178
+Nodes: 37
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 150.236ms
+-----------------------
+Stats for 20_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3302344 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20338
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 137.359ms
+-----------------------
+Stats for 21_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3872632 bytes
+Images: 10
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23988
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 157.801ms
+-----------------------
+Stats for 22_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3383368 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 26308
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 139.404ms
+-----------------------
+Stats for 23_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4343936 bytes
+Images: 11
+Draw calls: 12
+Rendered primitives (e.g., triangles): 36114
+Nodes: 40
+Meshes: 9
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 174.495ms
+-----------------------
+Stats for 24_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3736112 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23040
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 149.057ms
+-----------------------
+Stats for 25_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3490008 bytes
+Images: 8
+Draw calls: 12
+Rendered primitives (e.g., triangles): 26010
+Nodes: 35
+Meshes: 7
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 146.24ms
+-----------------------
+Stats for 26_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3524056 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 29844
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 144.99ms
+-----------------------
+Stats for 27_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3418824 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20338
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 141.627ms
+-----------------------
+Stats for 28_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3734488 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22720
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 151.235ms
+-----------------------
+Stats for 29_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3754288 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 31665
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 152.84ms
+-----------------------
+Stats for 30_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3949616 bytes
+Images: 12
+Draw calls: 7
+Rendered primitives (e.g., triangles): 29326
+Nodes: 37
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 161.547ms
+-----------------------
+Stats for 31_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3430240 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.636ms
+-----------------------
+Stats for 32_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3530824 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 28488
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 145.362ms
+-----------------------
+Stats for 33_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3186040 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 31398
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.197ms
+-----------------------
+Stats for 34_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3419992 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22428
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 141.031ms
+-----------------------
+Stats for 35_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3367744 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20758
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 128.939ms
+-----------------------
+Stats for 36_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3040176 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21130
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 119.1ms
+-----------------------
+Stats for 37_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4419744 bytes
+Images: 12
+Draw calls: 11
+Rendered primitives (e.g., triangles): 39024
+Nodes: 40
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 175.351ms
+-----------------------
+Stats for 38_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3210520 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 20144
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 134.614ms
+-----------------------
+Stats for 39_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 6314776 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 36168
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 237.219ms
+-----------------------
+Stats for 40_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3229040 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19806
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.657ms
+-----------------------
+Stats for 41_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3561096 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22480
+Nodes: 31
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 145.369ms
+-----------------------
+Stats for 42_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3071280 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20170
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 130.609ms
+-----------------------
+Stats for 43_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3379904 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20770
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 141.454ms
+-----------------------
+Stats for 44_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3527296 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24220
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 138.249ms
+-----------------------
+Stats for 45_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3402568 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 28056
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 129.653ms
+-----------------------
+Stats for 46_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3118656 bytes
+Images: 11
+Draw calls: 11
+Rendered primitives (e.g., triangles): 25738
+Nodes: 37
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 130.741ms
+-----------------------
+Stats for 47_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4991112 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 29875
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 198.729ms
+-----------------------
+Stats for 48_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4967928 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 27466
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 192.449ms
+-----------------------
+Stats for 49_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5181648 bytes
+Images: 10
+Draw calls: 5
+Rendered primitives (e.g., triangles): 23164
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 199.866ms
+-----------------------
+Stats for 50_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3585256 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21058
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 145.303ms
+-----------------------
+Stats for 51_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3474304 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19778
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.529ms
+-----------------------
+Stats for 52_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3211384 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19430
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 135.14ms
+-----------------------
+Stats for 53_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5214320 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 192.151ms
+-----------------------
+Stats for 54_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3113336 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 26491
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 131.533ms
+-----------------------
+Stats for 55_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3461776 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23840
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.96ms
+-----------------------
+Stats for 56_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3376912 bytes
+Images: 7
+Draw calls: 11
+Rendered primitives (e.g., triangles): 25294
+Nodes: 37
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 139.801ms
+-----------------------
+Stats for 57_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2860784 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 20118
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 125.154ms
+-----------------------
+Stats for 58_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3679304 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22206
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.984ms
+-----------------------
+Stats for 59_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3200304 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 136.716ms
+-----------------------
+Stats for 60_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3518336 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 25486
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.918ms
+-----------------------
+Stats for 61_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3556800 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 28488
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.555ms
+-----------------------
+Stats for 62_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3441464 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22916
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.716ms
+-----------------------
+Stats for 63_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3196712 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20886
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 136.205ms
+-----------------------
+Stats for 64_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3623528 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 26308
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.567ms
+-----------------------
+Stats for 65_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3637552 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19698
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 148.79ms
+-----------------------
+Stats for 66_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4104240 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 32382
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 162.069ms
+-----------------------
+Stats for 67_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2959904 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22720
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 126.861ms
+-----------------------
+Stats for 68_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3415688 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19602
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 141.446ms
+-----------------------
+Stats for 69_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5501112 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26266
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 202.752ms
+-----------------------
+Stats for 70_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3205376 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20454
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 125.023ms
+-----------------------
+Stats for 71_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3544696 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22987
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 136.383ms
+-----------------------
+Stats for 72_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3419568 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20654
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.265ms
+-----------------------
+Stats for 73_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3581016 bytes
+Images: 11
+Draw calls: 10
+Rendered primitives (e.g., triangles): 35682
+Nodes: 36
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 146.862ms
+-----------------------
+Stats for 74_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3465704 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21166
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 144.023ms
+-----------------------
+Stats for 75_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5131472 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 197.699ms
+-----------------------
+Stats for 76_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4880840 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24708
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 187.665ms
+-----------------------
+Stats for 77_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2792800 bytes
+Images: 5
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23947
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 121.015ms
+-----------------------
+Stats for 78_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3098240 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19742
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 119.301ms
+-----------------------
+Stats for 79_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3050320 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19862
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 119.922ms
+-----------------------
+Stats for 80_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3371968 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 31482
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 140.81ms
+-----------------------
+Stats for 81_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3433256 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21222
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.747ms
+-----------------------
+Stats for 82_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3483520 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23708
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.595ms
+-----------------------
+Stats for 83_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3261280 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 135.647ms
+-----------------------
+Stats for 84_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3205928 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 134.415ms
+-----------------------
+Stats for 85_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3726632 bytes
+Images: 11
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23932
+Nodes: 39
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 151.721ms
+-----------------------
+Stats for 86_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3208136 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 134.488ms
+-----------------------
+Stats for 87_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4509496 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24708
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 175.682ms
+-----------------------
+Stats for 88_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3413568 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23934
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 136.62ms
+-----------------------
+Stats for 89_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3398376 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23947
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 143.79ms
+-----------------------
+Stats for 90_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4223040 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 34036
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 169.574ms
+-----------------------
+Stats for 91_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4883600 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 23164
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 189.155ms
+-----------------------
+Stats for 92_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3615416 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 147.225ms
+-----------------------
+Stats for 93_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3820536 bytes
+Images: 8
+Draw calls: 12
+Rendered primitives (e.g., triangles): 28696
+Nodes: 35
+Meshes: 7
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 156.44ms
+-----------------------
+Stats for 94_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3174232 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 21182
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 131.579ms
+-----------------------
+Stats for 95_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3346392 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 29280
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 138.679ms
+-----------------------
+Stats for 96_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5126376 bytes
+Images: 9
+Draw calls: 10
+Rendered primitives (e.g., triangles): 30132
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 190.326ms
+-----------------------
+Stats for 97_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3428048 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23934
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.121ms
+-----------------------
+Stats for 98_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3523504 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19462
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 143.743ms
+-----------------------
+Stats for 99_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3389680 bytes
+Images: 5
+Draw calls: 8
+Rendered primitives (e.g., triangles): 29844
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 141.957ms
+-----------------------
+Stats for 100_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 4836104 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 28158
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 184.797ms
+-----------------------
+Stats for 100_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4836104 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 28158
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 188.093ms
+-----------------------
+Stats for 101_optimized-processed.glb
+
+Statistics after:
+Total byte length of all buffers: 3296520 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 134.804ms
+-----------------------
+Stats for 101_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3296520 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.933ms
+-----------------------
+Stats for 102_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3465432 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23040
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 139.588ms
+-----------------------
+Stats for 103_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3671256 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23680
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 146.4ms
+-----------------------
+Stats for 104_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3382464 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24106
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 127.032ms
+-----------------------
+Stats for 105_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2896632 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23344
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 121.789ms
+-----------------------
+Stats for 106_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3836184 bytes
+Images: 11
+Draw calls: 13
+Rendered primitives (e.g., triangles): 28844
+Nodes: 38
+Meshes: 8
+Materials: 13
+Animations: 0
+External requests (not data uris): 0
+Total: 152.959ms
+-----------------------
+Stats for 107_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3547160 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28848
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 141.882ms
+-----------------------
+Stats for 108_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4468048 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24940
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 171.948ms
+-----------------------
+Stats for 109_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3028280 bytes
+Images: 10
+Draw calls: 10
+Rendered primitives (e.g., triangles): 25290
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 125.336ms
+-----------------------
+Stats for 110_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3466128 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23040
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 129.177ms
+-----------------------
+Stats for 111_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5045680 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24180
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 192.657ms
+-----------------------
+Stats for 112_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3014448 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20766
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 124.62ms
+-----------------------
+Stats for 113_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3639824 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20030
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 145.357ms
+-----------------------
+Stats for 114_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4367512 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21238
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 171.213ms
+-----------------------
+Stats for 115_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3013328 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20826
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 121.956ms
+-----------------------
+Stats for 116_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4071392 bytes
+Images: 11
+Draw calls: 10
+Rendered primitives (e.g., triangles): 27432
+Nodes: 36
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 160.071ms
+-----------------------
+Stats for 117_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3776920 bytes
+Images: 10
+Draw calls: 8
+Rendered primitives (e.g., triangles): 28526
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 149.685ms
+-----------------------
+Stats for 118_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3676328 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21794
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 147.941ms
+-----------------------
+Stats for 119_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3457704 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20338
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 128.375ms
+-----------------------
+Stats for 120_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3290304 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19462
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 134.641ms
+-----------------------
+Stats for 121_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5199760 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 27494
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 199.592ms
+-----------------------
+Stats for 122_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3827896 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19862
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 150.533ms
+-----------------------
+Stats for 123_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3606712 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23440
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.755ms
+-----------------------
+Stats for 124_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3437968 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 139.789ms
+-----------------------
+Stats for 125_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3358136 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 27244
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 136.423ms
+-----------------------
+Stats for 126_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3478720 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20170
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 142.966ms
+-----------------------
+Stats for 127_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3327384 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20094
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 140.413ms
+-----------------------
+Stats for 128_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3328072 bytes
+Images: 5
+Draw calls: 8
+Rendered primitives (e.g., triangles): 21250
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 125.692ms
+-----------------------
+Stats for 129_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2940976 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22926
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 123.082ms
+-----------------------
+Stats for 130_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3103648 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20170
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 127.157ms
+-----------------------
+Stats for 131_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4895808 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26668
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 188.136ms
+-----------------------
+Stats for 132_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3153920 bytes
+Images: 7
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 129.872ms
+-----------------------
+Stats for 133_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3243736 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22960
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 132.346ms
+-----------------------
+Stats for 134_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3672896 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 29624
+Nodes: 38
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 146.789ms
+-----------------------
+Stats for 135_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3336416 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19422
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 135.589ms
+-----------------------
+Stats for 136_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4739744 bytes
+Images: 10
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23644
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 183.456ms
+-----------------------
+Stats for 137_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3163032 bytes
+Images: 10
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19602
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 132.326ms
+-----------------------
+Stats for 138_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3328976 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20430
+Nodes: 30
+Meshes: 4
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 136.682ms
+-----------------------
+Stats for 139_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4829824 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 23846
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 187.519ms
+-----------------------
+Stats for 140_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3509176 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 140.639ms
+-----------------------
+Stats for 141_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3355336 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20422
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 135.004ms
+-----------------------
+Stats for 142_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3266568 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 21486
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 135.109ms
+-----------------------
+Stats for 143_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2796616 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22987
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 117.779ms
+-----------------------
+Stats for 144_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3581384 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20886
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 145.184ms
+-----------------------
+Stats for 145_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4802960 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 191.179ms
+-----------------------
+Stats for 146_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3834720 bytes
+Images: 10
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24126
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 151.864ms
+-----------------------
+Stats for 147_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4570624 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24620
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 179.572ms
+-----------------------
+Stats for 148_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3398568 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19806
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 150.154ms
+-----------------------
+Stats for 149_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3384696 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23343
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 147.565ms
+-----------------------
+Stats for 150_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3708152 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 156.146ms
+-----------------------
+Stats for 151_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5171472 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 203.967ms
+-----------------------
+Stats for 152_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3243224 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 132.156ms
+-----------------------
+Stats for 153_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5047776 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24552
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 194.459ms
+-----------------------
+Stats for 154_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3765760 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 31398
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 152.65ms
+-----------------------
+Stats for 155_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4420168 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24612
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 172.543ms
+-----------------------
+Stats for 156_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4398656 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23088
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 182.241ms
+-----------------------
+Stats for 157_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3604128 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 25642
+Nodes: 35
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 151.49ms
+-----------------------
+Stats for 158_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2815736 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23764
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 127.723ms
+-----------------------
+Stats for 159_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3783472 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24222
+Nodes: 33
+Meshes: 6
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 163.285ms
+-----------------------
+Stats for 160_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3035400 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22987
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 128.138ms
+-----------------------
+Stats for 161_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3791048 bytes
+Images: 9
+Draw calls: 11
+Rendered primitives (e.g., triangles): 31300
+Nodes: 40
+Meshes: 8
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 160.141ms
+-----------------------
+Stats for 162_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3220992 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24862
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 140.959ms
+-----------------------
+Stats for 163_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4194112 bytes
+Images: 10
+Draw calls: 11
+Rendered primitives (e.g., triangles): 26766
+Nodes: 37
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 167.718ms
+-----------------------
+Stats for 164_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3653264 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22966
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 200.137ms
+-----------------------
+Stats for 165_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3344144 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23947
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 124.873ms
+-----------------------
+Stats for 166_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3494928 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20770
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.408ms
+-----------------------
+Stats for 167_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3057248 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 129.202ms
+-----------------------
+Stats for 168_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3467624 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20422
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 139.041ms
+-----------------------
+Stats for 169_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3505920 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19706
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 138.198ms
+-----------------------
+Stats for 170_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3877544 bytes
+Images: 10
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23136
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 153.401ms
+-----------------------
+Stats for 171_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2957648 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22384
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 130.297ms
+-----------------------
+Stats for 172_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3454152 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21306
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 140.768ms
+-----------------------
+Stats for 173_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3292216 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20126
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 133.976ms
+-----------------------
+Stats for 174_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3939736 bytes
+Images: 9
+Draw calls: 10
+Rendered primitives (e.g., triangles): 28664
+Nodes: 35
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 161.928ms
+-----------------------
+Stats for 175_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3321536 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20922
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.682ms
+-----------------------
+Stats for 176_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3348944 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20246
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 136.751ms
+-----------------------
+Stats for 177_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4797592 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24940
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 193.909ms
+-----------------------
+Stats for 178_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3884416 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20602
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 160.274ms
+-----------------------
+Stats for 179_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3375984 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21154
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 137.193ms
+-----------------------
+Stats for 180_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3283216 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19740
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 142.668ms
+-----------------------
+Stats for 181_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3877600 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23040
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 141.908ms
+-----------------------
+Stats for 182_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3408120 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 27440
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 138.387ms
+-----------------------
+Stats for 183_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3326472 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20130
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 144.552ms
+-----------------------
+Stats for 184_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2920920 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19894
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 120.86ms
+-----------------------
+Stats for 185_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3397608 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 137.187ms
+-----------------------
+Stats for 186_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4565816 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24672
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 179.368ms
+-----------------------
+Stats for 187_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3147392 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21214
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 128.135ms
+-----------------------
+Stats for 188_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3073272 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 27440
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 126.827ms
+-----------------------
+Stats for 189_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4668024 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24916
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 184.341ms
+-----------------------
+Stats for 190_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3662944 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 149.44ms
+-----------------------
+Stats for 191_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3833160 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24352
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 152.984ms
+-----------------------
+Stats for 192_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3693432 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20382
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 148.371ms
+-----------------------
+Stats for 193_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2761904 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23314
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 111.462ms
+-----------------------
+Stats for 194_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3475000 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23758
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 142.128ms
+-----------------------
+Stats for 195_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2909632 bytes
+Images: 8
+Draw calls: 11
+Rendered primitives (e.g., triangles): 26498
+Nodes: 37
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 133.949ms
+-----------------------
+Stats for 196_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5342064 bytes
+Images: 10
+Draw calls: 8
+Rendered primitives (e.g., triangles): 28542
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 202.567ms
+-----------------------
+Stats for 197_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4034592 bytes
+Images: 11
+Draw calls: 8
+Rendered primitives (e.g., triangles): 26866
+Nodes: 39
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 161.223ms
+-----------------------
+Stats for 198_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3740240 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20918
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 151.268ms
+-----------------------
+Stats for 199_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3826664 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 25570
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 158.845ms
+-----------------------
+Stats for 200_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3634264 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 28664
+Nodes: 35
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 144.283ms
+-----------------------
+Stats for 201_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3031280 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20254
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 124.699ms
+-----------------------
+Stats for 202_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2940136 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20602
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 122.516ms
+-----------------------
+Stats for 203_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3323616 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23708
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 137.175ms
+-----------------------
+Stats for 204_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3508848 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22480
+Nodes: 31
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 144.543ms
+-----------------------
+Stats for 205_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3363568 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 141.482ms
+-----------------------
+Stats for 206_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5231064 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 25236
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 197.614ms
+-----------------------
+Stats for 207_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3122896 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19422
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 128.624ms
+-----------------------
+Stats for 208_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3557824 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20170
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 141.121ms
+-----------------------
+Stats for 209_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4749840 bytes
+Images: 10
+Draw calls: 12
+Rendered primitives (e.g., triangles): 36114
+Nodes: 40
+Meshes: 9
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 196.554ms
+-----------------------
+Stats for 210_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3573080 bytes
+Images: 10
+Draw calls: 11
+Rendered primitives (e.g., triangles): 29280
+Nodes: 38
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 143.859ms
+-----------------------
+Stats for 211_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5447320 bytes
+Images: 12
+Draw calls: 9
+Rendered primitives (e.g., triangles): 31250
+Nodes: 39
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 212.983ms
+-----------------------
+Stats for 212_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3300560 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 29280
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 141.536ms
+-----------------------
+Stats for 213_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3361032 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23674
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 135.985ms
+-----------------------
+Stats for 214_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3055856 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24456
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 117.144ms
+-----------------------
+Stats for 215_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3250696 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 139.582ms
+-----------------------
+Stats for 216_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3348920 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20338
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 137.018ms
+-----------------------
+Stats for 217_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3790736 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 25726
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 168.872ms
+-----------------------
+Stats for 218_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5476000 bytes
+Images: 10
+Draw calls: 9
+Rendered primitives (e.g., triangles): 27654
+Nodes: 38
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 205.817ms
+-----------------------
+Stats for 219_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3418752 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21006
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 141.93ms
+-----------------------
+Stats for 220_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3322760 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21794
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 133.756ms
+-----------------------
+Stats for 221_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4947952 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 27030
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 194.363ms
+-----------------------
+Stats for 222_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3316256 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.505ms
+-----------------------
+Stats for 223_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5074352 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 197.27ms
+-----------------------
+Stats for 224_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4628136 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 169.62ms
+-----------------------
+Stats for 225_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3740232 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22816
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.293ms
+-----------------------
+Stats for 226_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3905568 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23260
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 153.391ms
+-----------------------
+Stats for 227_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4011280 bytes
+Images: 9
+Draw calls: 10
+Rendered primitives (e.g., triangles): 26464
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 148.232ms
+-----------------------
+Stats for 228_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3461920 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 19964
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 148.348ms
+-----------------------
+Stats for 229_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3253256 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22882
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 132.015ms
+-----------------------
+Stats for 230_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2860200 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 120.447ms
+-----------------------
+Stats for 231_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4967736 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23956
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 190.931ms
+-----------------------
+Stats for 232_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5017616 bytes
+Images: 10
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23520
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 194.088ms
+-----------------------
+Stats for 233_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3114936 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20910
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 128.74ms
+-----------------------
+Stats for 234_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3082464 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21154
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 125.331ms
+-----------------------
+Stats for 235_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3600368 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24186
+Nodes: 33
+Meshes: 6
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 144.137ms
+-----------------------
+Stats for 236_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2981448 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 25158
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 125.593ms
+-----------------------
+Stats for 237_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5182448 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 197.601ms
+-----------------------
+Stats for 238_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3116000 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20474
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 127.503ms
+-----------------------
+Stats for 239_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3249056 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22916
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 134.753ms
+-----------------------
+Stats for 240_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4981784 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23820
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 181.393ms
+-----------------------
+Stats for 241_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3182464 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 131.137ms
+-----------------------
+Stats for 242_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3292248 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20166
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 135.812ms
+-----------------------
+Stats for 243_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3124752 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23348
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 127.648ms
+-----------------------
+Stats for 244_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3099256 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19742
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 129.164ms
+-----------------------
+Stats for 245_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3834768 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22614
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 151.377ms
+-----------------------
+Stats for 246_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4617936 bytes
+Images: 6
+Draw calls: 9
+Rendered primitives (e.g., triangles): 25308
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 176.04ms
+-----------------------
+Stats for 247_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3422832 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24372
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 128.519ms
+-----------------------
+Stats for 248_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3531808 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19740
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 140.874ms
+-----------------------
+Stats for 249_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3259776 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23244
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 134.577ms
+-----------------------
+Stats for 250_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3700592 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23268
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 149.074ms
+-----------------------
+Stats for 251_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3250992 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21562
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.881ms
+-----------------------
+Stats for 252_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2810192 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19894
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 117.532ms
+-----------------------
+Stats for 253_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3806992 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23232
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 151.939ms
+-----------------------
+Stats for 254_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3438424 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22720
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 143.162ms
+-----------------------
+Stats for 255_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4848392 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23208
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 188.493ms
+-----------------------
+Stats for 256_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2840664 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 125.815ms
+-----------------------
+Stats for 257_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3424448 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22848
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 127.86ms
+-----------------------
+Stats for 258_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5146896 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24276
+Nodes: 36
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 198.568ms
+-----------------------
+Stats for 259_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3837408 bytes
+Images: 10
+Draw calls: 11
+Rendered primitives (e.g., triangles): 31800
+Nodes: 39
+Meshes: 8
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 151.7ms
+-----------------------
+Stats for 260_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3283784 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 119.934ms
+-----------------------
+Stats for 261_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3019008 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23608
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 124.06ms
+-----------------------
+Stats for 262_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3755744 bytes
+Images: 10
+Draw calls: 10
+Rendered primitives (e.g., triangles): 28101
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 149.851ms
+-----------------------
+Stats for 263_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3635088 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.905ms
+-----------------------
+Stats for 264_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3589336 bytes
+Images: 5
+Draw calls: 8
+Rendered primitives (e.g., triangles): 26525
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 143.162ms
+-----------------------
+Stats for 265_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3322184 bytes
+Images: 7
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20602
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 135.161ms
+-----------------------
+Stats for 266_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3601840 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28140
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 144.748ms
+-----------------------
+Stats for 267_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3745816 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 26089
+Nodes: 33
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 149.885ms
+-----------------------
+Stats for 268_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5252264 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 32274
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 203.153ms
+-----------------------
+Stats for 269_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3455136 bytes
+Images: 9
+Draw calls: 10
+Rendered primitives (e.g., triangles): 27834
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 129.572ms
+-----------------------
+Stats for 270_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3300584 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20958
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 135.92ms
+-----------------------
+Stats for 271_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4624808 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 25272
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 187.251ms
+-----------------------
+Stats for 272_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3823744 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23004
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 153.298ms
+-----------------------
+Stats for 273_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3598728 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23160
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 145.305ms
+-----------------------
+Stats for 274_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3417880 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24694
+Nodes: 35
+Meshes: 6
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 127.983ms
+-----------------------
+Stats for 275_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3675368 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 22698
+Nodes: 36
+Meshes: 7
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 143.996ms
+-----------------------
+Stats for 276_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3747048 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 24268
+Nodes: 33
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 153.988ms
+-----------------------
+Stats for 277_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3180744 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24338
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 131.287ms
+-----------------------
+Stats for 278_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3899024 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 33372
+Nodes: 37
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 150.738ms
+-----------------------
+Stats for 279_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3405192 bytes
+Images: 7
+Draw calls: 12
+Rendered primitives (e.g., triangles): 31015
+Nodes: 35
+Meshes: 7
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 145.494ms
+-----------------------
+Stats for 280_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4831072 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 186.36ms
+-----------------------
+Stats for 281_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3309840 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23708
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.63ms
+-----------------------
+Stats for 282_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3300192 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 138.885ms
+-----------------------
+Stats for 283_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3620824 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.447ms
+-----------------------
+Stats for 284_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3624128 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 31665
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 143.73ms
+-----------------------
+Stats for 285_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3483680 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 28056
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 139.039ms
+-----------------------
+Stats for 286_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4107808 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21562
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 156.587ms
+-----------------------
+Stats for 287_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3082776 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 20914
+Nodes: 38
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 128.091ms
+-----------------------
+Stats for 288_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3245768 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19740
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 134.025ms
+-----------------------
+Stats for 289_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2969528 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21166
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 126.088ms
+-----------------------
+Stats for 290_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5286408 bytes
+Images: 10
+Draw calls: 7
+Rendered primitives (e.g., triangles): 34944
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 201.282ms
+-----------------------
+Stats for 291_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3330512 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20170
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 133.538ms
+-----------------------
+Stats for 292_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4903680 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24388
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 189.912ms
+-----------------------
+Stats for 293_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3234256 bytes
+Images: 5
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19894
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 132.946ms
+-----------------------
+Stats for 294_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3759472 bytes
+Images: 9
+Draw calls: 12
+Rendered primitives (e.g., triangles): 24620
+Nodes: 35
+Meshes: 7
+Materials: 12
+Animations: 0
+External requests (not data uris): 0
+Total: 150.293ms
+-----------------------
+Stats for 295_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3310672 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22800
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 128.21ms
+-----------------------
+Stats for 296_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3474688 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 140.188ms
+-----------------------
+Stats for 297_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3816592 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 27772
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 153.595ms
+-----------------------
+Stats for 298_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3630120 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21878
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 146.052ms
+-----------------------
+Stats for 299_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3128896 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22882
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 128.208ms
+-----------------------
+Stats for 300_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3365520 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 127.621ms
+-----------------------
+Stats for 301_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3415648 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20886
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 141.897ms
+-----------------------
+Stats for 302_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2605424 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 112.356ms
+-----------------------
+Stats for 303_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4687672 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 25348
+Nodes: 34
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 180.508ms
+-----------------------
+Stats for 304_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2989104 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 123.498ms
+-----------------------
+Stats for 305_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3829200 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 149.012ms
+-----------------------
+Stats for 306_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3538208 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22532
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 130.537ms
+-----------------------
+Stats for 307_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2966192 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19734
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 125.589ms
+-----------------------
+Stats for 308_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3348776 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 21878
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 135.437ms
+-----------------------
+Stats for 309_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3876472 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23356
+Nodes: 37
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 150.872ms
+-----------------------
+Stats for 310_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3422720 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20382
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 137.998ms
+-----------------------
+Stats for 311_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3112664 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20094
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 118.853ms
+-----------------------
+Stats for 312_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3268024 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 136.936ms
+-----------------------
+Stats for 313_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4915424 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23484
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 187.841ms
+-----------------------
+Stats for 314_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3265008 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 24334
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 131.989ms
+-----------------------
+Stats for 315_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5040072 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24916
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 194.686ms
+-----------------------
+Stats for 316_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2883008 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19506
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 121.081ms
+-----------------------
+Stats for 317_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3635328 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 24670
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 145.446ms
+-----------------------
+Stats for 318_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3154616 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 29512
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 119.457ms
+-----------------------
+Stats for 319_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3614128 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28140
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 144.566ms
+-----------------------
+Stats for 320_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5341240 bytes
+Images: 11
+Draw calls: 8
+Rendered primitives (e.g., triangles): 30568
+Nodes: 39
+Meshes: 7
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 202.951ms
+-----------------------
+Stats for 321_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3564072 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19474
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 146.248ms
+-----------------------
+Stats for 322_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3037240 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 19740
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 125.474ms
+-----------------------
+Stats for 323_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2936784 bytes
+Images: 10
+Draw calls: 9
+Rendered primitives (e.g., triangles): 24954
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 125.487ms
+-----------------------
+Stats for 324_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4357944 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23208
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 173.942ms
+-----------------------
+Stats for 325_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2469912 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 95.958ms
+-----------------------
+Stats for 326_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3652952 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23004
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 136.164ms
+-----------------------
+Stats for 327_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3847112 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23076
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 153.649ms
+-----------------------
+Stats for 328_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3849184 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 33804
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 153.97ms
+-----------------------
+Stats for 329_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3359984 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23348
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 134.236ms
+-----------------------
+Stats for 330_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3521968 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 140.07ms
+-----------------------
+Stats for 331_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3499440 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23936
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 139.185ms
+-----------------------
+Stats for 332_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3632440 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28848
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 143.91ms
+-----------------------
+Stats for 333_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3426392 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20526
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 138.561ms
+-----------------------
+Stats for 334_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3151664 bytes
+Images: 9
+Draw calls: 10
+Rendered primitives (e.g., triangles): 28204
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 131.16ms
+-----------------------
+Stats for 335_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3617680 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20886
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 147.171ms
+-----------------------
+Stats for 336_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3382880 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23608
+Nodes: 32
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 137.073ms
+-----------------------
+Stats for 337_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2906096 bytes
+Images: 6
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 3
+Animations: 0
+External requests (not data uris): 0
+Total: 122.051ms
+-----------------------
+Stats for 338_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3337008 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 31590
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 137.327ms
+-----------------------
+Stats for 339_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4680160 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 29779
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 176.446ms
+-----------------------
+Stats for 340_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4823752 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23526
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 176.864ms
+-----------------------
+Stats for 341_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2407976 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19698
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 104.804ms
+-----------------------
+Stats for 342_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3689240 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22912
+Nodes: 35
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.322ms
+-----------------------
+Stats for 343_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3755144 bytes
+Images: 9
+Draw calls: 9
+Rendered primitives (e.g., triangles): 23946
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 152.281ms
+-----------------------
+Stats for 344_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3611544 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23947
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 145.711ms
+-----------------------
+Stats for 345_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3583456 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23520
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 145.128ms
+-----------------------
+Stats for 346_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3872280 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26258
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 151.431ms
+-----------------------
+Stats for 347_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3352672 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 20166
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 134.956ms
+-----------------------
+Stats for 348_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3199736 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20490
+Nodes: 34
+Meshes: 5
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 130.879ms
+-----------------------
+Stats for 349_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3057968 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 20118
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 125.535ms
+-----------------------
+Stats for 350_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3397176 bytes
+Images: 5
+Draw calls: 9
+Rendered primitives (e.g., triangles): 31749
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 137.232ms
+-----------------------
+Stats for 351_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3353432 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 22804
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 136.279ms
+-----------------------
+Stats for 352_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3738248 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24338
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 144.259ms
+-----------------------
+Stats for 353_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3579400 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23902
+Nodes: 31
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 142.487ms
+-----------------------
+Stats for 354_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3789016 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 32580
+Nodes: 33
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 153.596ms
+-----------------------
+Stats for 355_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3037912 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21794
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 123.457ms
+-----------------------
+Stats for 356_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3979048 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19462
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 146.197ms
+-----------------------
+Stats for 357_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3498640 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21222
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.638ms
+-----------------------
+Stats for 358_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3395448 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19422
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 139.83ms
+-----------------------
+Stats for 359_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3706776 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19646
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 146.25ms
+-----------------------
+Stats for 360_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3883768 bytes
+Images: 10
+Draw calls: 7
+Rendered primitives (e.g., triangles): 26782
+Nodes: 37
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 153.727ms
+-----------------------
+Stats for 361_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5179560 bytes
+Images: 7
+Draw calls: 9
+Rendered primitives (e.g., triangles): 25912
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 195.558ms
+-----------------------
+Stats for 362_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3298072 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19422
+Nodes: 32
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 123.745ms
+-----------------------
+Stats for 363_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4664632 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 23164
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 175.596ms
+-----------------------
+Stats for 364_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3724160 bytes
+Images: 8
+Draw calls: 10
+Rendered primitives (e.g., triangles): 26952
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 144.906ms
+-----------------------
+Stats for 365_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4681320 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24216
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 180.045ms
+-----------------------
+Stats for 366_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3570232 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 28488
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 142.96ms
+-----------------------
+Stats for 367_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4806408 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 24556
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 183.143ms
+-----------------------
+Stats for 368_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3419592 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20766
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 130.56ms
+-----------------------
+Stats for 369_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5396440 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 25580
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 205.959ms
+-----------------------
+Stats for 370_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3126672 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20686
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 126.815ms
+-----------------------
+Stats for 371_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2905864 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19698
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 119.018ms
+-----------------------
+Stats for 372_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2956624 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 122.862ms
+-----------------------
+Stats for 373_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3320056 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28848
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 140.576ms
+-----------------------
+Stats for 374_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4095320 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 26002
+Nodes: 39
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 161.204ms
+-----------------------
+Stats for 375_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3548264 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23936
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 142.928ms
+-----------------------
+Stats for 376_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4087152 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 25228
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 162.934ms
+-----------------------
+Stats for 377_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3516440 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 23362
+Nodes: 34
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 130.902ms
+-----------------------
+Stats for 378_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3660520 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 28100
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 132.427ms
+-----------------------
+Stats for 379_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4219776 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26668
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 165.896ms
+-----------------------
+Stats for 380_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3848264 bytes
+Images: 8
+Draw calls: 9
+Rendered primitives (e.g., triangles): 29627
+Nodes: 35
+Meshes: 6
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 152.728ms
+-----------------------
+Stats for 381_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3270952 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 24334
+Nodes: 35
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 138.313ms
+-----------------------
+Stats for 382_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4891336 bytes
+Images: 9
+Draw calls: 6
+Rendered primitives (e.g., triangles): 26266
+Nodes: 33
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 187.96ms
+-----------------------
+Stats for 383_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3453104 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22882
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 141.019ms
+-----------------------
+Stats for 384_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4697880 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 23164
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 185.54ms
+-----------------------
+Stats for 385_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4670816 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24240
+Nodes: 36
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 177.366ms
+-----------------------
+Stats for 386_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3870432 bytes
+Images: 10
+Draw calls: 10
+Rendered primitives (e.g., triangles): 27600
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 154.573ms
+-----------------------
+Stats for 387_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3559688 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20090
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 148.613ms
+-----------------------
+Stats for 388_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3430120 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 20700
+Nodes: 32
+Meshes: 5
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 142.824ms
+-----------------------
+Stats for 389_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3446608 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 146.514ms
+-----------------------
+Stats for 390_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3477024 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 24708
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 142.233ms
+-----------------------
+Stats for 391_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3211936 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 135.583ms
+-----------------------
+Stats for 392_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3296968 bytes
+Images: 6
+Draw calls: 5
+Rendered primitives (e.g., triangles): 19734
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 134.69ms
+-----------------------
+Stats for 393_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4926000 bytes
+Images: 10
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23648
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 185.549ms
+-----------------------
+Stats for 394_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3593240 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 24012
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 133.848ms
+-----------------------
+Stats for 395_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3530616 bytes
+Images: 9
+Draw calls: 11
+Rendered primitives (e.g., triangles): 27838
+Nodes: 37
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 142.882ms
+-----------------------
+Stats for 396_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3246216 bytes
+Images: 7
+Draw calls: 10
+Rendered primitives (e.g., triangles): 26952
+Nodes: 37
+Meshes: 7
+Materials: 10
+Animations: 0
+External requests (not data uris): 0
+Total: 132.323ms
+-----------------------
+Stats for 397_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3358120 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20922
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 135.251ms
+-----------------------
+Stats for 398_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3740160 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22480
+Nodes: 31
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 148.937ms
+-----------------------
+Stats for 399_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3706488 bytes
+Images: 7
+Draw calls: 7
+Rendered primitives (e.g., triangles): 31950
+Nodes: 37
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 147.068ms
+-----------------------
+Stats for 400_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2907944 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 21118
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 123.451ms
+-----------------------
+Stats for 401_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5202704 bytes
+Images: 7
+Draw calls: 8
+Rendered primitives (e.g., triangles): 32274
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 204.498ms
+-----------------------
+Stats for 402_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3136680 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 23314
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 118.904ms
+-----------------------
+Stats for 403_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4545280 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 26746
+Nodes: 36
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 175.284ms
+-----------------------
+Stats for 404_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3007392 bytes
+Images: 6
+Draw calls: 6
+Rendered primitives (e.g., triangles): 20922
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 124.543ms
+-----------------------
+Stats for 405_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3712344 bytes
+Images: 5
+Draw calls: 5
+Rendered primitives (e.g., triangles): 20834
+Nodes: 30
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 148.704ms
+-----------------------
+Stats for 406_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3707248 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22576
+Nodes: 37
+Meshes: 6
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 148.468ms
+-----------------------
+Stats for 407_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5356896 bytes
+Images: 9
+Draw calls: 8
+Rendered primitives (e.g., triangles): 26698
+Nodes: 37
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 201.897ms
+-----------------------
+Stats for 408_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4623776 bytes
+Images: 8
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24672
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 177.331ms
+-----------------------
+Stats for 409_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4635848 bytes
+Images: 8
+Draw calls: 8
+Rendered primitives (e.g., triangles): 25992
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 180.015ms
+-----------------------
+Stats for 410_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 2878944 bytes
+Images: 5
+Draw calls: 4
+Rendered primitives (e.g., triangles): 19378
+Nodes: 28
+Meshes: 3
+Materials: 4
+Animations: 0
+External requests (not data uris): 0
+Total: 109.882ms
+-----------------------
+Stats for 411_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4071672 bytes
+Images: 8
+Draw calls: 5
+Rendered primitives (e.g., triangles): 22480
+Nodes: 31
+Meshes: 4
+Materials: 5
+Animations: 0
+External requests (not data uris): 0
+Total: 159.812ms
+-----------------------
+Stats for 412_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5056584 bytes
+Images: 10
+Draw calls: 11
+Rendered primitives (e.g., triangles): 34431
+Nodes: 39
+Meshes: 8
+Materials: 11
+Animations: 0
+External requests (not data uris): 0
+Total: 193.042ms
+-----------------------
+Stats for 413_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5012760 bytes
+Images: 9
+Draw calls: 7
+Rendered primitives (e.g., triangles): 24500
+Nodes: 34
+Meshes: 6
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 189.105ms
+-----------------------
+Stats for 414_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 4589760 bytes
+Images: 5
+Draw calls: 6
+Rendered primitives (e.g., triangles): 24388
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 176.974ms
+-----------------------
+Stats for 415_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 5190224 bytes
+Images: 13
+Draw calls: 9
+Rendered primitives (e.g., triangles): 31250
+Nodes: 39
+Meshes: 8
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 198.028ms
+-----------------------
+Stats for 416_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3197864 bytes
+Images: 6
+Draw calls: 7
+Rendered primitives (e.g., triangles): 22987
+Nodes: 30
+Meshes: 4
+Materials: 7
+Animations: 0
+External requests (not data uris): 0
+Total: 130.393ms
+-----------------------
+Stats for 417_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3651416 bytes
+Images: 8
+Draw calls: 6
+Rendered primitives (e.g., triangles): 23076
+Nodes: 34
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 139.334ms
+-----------------------
+Stats for 418_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3357440 bytes
+Images: 6
+Draw calls: 8
+Rendered primitives (e.g., triangles): 23398
+Nodes: 36
+Meshes: 7
+Materials: 8
+Animations: 0
+External requests (not data uris): 0
+Total: 125.791ms
+-----------------------
+Stats for 419_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3055344 bytes
+Images: 7
+Draw calls: 6
+Rendered primitives (e.g., triangles): 19810
+Nodes: 32
+Meshes: 5
+Materials: 6
+Animations: 0
+External requests (not data uris): 0
+Total: 126.19ms
+-----------------------
+Stats for 420_optimized.glb
+
+Statistics after:
+Total byte length of all buffers: 3716968 bytes
+Images: 10
+Draw calls: 10
+Rendered primitives (e.g., triangles): 27564
+Nodes: 37
+Meshes: 7
+Materials: 9
+Animations: 0
+External requests (not data uris): 0
+Total: 163.818ms
+-----------------------

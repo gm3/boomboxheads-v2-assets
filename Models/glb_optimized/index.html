@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Model Viewer Example</title>
+    <!-- Import the component -->
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+      model-viewer {
+        width: 100%;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Use it like any other HTML element -->
+    <model-viewer alt="Test" src="1_optimized_fixed.glb" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+  </body>
+</html>
