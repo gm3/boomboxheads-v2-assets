@@ -4,7 +4,7 @@
     
 * https://gm3.github.io/bbdapp/ Project Home Page
 * https://twitter.com/boomboxheads Project Twitter
-* discord.gg/ad6Cj6PQ84 Project Discord
+* https://discord.gg/ad6Cj6PQ84 Project Discord
     
 ---
 
