@@ -1,38 +1,39 @@
-{ 
-"name": "Boomboxhead #43",
-"created_by": "Boomboxhead",
-"external_url": "https://twitter.com/boomboxheads",
-"description": "Boomboxheads V2 is a compilation of VRM avatars that are generated in 3D and exist on the Ethereum Network. These avatars are available for public use under the cc0 license and were produced utilizing the Boom-tools software, which is an open-source project running on Unity3d. This powerful tool generates VRM avatars, along with their corresponding metadata and thumbnail. The project is heavily inspired by its predecessors, Boomboxheads: Originals and Boomboxheads: Legends, which paved the way for the creation of this exciting new project.",
-"vrm_url": "ipfs://www.replacethis.com/boomboxhead43.vrm",
-"animation_url": "ipfs://www.replacethis.com/boomboxhead43.glb",
-"image": "ipfs://www.replacethis.com/boomboxhead43.jpg",
-"attributes": [
-	{
-		"trait_type": "Hat",
-		"value": "Plunger"
-	},
-	{
-		"trait_type": "Eyes",
-		"value": "Regular"
-	},
-	{
-		"trait_type": "BodyTexture",
-		"value": "GreenTags"
-	},
-	{
-		"trait_type": "Pose",
-		"value": "Joy"
-	},
-	{
-		"trait_type": "BGColor",
-		"value": "Black"
-	},
-	{
-		"trait_type": "BBTexture",
-		"value": "Smiles"
-	},
-	{
-		"trait_type": "Border",
-		"value": "Artwork15"
-	}	]
+{
+  "name": "Boomboxhead #43",
+  "created_by": "Boomboxhead",
+  "external_url": "https://twitter.com/boomboxheads",
+  "description": "Boomboxheads V2 is a compilation of VRM avatars that are generated in 3D and exist on the Ethereum Network. These avatars are available for public use under the cc0 license and were produced utilizing the Boom-tools software, which is an open-source project running on Unity3d. This powerful tool generates VRM avatars, along with their corresponding metadata and thumbnail. The project is heavily inspired by its predecessors, Boomboxheads: Originals and Boomboxheads: Legends, which paved the way for the creation of this exciting new project.",
+  "vrm_url": "ipfs://www.replacethis.com/boomboxhead43.vrm",
+  "animation_url": "ipfs://www.replacethis.com/boomboxhead43.glb",
+  "image": "ipfs://www.replacethis.com/boomboxhead43.jpg",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Plunger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "BodyTexture",
+      "value": "GreenTags"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Joy"
+    },
+    {
+      "trait_type": "BGColor",
+      "value": "Black"
+    },
+    {
+      "trait_type": "BBTexture",
+      "value": "Smiles"
+    },
+    {
+      "trait_type": "Border",
+      "value": "Artwork15"
+    }
+  ]
 }
