@@ -10,22 +10,22 @@
     {
       "trait_type": "BodyTexture",
       "value": "V2"
-    },
+    },,
     {
       "trait_type": "Pose",
       "value": "Point"
-    },
+    },,
     {
       "trait_type": "BGColor",
       "value": "Red"
-    },
+    },,
     {
       "trait_type": "BBTexture",
       "value": "Dank"
-    },
+    },,
     {
       "trait_type": "Border",
       "value": "Ground"
-    }
+    },
   ]
-}
+},
