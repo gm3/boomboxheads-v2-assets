@@ -1,0 +1,21 @@
+{
+  "packets": [
+    {
+      "name": "Boomboxhead #287",
+      "author": "Boomboxhead",
+      "description": "Boomboxheads V2 is a compilation of VRM avatars that are generated in 3D and exist on the Ethereum Network. These avatars are available for public use under the cc0 license and were produced utilizing the Boom-tools software, which is an open-source project running on Unity3d. This powerful tool generates VRM avatars, along with their corresponding metadata and thumbnail. The project is heavily inspired by its predecessors, Boomboxheads: Originals and Boomboxheads: Legends, which paved the way for the creation of this exciting new project.",
+      "vrm_url": "ipfs://bafybeicppr5ljzlmsv4jrefstnc7qkz3ohq5ty6jhxbiqrtyifelggp55y/287.vrm",
+      "image": "ipfs://bafybeigb443wq63feqiq6zw7k7rlepefprx3m3dkycc26lq6syiu6wzism/287.jpg",
+      "external_url": "https://twitter.com/boomboxheads",
+      "Hat": "Wick",
+      "Mouth": "EQ",
+      "Eyes": "X",
+      "Special": "Chain",
+      "BodyTexture": "Orange",
+      "Pose": "Joy",
+      "BGColor": "Orange",
+      "BBTexture": "Rekt",
+      "Border": "Artwork1"
+    }
+  ]
+}
