@@ -40,5 +40,183 @@ The whitelist price will be .03 and the public mint will be .06! If you have any
     
 ![](https://hackmd.io/_uploads/rkaxlcI12.jpg)
 
+## Boomboxhead v2 Traits and Metadata
+
+### Multi-Format NFT
+- Boomboxhead 3d .GLB
+- Boomboxhead .VRM
+- 4096x4096 NFT Artwork .JPG
+
+### Hat
+* Plunger
+* Slime
+* Arrow
+* Bubble
+* Antenna
+* Benie
+* Benie2
+* Headphones
+* Signal
+* Wick
+
+## Mouth
+* CDPlayer
+* Bandana
+* EQ
+
+## Eyes
+* 3d
+* Clout
+* Valve
+* Screws
+* X
+* Goggles
+* Neo
+* Zoom
+* Regular
+* Nouns
+
+## Back
+* Backpack
+
+## Special
+* Chain
+
+## Pose
+* Idle
+* Idle2
+* Walking
+* Angry
+* Boxing
+* Dismiss
+* Joy
+* Look
+* Point
+* Strut
+* Taunt
+
+## BGColor
+* Blue
+* Green
+* Purple
+* Teal
+* White
+* Yellow
+* Black
+* Orange
+* Pink
+* LightGreen
+* Red
+* Golden
+
+## BodyTexture
+* Buffed
+* Skele
+* Street
+* Painter
+* GreenTags
+* Abstract
+* Tags
+* 888
+* V2
+* Minter
+* Purp
+* GreenSlime
+* BlueTags
+* Lines
+* Messy
+* YellowTags
+* NeonGreen
+* Split
+* Wild
+* Phetta
+* Golden
+* Yellow
+* Red
+* Pink
+* Purple
+* Orange
+* WoodFloor
+* RustSteel
+
+## BBTexture
+* Smiles
+* Backwards
+* Clouds
+* Crazyface
+* Stressed
+* Wolf
+* Rekt
+* Ahhh
+* Soundwaves
+* WideEyed
+* HappyDude
+* MoneyEyes
+* OpenSource
+* YellowEyes
+* CantSleep
+* 70ROY
+* CrazyGreen
+* Dopey
+* Dank
+* M3TV
+* Golden
+
+## Border
+* AbstractPaint
+* Artwork1
+* Artwork2
+* Artwork3
+* Artwork4
+* Artwork5
+* Artwork6
+* Artwork7
+* Artwork8
+* Artwork9
+* Artwork10
+* Artwork11
+* Artwork12
+* Artwork13
+* Artwork14
+* Artwork15
+* Artwork16
+* Artwork17
+* BlueWall
+* Brick
+* BrickWall
+* Cyberpunk
+* Deco
+* Eth
+* Fancy
+* Frozen
+* Gizmos
+* GlitchBlue
+* DarkRed
+* Grids
+* Ground
+* Grunge
+* GrungeWall
+* Heart
+* InteriorWall
+* LightWood
+* Liquid
+* Lucky
+* Moss
+* OldWall
+* White
+* Panels
+* Pebble
+* PinkSwirl
+* Pottery
+* RustSteel
+* Smear
+* Steel
+* Swirls
+* Trippy
+* Wall
+* William
+* WoodFloor
+* Golden
+
 
 </center>
