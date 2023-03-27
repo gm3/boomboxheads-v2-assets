@@ -96,18 +96,18 @@ The whitelist price will be .03 and the public mint will be .06! If you have any
 * Taunt
 
 ## BGColor
-* Blue
-* Green
-* Purple
-* Teal
-* White
-* Yellow
-* Black
-* Orange
-* Pink
-* LightGreen
-* Red
-* Golden
+* Blue: #0000FF
+* Green: #008000
+* Purple: #800080
+* Teal: #008080
+* White: #FFFFFF
+* Yellow: #FFFF00
+* Black: #000000
+* Orange: #FFA500
+* Pink: #FFC0CB
+* LightGreen: #90EE90
+* Red: #FF0000
+* Golden: #FFD700
 
 ## BodyTexture
 * Buffed
