@@ -36,7 +36,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #2",
@@ -75,7 +76,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #3",
@@ -118,7 +120,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #4",
@@ -153,7 +156,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #5",
@@ -196,7 +200,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #6",
@@ -235,7 +240,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #7",
@@ -278,7 +284,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #8",
@@ -317,7 +324,8 @@
         "trait_type": "Border",
         "value": "Artwork8"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #9",
@@ -356,7 +364,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #10",
@@ -399,7 +408,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #11",
@@ -446,7 +456,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #12",
@@ -489,7 +500,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #13",
@@ -532,7 +544,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #14",
@@ -575,7 +588,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #15",
@@ -618,7 +632,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #16",
@@ -657,7 +672,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #17",
@@ -696,7 +712,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #18",
@@ -735,7 +752,8 @@
         "trait_type": "Border",
         "value": "Artwork7"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #19",
@@ -778,7 +796,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #20",
@@ -813,7 +832,8 @@
         "trait_type": "Border",
         "value": "Artwork8"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #21",
@@ -856,7 +876,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #22",
@@ -899,7 +920,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #23",
@@ -946,7 +968,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #24",
@@ -985,7 +1008,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #25",
@@ -1028,7 +1052,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #26",
@@ -1067,7 +1092,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #27",
@@ -1102,7 +1128,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #28",
@@ -1137,7 +1164,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #29",
@@ -1176,7 +1204,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #30",
@@ -1219,7 +1248,8 @@
         "trait_type": "Border",
         "value": "OldWall"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #31",
@@ -1254,7 +1284,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #32",
@@ -1293,7 +1324,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #33",
@@ -1332,7 +1364,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #34",
@@ -1371,7 +1404,8 @@
         "trait_type": "Border",
         "value": "Fancy"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #35",
@@ -1414,7 +1448,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "FFD700"
   },
   {
     "name": "Boomboxhead #36",
@@ -1453,7 +1488,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #37",
@@ -1500,7 +1536,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #38",
@@ -1543,7 +1580,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #39",
@@ -1590,7 +1628,8 @@
         "trait_type": "Border",
         "value": "Grids"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #40",
@@ -1625,7 +1664,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #41",
@@ -1660,7 +1700,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #42",
@@ -1695,7 +1736,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #43",
@@ -1734,7 +1776,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #44",
@@ -1777,7 +1820,8 @@
         "trait_type": "Border",
         "value": "OldWall"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #45",
@@ -1812,7 +1856,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #46",
@@ -1859,7 +1904,8 @@
         "trait_type": "Border",
         "value": "AbstractPaint"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #47",
@@ -1902,7 +1948,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #48",
@@ -1945,7 +1992,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #49",
@@ -1980,7 +2028,8 @@
         "trait_type": "Border",
         "value": "William"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #50",
@@ -2019,7 +2068,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #51",
@@ -2058,7 +2108,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #52",
@@ -2093,7 +2144,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #53",
@@ -2132,7 +2184,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #54",
@@ -2171,7 +2224,8 @@
         "trait_type": "Border",
         "value": "Artwork2"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #55",
@@ -2210,7 +2264,8 @@
         "trait_type": "Border",
         "value": "WoodFloor"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #56",
@@ -2253,7 +2308,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #57",
@@ -2296,7 +2352,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #58",
@@ -2339,7 +2396,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #59",
@@ -2378,7 +2436,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #60",
@@ -2417,7 +2476,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #61",
@@ -2456,7 +2516,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #62",
@@ -2491,7 +2552,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #63",
@@ -2530,7 +2592,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #64",
@@ -2573,7 +2636,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #65",
@@ -2608,7 +2672,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #66",
@@ -2651,7 +2716,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #67",
@@ -2686,7 +2752,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #68",
@@ -2721,7 +2788,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #69",
@@ -2760,7 +2828,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #70",
@@ -2799,7 +2868,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #71",
@@ -2834,7 +2904,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #72",
@@ -2873,7 +2944,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #73",
@@ -2916,7 +2988,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #74",
@@ -2951,7 +3024,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #75",
@@ -2990,7 +3064,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #76",
@@ -3033,7 +3108,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #77",
@@ -3072,7 +3148,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #78",
@@ -3111,7 +3188,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #79",
@@ -3150,7 +3228,8 @@
         "trait_type": "Border",
         "value": "Artwork7"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #80",
@@ -3193,7 +3272,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #81",
@@ -3232,7 +3312,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #82",
@@ -3271,7 +3352,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #83",
@@ -3302,7 +3384,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #84",
@@ -3333,7 +3416,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #85",
@@ -3380,7 +3464,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #86",
@@ -3411,7 +3496,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #87",
@@ -3454,7 +3540,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #88",
@@ -3493,7 +3580,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #89",
@@ -3532,7 +3620,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #90",
@@ -3575,7 +3664,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #91",
@@ -3610,7 +3700,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #92",
@@ -3649,7 +3740,8 @@
         "trait_type": "Border",
         "value": "OldWall"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #93",
@@ -3692,7 +3784,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #94",
@@ -3735,7 +3828,8 @@
         "trait_type": "Border",
         "value": "Artwork1"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #95",
@@ -3774,7 +3868,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #96",
@@ -3821,7 +3916,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #97",
@@ -3860,7 +3956,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #98",
@@ -3895,7 +3992,8 @@
         "trait_type": "Border",
         "value": "Grunge"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #99",
@@ -3934,7 +4032,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #100",
@@ -3977,7 +4076,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #101",
@@ -4012,7 +4112,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #102",
@@ -4051,7 +4152,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #103",
@@ -4090,7 +4192,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #104",
@@ -4129,7 +4232,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #105",
@@ -4168,7 +4272,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #106",
@@ -4215,7 +4320,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #107",
@@ -4254,7 +4360,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #108",
@@ -4297,7 +4404,8 @@
         "trait_type": "Border",
         "value": "Artwork17"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #109",
@@ -4340,7 +4448,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #110",
@@ -4379,7 +4488,8 @@
         "trait_type": "Border",
         "value": "WoodFloor"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #111",
@@ -4422,7 +4532,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #112",
@@ -4461,7 +4572,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #113",
@@ -4500,7 +4612,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #114",
@@ -4543,7 +4656,8 @@
         "trait_type": "Border",
         "value": "Grids"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #115",
@@ -4582,7 +4696,8 @@
         "trait_type": "Border",
         "value": "Smear"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #116",
@@ -4625,7 +4740,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #117",
@@ -4672,7 +4788,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #118",
@@ -4711,7 +4828,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #119",
@@ -4746,7 +4864,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #120",
@@ -4781,7 +4900,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #121",
@@ -4824,7 +4944,8 @@
         "trait_type": "Border",
         "value": "Grids"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #122",
@@ -4867,7 +4988,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #123",
@@ -4906,7 +5028,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #124",
@@ -4945,7 +5068,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #125",
@@ -4984,7 +5108,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #126",
@@ -5019,7 +5144,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #127",
@@ -5058,7 +5184,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #128",
@@ -5097,7 +5224,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #129",
@@ -5136,7 +5264,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #130",
@@ -5171,7 +5300,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #131",
@@ -5210,7 +5340,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #132",
@@ -5241,7 +5372,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #133",
@@ -5280,7 +5412,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #134",
@@ -5327,7 +5460,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #135",
@@ -5362,7 +5496,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #136",
@@ -5405,7 +5540,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #137",
@@ -5440,7 +5576,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #138",
@@ -5475,7 +5612,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #139",
@@ -5518,7 +5656,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #140",
@@ -5557,7 +5696,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #141",
@@ -5596,7 +5736,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #142",
@@ -5635,7 +5776,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #143",
@@ -5670,7 +5812,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #144",
@@ -5709,7 +5852,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #145",
@@ -5748,7 +5892,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #146",
@@ -5787,7 +5932,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #147",
@@ -5826,7 +5972,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #148",
@@ -5861,7 +6008,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #149",
@@ -5900,7 +6048,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #150",
@@ -5935,7 +6084,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #151",
@@ -5974,7 +6124,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #152",
@@ -6009,7 +6160,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #153",
@@ -6052,7 +6204,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #154",
@@ -6091,7 +6244,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #155",
@@ -6134,7 +6288,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #156",
@@ -6177,7 +6332,8 @@
         "trait_type": "Border",
         "value": "Grids"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #157",
@@ -6220,7 +6376,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #158",
@@ -6263,7 +6420,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #159",
@@ -6302,7 +6460,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #160",
@@ -6337,7 +6496,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #161",
@@ -6384,7 +6544,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #162",
@@ -6423,7 +6584,8 @@
         "trait_type": "Border",
         "value": "Grunge"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #163",
@@ -6470,7 +6632,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #164",
@@ -6509,7 +6672,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #165",
@@ -6548,7 +6712,8 @@
         "trait_type": "Border",
         "value": "Artwork2"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #166",
@@ -6587,7 +6752,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #167",
@@ -6626,7 +6792,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #168",
@@ -6665,7 +6832,8 @@
         "trait_type": "Border",
         "value": "Artwork2"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #169",
@@ -6704,7 +6872,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #170",
@@ -6747,7 +6916,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #171",
@@ -6782,7 +6952,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #172",
@@ -6825,7 +6996,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #173",
@@ -6864,7 +7036,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #174",
@@ -6907,7 +7080,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #175",
@@ -6946,7 +7120,8 @@
         "trait_type": "Border",
         "value": "AbstractPaint"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #176",
@@ -6989,7 +7164,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #177",
@@ -7032,7 +7208,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #178",
@@ -7067,7 +7244,8 @@
         "trait_type": "Border",
         "value": "William"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #179",
@@ -7106,7 +7284,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #180",
@@ -7141,7 +7320,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #181",
@@ -7180,7 +7360,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #182",
@@ -7223,7 +7404,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #183",
@@ -7262,7 +7444,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #184",
@@ -7301,7 +7484,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #185",
@@ -7332,7 +7516,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #186",
@@ -7375,7 +7560,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #187",
@@ -7418,7 +7604,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #188",
@@ -7457,7 +7644,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #189",
@@ -7500,7 +7688,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #190",
@@ -7539,7 +7728,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #191",
@@ -7582,7 +7772,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #192",
@@ -7621,7 +7812,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #193",
@@ -7660,7 +7852,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #194",
@@ -7703,7 +7896,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #195",
@@ -7750,7 +7944,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #196",
@@ -7797,7 +7992,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #197",
@@ -7844,7 +8040,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #198",
@@ -7883,7 +8080,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #199",
@@ -7926,7 +8124,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #200",
@@ -7969,7 +8168,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #201",
@@ -8008,7 +8208,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #202",
@@ -8043,7 +8244,8 @@
         "trait_type": "Border",
         "value": "Artwork17"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #203",
@@ -8082,7 +8284,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #204",
@@ -8117,7 +8320,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #205",
@@ -8148,7 +8352,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #206",
@@ -8191,7 +8396,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #207",
@@ -8226,7 +8432,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #208",
@@ -8261,7 +8468,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #209",
@@ -8308,7 +8516,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #210",
@@ -8355,7 +8564,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #211",
@@ -8406,7 +8616,8 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #212",
@@ -8445,7 +8656,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #213",
@@ -8484,7 +8696,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #214",
@@ -8527,7 +8740,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #215",
@@ -8558,7 +8772,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #216",
@@ -8593,7 +8808,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #217",
@@ -8632,7 +8848,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #218",
@@ -8679,7 +8896,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #219",
@@ -8722,7 +8940,8 @@
         "trait_type": "Border",
         "value": "Smear"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #220",
@@ -8761,7 +8980,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #221",
@@ -8804,7 +9024,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #222",
@@ -8839,7 +9060,8 @@
         "trait_type": "Border",
         "value": "Artwork1"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #223",
@@ -8878,7 +9100,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #224",
@@ -8917,7 +9140,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #225",
@@ -8956,7 +9180,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #226",
@@ -8999,7 +9224,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #227",
@@ -9046,7 +9272,8 @@
         "trait_type": "Border",
         "value": "Artwork14"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #228",
@@ -9085,7 +9312,8 @@
         "trait_type": "Border",
         "value": "AbstractPaint"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #229",
@@ -9120,7 +9348,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #230",
@@ -9151,7 +9380,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #231",
@@ -9190,7 +9420,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #232",
@@ -9229,7 +9460,8 @@
         "trait_type": "Border",
         "value": "William"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #233",
@@ -9272,7 +9504,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #234",
@@ -9311,7 +9544,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #235",
@@ -9350,7 +9584,8 @@
         "trait_type": "Border",
         "value": "Artwork8"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #236",
@@ -9393,7 +9628,8 @@
         "trait_type": "Border",
         "value": "Fancy"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #237",
@@ -9432,7 +9668,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #238",
@@ -9471,7 +9708,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #239",
@@ -9506,7 +9744,8 @@
         "trait_type": "Border",
         "value": "Artwork2"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #240",
@@ -9549,7 +9788,8 @@
         "trait_type": "Border",
         "value": "Artwork7"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #241",
@@ -9584,7 +9824,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #242",
@@ -9623,7 +9864,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #243",
@@ -9662,7 +9904,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #244",
@@ -9701,7 +9944,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #245",
@@ -9744,7 +9988,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #246",
@@ -9787,7 +10032,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #247",
@@ -9826,7 +10072,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #248",
@@ -9861,7 +10108,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #249",
@@ -9900,7 +10148,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #250",
@@ -9943,7 +10192,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #251",
@@ -9982,7 +10232,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #252",
@@ -10021,7 +10272,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #253",
@@ -10064,7 +10316,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #254",
@@ -10099,7 +10352,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #255",
@@ -10138,7 +10392,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #256",
@@ -10169,7 +10424,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #257",
@@ -10212,7 +10468,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #258",
@@ -10255,7 +10512,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #259",
@@ -10302,7 +10560,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #260",
@@ -10333,7 +10592,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #261",
@@ -10372,7 +10632,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #262",
@@ -10419,7 +10680,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #263",
@@ -10458,7 +10720,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #264",
@@ -10497,7 +10760,8 @@
         "trait_type": "Border",
         "value": "White"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #265",
@@ -10532,7 +10796,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #266",
@@ -10571,7 +10836,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #267",
@@ -10610,7 +10876,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #268",
@@ -10653,7 +10920,8 @@
         "trait_type": "Border",
         "value": "Grunge"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #269",
@@ -10696,7 +10964,8 @@
         "trait_type": "Border",
         "value": "Grunge"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #270",
@@ -10735,7 +11004,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #271",
@@ -10778,7 +11048,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #272",
@@ -10817,7 +11088,8 @@
         "trait_type": "Border",
         "value": "Grunge"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #273",
@@ -10860,7 +11132,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #274",
@@ -10899,7 +11172,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #275",
@@ -10946,7 +11220,8 @@
         "trait_type": "Border",
         "value": "OldWall"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #276",
@@ -10985,7 +11260,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #277",
@@ -11024,7 +11300,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #278",
@@ -11067,7 +11344,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #279",
@@ -11110,7 +11388,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #280",
@@ -11149,7 +11428,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #281",
@@ -11188,7 +11468,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #282",
@@ -11227,7 +11508,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #283",
@@ -11262,7 +11544,8 @@
         "trait_type": "Border",
         "value": "OldWall"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #284",
@@ -11301,7 +11584,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #285",
@@ -11336,7 +11620,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #286",
@@ -11375,7 +11660,8 @@
         "trait_type": "Border",
         "value": "William"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #287",
@@ -11422,7 +11708,8 @@
         "trait_type": "Border",
         "value": "Artwork1"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #288",
@@ -11457,7 +11744,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #289",
@@ -11492,7 +11780,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #290",
@@ -11535,7 +11824,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #291",
@@ -11570,7 +11860,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #292",
@@ -11609,7 +11900,8 @@
         "trait_type": "Border",
         "value": "InteriorWall"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #293",
@@ -11648,7 +11940,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #294",
@@ -11691,7 +11984,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #295",
@@ -11730,7 +12024,8 @@
         "trait_type": "Border",
         "value": "Artwork17"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #296",
@@ -11765,7 +12060,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #297",
@@ -11808,7 +12104,8 @@
         "trait_type": "Border",
         "value": "Fancy"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #298",
@@ -11851,7 +12148,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #299",
@@ -11886,7 +12184,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #300",
@@ -11921,7 +12220,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #301",
@@ -11960,7 +12260,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #302",
@@ -11999,7 +12300,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #303",
@@ -12042,7 +12344,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #304",
@@ -12081,7 +12384,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #305",
@@ -12120,7 +12424,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #306",
@@ -12159,7 +12464,8 @@
         "trait_type": "Border",
         "value": "Artwork5"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #307",
@@ -12194,7 +12500,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #308",
@@ -12237,7 +12544,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #309",
@@ -12280,7 +12588,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #310",
@@ -12319,7 +12628,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #311",
@@ -12358,7 +12668,8 @@
         "trait_type": "Border",
         "value": "Brick"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #312",
@@ -12389,7 +12700,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #313",
@@ -12428,7 +12740,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #314",
@@ -12467,7 +12780,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #315",
@@ -12510,7 +12824,8 @@
         "trait_type": "Border",
         "value": "Artwork7"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #316",
@@ -12549,7 +12864,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #317",
@@ -12588,7 +12904,8 @@
         "trait_type": "Border",
         "value": "Smear"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #318",
@@ -12627,7 +12944,8 @@
         "trait_type": "Border",
         "value": "Artwork2"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #319",
@@ -12666,7 +12984,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #320",
@@ -12713,7 +13032,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #321",
@@ -12752,7 +13072,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #322",
@@ -12787,7 +13108,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #323",
@@ -12826,7 +13148,8 @@
         "trait_type": "Border",
         "value": "WoodFloor"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #324",
@@ -12865,7 +13188,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #325",
@@ -12896,7 +13220,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #326",
@@ -12935,7 +13260,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #327",
@@ -12974,7 +13300,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #328",
@@ -13017,7 +13344,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #329",
@@ -13056,7 +13384,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #330",
@@ -13087,7 +13416,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #331",
@@ -13126,7 +13456,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #332",
@@ -13165,7 +13496,8 @@
         "trait_type": "Border",
         "value": "Ground"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #333",
@@ -13204,7 +13536,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #334",
@@ -13247,7 +13580,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #335",
@@ -13286,7 +13620,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #336",
@@ -13325,7 +13660,8 @@
         "trait_type": "Border",
         "value": "Artwork8"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #337",
@@ -13356,7 +13692,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #338",
@@ -13399,7 +13736,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #339",
@@ -13442,7 +13780,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #340",
@@ -13481,7 +13820,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #341",
@@ -13516,7 +13856,8 @@
         "trait_type": "Border",
         "value": "InteriorWall"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #342",
@@ -13555,7 +13896,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #343",
@@ -13594,7 +13936,8 @@
         "trait_type": "Border",
         "value": "WoodFloor"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #344",
@@ -13633,7 +13976,8 @@
         "trait_type": "Border",
         "value": "Artwork1"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #345",
@@ -13676,7 +14020,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #346",
@@ -13715,7 +14060,8 @@
         "trait_type": "Border",
         "value": "WoodFloor"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #347",
@@ -13754,7 +14100,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #348",
@@ -13793,7 +14140,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #349",
@@ -13836,7 +14184,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #350",
@@ -13879,7 +14228,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #351",
@@ -13918,7 +14268,8 @@
         "trait_type": "Border",
         "value": "Artwork10"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #352",
@@ -13957,7 +14308,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #353",
@@ -13992,7 +14344,8 @@
         "trait_type": "Border",
         "value": "Trippy"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #354",
@@ -14031,7 +14384,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #355",
@@ -14070,7 +14424,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #356",
@@ -14105,7 +14460,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #357",
@@ -14144,7 +14500,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #358",
@@ -14179,7 +14536,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #359",
@@ -14218,7 +14576,8 @@
         "trait_type": "Border",
         "value": "Swirls"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #360",
@@ -14261,7 +14620,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #361",
@@ -14304,7 +14664,8 @@
         "trait_type": "Border",
         "value": "Smear"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #362",
@@ -14339,7 +14700,8 @@
         "trait_type": "Border",
         "value": "GrungeWall"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #363",
@@ -14374,7 +14736,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #364",
@@ -14417,7 +14780,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #365",
@@ -14456,7 +14820,8 @@
         "trait_type": "Border",
         "value": "Eth"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #366",
@@ -14495,7 +14860,8 @@
         "trait_type": "Border",
         "value": "Pebble"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #367",
@@ -14538,7 +14904,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #368",
@@ -14577,7 +14944,8 @@
         "trait_type": "Border",
         "value": "LightWood"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #369",
@@ -14620,7 +14988,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #370",
@@ -14659,7 +15028,8 @@
         "trait_type": "Border",
         "value": "Artwork14"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #371",
@@ -14694,7 +15064,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #372",
@@ -14729,7 +15100,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #373",
@@ -14768,7 +15140,8 @@
         "trait_type": "Border",
         "value": "Pottery"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #374",
@@ -14815,7 +15188,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #375",
@@ -14854,7 +15228,8 @@
         "trait_type": "Border",
         "value": "Artwork4"
       }
-    ]
+    ],
+    "background_color": "FFFF00"
   },
   {
     "name": "Boomboxhead #376",
@@ -14897,7 +15272,8 @@
         "trait_type": "Border",
         "value": "Lucky"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #377",
@@ -14940,7 +15316,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #378",
@@ -14979,7 +15356,8 @@
         "trait_type": "Border",
         "value": "PinkSwirl"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #379",
@@ -15018,7 +15396,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #380",
@@ -15061,7 +15440,8 @@
         "trait_type": "Border",
         "value": "Cyberpunk"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #381",
@@ -15100,7 +15480,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #382",
@@ -15139,7 +15520,8 @@
         "trait_type": "Border",
         "value": "BrickWall"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #383",
@@ -15174,7 +15556,8 @@
         "trait_type": "Border",
         "value": "Artwork13"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #384",
@@ -15209,7 +15592,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #385",
@@ -15252,7 +15636,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "008080"
   },
   {
     "name": "Boomboxhead #386",
@@ -15295,7 +15680,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #387",
@@ -15334,7 +15720,8 @@
         "trait_type": "Border",
         "value": "Artwork12"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #388",
@@ -15373,7 +15760,8 @@
         "trait_type": "Border",
         "value": "GlitchBlue"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #389",
@@ -15408,7 +15796,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #390",
@@ -15455,7 +15844,8 @@
         "trait_type": "Border",
         "value": "Artwork3"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #391",
@@ -15486,7 +15876,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #392",
@@ -15521,7 +15912,8 @@
         "trait_type": "Border",
         "value": "Fancy"
       }
-    ]
+    ],
+    "background_color": "FFC0CB"
   },
   {
     "name": "Boomboxhead #393",
@@ -15564,7 +15956,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #394",
@@ -15611,7 +16004,8 @@
         "trait_type": "Border",
         "value": "Liquid"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #395",
@@ -15654,7 +16048,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #396",
@@ -15697,7 +16092,8 @@
         "trait_type": "Border",
         "value": "Artwork15"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #397",
@@ -15736,7 +16132,8 @@
         "trait_type": "Border",
         "value": "DarkRed"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #398",
@@ -15771,7 +16168,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #399",
@@ -15814,7 +16212,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #400",
@@ -15853,7 +16252,8 @@
         "trait_type": "Border",
         "value": "Frozen"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #401",
@@ -15896,7 +16296,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "FFFFFF"
   },
   {
     "name": "Boomboxhead #402",
@@ -15935,7 +16336,8 @@
         "trait_type": "Border",
         "value": "RustSteel"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #403",
@@ -15978,7 +16380,8 @@
         "trait_type": "Border",
         "value": "Artwork9"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #404",
@@ -16017,7 +16420,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #405",
@@ -16052,7 +16456,8 @@
         "trait_type": "Border",
         "value": "Grids"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #406",
@@ -16095,7 +16500,8 @@
         "trait_type": "Border",
         "value": "Golden"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #407",
@@ -16138,7 +16544,8 @@
         "trait_type": "Border",
         "value": "Moss"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #408",
@@ -16181,7 +16588,8 @@
         "trait_type": "Border",
         "value": "Wall"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #409",
@@ -16228,7 +16636,8 @@
         "trait_type": "Border",
         "value": "Artwork6"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #410",
@@ -16259,7 +16668,8 @@
         "trait_type": "Border",
         "value": "Panels"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #411",
@@ -16294,7 +16704,8 @@
         "trait_type": "Border",
         "value": "Artwork16"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #412",
@@ -16345,7 +16756,8 @@
         "trait_type": "Border",
         "value": "InteriorWall"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #413",
@@ -16388,7 +16800,8 @@
         "trait_type": "Border",
         "value": "Artwork1"
       }
-    ]
+    ],
+    "background_color": "FF0000"
   },
   {
     "name": "Boomboxhead #414",
@@ -16427,7 +16840,8 @@
         "trait_type": "Border",
         "value": "Steel"
       }
-    ]
+    ],
+    "background_color": "0000FF"
   },
   {
     "name": "Boomboxhead #415",
@@ -16478,7 +16892,8 @@
         "trait_type": "Border",
         "value": "Gizmos"
       }
-    ]
+    ],
+    "background_color": "90EE90"
   },
   {
     "name": "Boomboxhead #416",
@@ -16513,7 +16928,8 @@
         "trait_type": "Border",
         "value": "Fancy"
       }
-    ]
+    ],
+    "background_color": "000000"
   },
   {
     "name": "Boomboxhead #417",
@@ -16552,7 +16968,8 @@
         "trait_type": "Border",
         "value": "Heart"
       }
-    ]
+    ],
+    "background_color": "FFA500"
   },
   {
     "name": "Boomboxhead #418",
@@ -16595,7 +17012,8 @@
         "trait_type": "Border",
         "value": "Deco"
       }
-    ]
+    ],
+    "background_color": "800080"
   },
   {
     "name": "Boomboxhead #419",
@@ -16630,7 +17048,8 @@
         "trait_type": "Border",
         "value": "Artwork11"
       }
-    ]
+    ],
+    "background_color": "008000"
   },
   {
     "name": "Boomboxhead #420",
@@ -16673,6 +17092,7 @@
         "trait_type": "Border",
         "value": "BlueWall"
       }
-    ]
+    ],
+    "background_color": "008000"
   }
 ]
