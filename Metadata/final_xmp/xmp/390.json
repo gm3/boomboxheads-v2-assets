@@ -1,0 +1,21 @@
+{
+  "packets": [
+    {
+      "name": "Boomboxhead #390",
+      "author": "Boomboxhead",
+      "description": "Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They are 3d multi-format NFTs including artwork, a VRM avatar, and a posed GLB. The assets are available for public use under the CC0 license. This project was produced with boom-tools, an open-source project, running on Unity3d.",
+      "vrm_url": "ipfs://bafybeifhsm5asfmm4vwl3xa3bjqsizl3id3ovaj6e337r36ygf3t7e3rqq/390.vrm",
+      "image": "ipfs://bafybeigoxipdqvxdfgn2vvq4xjcvprdkubdbs5v5h3qcbjv3mmwcpuwake/390.jpg",
+      "external_url": "https://twitter.com/boomboxheads",
+      "Hat": "Wick",
+      "Mouth": "EQ",
+      "Eyes": "Goggles",
+      "Back": "UncannyBackpack",
+      "BodyTexture": "Orange",
+      "Pose": "Strut",
+      "BGColor": "Purple",
+      "BBTexture": "OpenSource",
+      "Border": "Artwork3"
+    }
+  ]
+}
