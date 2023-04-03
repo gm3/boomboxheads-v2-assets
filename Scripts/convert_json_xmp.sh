@@ -31,7 +31,7 @@ do
       echo "      \"external_url\": \"$external_url\"," >> $OUTPUT_FILE
 
       # Extract values for each property in the array
-      properties=("Hat" "Eyes" "BodyTexture" "Pose" "BGColor" "BBTexture" "Border" "Back")
+      properties=("Hat" "Eyes" "BodyTexture" "Pose" "BGColor" "BBTexture" "Border" "Back" "Mouth" "Special")
       attribute_count=$(jq '.attributes | length' <<< "$line")
       for ((i=0;i<$attribute_count;i++)); do
         trait_type=$(jq -r ".attributes[$i].trait_type" <<< "$line")
