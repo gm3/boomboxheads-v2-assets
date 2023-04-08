@@ -31,15 +31,6 @@ The entire collection is available under a CC0 license, allowing for commercial 
 ![](https://hackmd.io/_uploads/H17DWbqeh.png)
 
 
-    
-## Whitelist
-
-If you are a holder of any Boomboxheads v1 or Boomboxheads Legends you are automatically on the whitelist to mint 2 NFTs! You can also get on the whitelist by joining the discord discord.gg/ad6Cj6PQ84, and dropping your 0x address in the registration form here https://053btxrh5ud.typeform.com/to/icxEnCLA 
-    
-The whitelist price will be .03 and the public mint will be .06! If you have any questions please join the discord! Thank you for supporting this research! Have fun! 
-    
-![](https://hackmd.io/_uploads/rkaxlcI12.jpg)
-
 ## Boomboxhead v2 Traits and Metadata
 
 ### Multi-Format NFT
