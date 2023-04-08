@@ -1,8 +1,7 @@
 <center>
     
 # Boomboxheads V2  
-    
-* https://gm3.github.io/bbdapp/ Project Home Page
+
 * https://twitter.com/boomboxheads Project Twitter
 * https://discord.gg/ad6Cj6PQ84 Project Discord
     
