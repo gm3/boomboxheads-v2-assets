@@ -1,0 +1,40 @@
+{
+  "name": "Boomboxhead #60",
+  "created_by": "Boomboxhead",
+  "external_url": "https://twitter.com/boomboxheads",
+  "description": "Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They are 3d multi-format NFTs including artwork, a VRM avatar, and a posed GLB. The assets are available for public use under the CC0 license. This project was produced with boom-tools, an open-source project, running on Unity3d. JPEG: ipfs://bafybeifugeybqyo5zoa3xiy6shccsckxcvgycyzoe23tvzwyevrmlijk3e/60.jpg GLB: ipfs://bafybeih4y4i6mopovovk3nkol6vqvt3lnoa3rfwmftfymlffht4ue4tfhq/60.glb VRM: ipfs://QmURAuSRmFFAyragN3h6M6thhMhBPQmNgoNJApDSvob3D5/60.vrm",
+  "vrm_url": "ipfs://QmURAuSRmFFAyragN3h6M6thhMhBPQmNgoNJApDSvob3D5/60.vrm",
+  "animation_url": "ipfs://bafybeih4y4i6mopovovk3nkol6vqvt3lnoa3rfwmftfymlffht4ue4tfhq/60.glb",
+  "image": "ipfs://bafybeie3ow32iwzv43tkbzmdim27ri5n3weyqqjny576inu3tcxp7tuzyi",
+  "background_color": "90EE90",
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "BodyTexture",
+      "value": "RustSteel"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Look"
+    },
+    {
+      "trait_type": "BGColor",
+      "value": "LightGreen"
+    },
+    {
+      "trait_type": "BBTexture",
+      "value": "Smiles"
+    },
+    {
+      "trait_type": "Border",
+      "value": "LightWood"
+    },
+    {
+      "trait_type": "Back",
+      "value": "UncannyBackpack"
+    }
+  ]
+}

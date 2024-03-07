@@ -1,0 +1,36 @@
+{
+  "name": "Boomboxhead #204",
+  "created_by": "Boomboxhead",
+  "external_url": "https://twitter.com/boomboxheads",
+  "description": "Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They are 3d multi-format NFTs including artwork, a VRM avatar, and a posed GLB. The assets are available for public use under the CC0 license. This project was produced with boom-tools, an open-source project, running on Unity3d. JPEG: ipfs://bafybeihpjrmt4rymivyseivjelkw6vwie2t5a26nelsrve42344tnjariu/204.jpg GLB: ipfs://bafybeibuyk7v7isj4pmzd5r77ycdonxp4qhyizdzwgu6rf6os5u5mue6hm/204.glb VRM: ipfs://QmURAuSRmFFAyragN3h6M6thhMhBPQmNgoNJApDSvob3D5/204.vrm",
+  "vrm_url": "ipfs://QmURAuSRmFFAyragN3h6M6thhMhBPQmNgoNJApDSvob3D5/204.vrm",
+  "animation_url": "ipfs://bafybeibuyk7v7isj4pmzd5r77ycdonxp4qhyizdzwgu6rf6os5u5mue6hm/204.glb",
+  "image": "ipfs://bafybeigkof3b572p3ghqn37pf6gr6gzpnn5bwmv7tsatzopeyvzrxe3ghu",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "BodyTexture",
+      "value": "Purp"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Idle"
+    },
+    {
+      "trait_type": "BGColor",
+      "value": "Black"
+    },
+    {
+      "trait_type": "BBTexture",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Border",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Back",
+      "value": "UncannyBackpack"
+    }
+  ]
+}

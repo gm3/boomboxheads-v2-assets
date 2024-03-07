@@ -1,0 +1,36 @@
+{
+  "name": "Boomboxhead #241",
+  "created_by": "Boomboxhead",
+  "external_url": "https://twitter.com/boomboxheads",
+  "description": "Boomboxheads V2 is a collection of 420 CC0 avatars on the Ethereum Network. They are 3d multi-format NFTs including artwork, a VRM avatar, and a posed GLB. The assets are available for public use under the CC0 license. This project was produced with boom-tools, an open-source project, running on Unity3d. JPEG: ipfs://bafybeibl4iilavfgzoudbwndtcklchhkxwcosmuiyqy3ablqn3af6yxrky/241.jpg GLB: ipfs://bafybeifyaq5hv3rln3e4rsz6qttre4u2owww7o4g2vowfsj6skuayzrggm/241.glb VRM: ipfs://bafybeigkgt3ord3rqgc4qi5jssps2qpk4gw4xkoys4zmhvnmyuonnl43sy/241.vrm",
+  "vrm_url": "ipfs://bafybeigkgt3ord3rqgc4qi5jssps2qpk4gw4xkoys4zmhvnmyuonnl43sy/241.vrm",
+  "animation_url": "ipfs://bafybeifyaq5hv3rln3e4rsz6qttre4u2owww7o4g2vowfsj6skuayzrggm/241.glb",
+  "image": "ipfs://bafybeibmjpvaw472h62pk3vhs7jq4xuqopwf47f5jcgplidfpy3y4w2zqu",
+  "background_color": "FF489E",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Neo"
+    },
+    {
+      "trait_type": "BodyTexture",
+      "value": "Skele"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Taunt"
+    },
+    {
+      "trait_type": "BGColor",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "BBTexture",
+      "value": "Soundwaves"
+    },
+    {
+      "trait_type": "Border",
+      "value": "BrickWall"
+    }
+  ]
+}
